@@ -42,7 +42,7 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she can only come into play in her home site. Return it to its owner’s hand with a Body check of 7. +2 to direct influence against Spiders and Spider factions. Bogbereth’s Prowess is only modified by -2 when she chooses not tap to face a strike, and -1 if she is wounded."},
 				"quote": 
 					{"en": "“...she took refuge in an ancient ruined tower over the sea in the south of Middle-earth.” – Shadow Tribes"},
-				"image": "Bogbereth.png",
+				"image": "Bogbereth.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -77,7 +77,7 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she can only come into play in her home site. Return it to the owner’s hand with a Body check of 7. +1 Prowess against Elves. +1 to all rolls made by your company to move to an adjacent Underdeep site."},
 				"quote": 
 					{"en": "“...the great marsh spider made her abode in the vicinity of the ancient ruins of Ost-in-Edhil.” – Shadow Tribes"},
-				"image": "Dolomed.png",
+				"image": "Dolomed.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -106,7 +106,7 @@
 					{"en": "Unique. Manifestation of the Immemorial Stone Queen. Playable at The Moss-deeps if the influence check is greater than 11.Modifications: Spider Queen (+3), Gwethil (+2), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered holding. Any company moving into The Moss-deeps faces one attack: Spawn, two strikes of 17/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Unglob Hungried.png",
+				"image": "Unglob Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -133,7 +133,7 @@
 					{"en": "Unique. Spider Queen specific. Playable on a company that contains a Spider Queen or at least one Aberration. You can remove a character in the company or a character in your hand to heal a character in the company (go from wounded to healed to tapped), or untap two Spider characters."},
 				"quote": 
 					{"en": ""},
-				"image": "A Fly in the Spider's Web.png",
+				"image": "A Fly in the Spider's Web.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -159,7 +159,7 @@
 					{"en": "Tap two Warrior characters in the same company to play this card on their company. During the setup phase, you may tap a Warrior to take a minor or major item from your sideboard or discard pile and put it “aside” with this card. This item does not gives marshalling points. A maximum of one item can be placed with this card at a time. After the target company defeats a creature with a marshalling point value of 2 or more, you may tap a Warrior to play an item placed with this card on it as if it were in your hand."},
 				"quote": 
 					{"en": ""},
-				"image": "A Great Hoard.png",
+				"image": "A Great Hoard.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -185,7 +185,7 @@
 					{"en": "All Slayers hazard creature attacks may be placed in any Shadow-land [s]. If Morgul Night or Doors of Night is in play, all Slayers hazard creature attacks may be placed in any Dark-domain [d]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "A Knife in the Dark.png",
+				"image": "A Knife in the Dark.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -213,7 +213,7 @@
 					{"en": "Spider Queen specific. Playable on a Spiderhaven [K]. Your characters may store Trophy cards under this card. The character must make a corruption check for each Trophy he stores for this purpose. For every 2 Trophy cards under this card, gives 1 marshalling point (up to a maximum of 3). Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": "“I thought her Sneak had brought her a toy, or that you’d perhaps sent her a present…” – LotR II"},
-				"image": "A Present.png",
+				"image": "A Present.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -242,7 +242,7 @@
 					{"en": "Unique. Playable on a unique hero character with Mind less than 4 in your hand. The character may be played as a agent against a dark player. If the character is defeated, place this card on the opponent’s marshalling point pile, this card gives 1 marshalling point plus the marshalling points indicated on the character card."},
 				"quote": 
 					{"en": ""},
-				"image": "A Spy Among Us.png",
+				"image": "A Spy Among Us.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -268,7 +268,7 @@
 					{"en": "All characters other than Spider Queen, Aberration, or Spider whose company moves through a region with Rot receive -1 to prowess and +1 to their corruption checks until the end of the turn. Cannot be duplicated."},
 				"quote": 
 					{"en": "“Out of it came a stench, not the sickly odour of decay in the meads of Morgul…” - SdlA II"},
-				"image": "A Stench.png",
+				"image": "A Stench.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -294,7 +294,7 @@
 					{"en": "Spider Queen specific. Playable on an Aberration, Spider Leader or Spider Queen character who bearer a Trophy. Once per turn, you may remove a Trophy bearer by the target character to be untapped. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“When she binds with cords, she’s after meat. She doesn’t eat dead meat, nor suck cold blood.” – LotR II"},
-				"image": "After Meat.png",
+				"image": "After Meat.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -323,7 +323,7 @@
 					{"en": "Unique. Playable at Buhr Ailgra (or Buhr Widu if you discard a minor item in the company) if the influence check is greater than 7.Modifications: Men (+1)"},
 				"quote": 
 					{"en": "“…the ëothraim were the main allies of Gondor, united by treaties and lineage…” – Shadow Tribes"},
-				"image": "Ailgarthas.png",
+				"image": "Ailgarthas.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -352,7 +352,7 @@
 					{"en": "Unique. Manifestation of heroes Ailgarthas. Playable at Buhr Ailgra (or Buhr Widu if you discard a minor item in the company) if the influence check is greater than 9.Modifications: Easterlings (-2), Wain-easterlings (-3)."},
 				"quote": 
 					{"en": "“…they were devastated by the Great Plague and subsequently nearly annihilated by the Eastlings.” – Shadow Tribes"},
-				"image": "Ailgarthas.1.png",
+				"image": "Ailgarthas.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -386,7 +386,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ancient Deep-hold.png",
+				"image": "Ancient Deep-hold.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -412,7 +412,7 @@
 					{"en": "All non Dragon lair´s Ruins and Lairs [R] in a Rot region, gain an additional automatic attack: Spider, 1 strike of Prowess 8 (cannot be canceled; detainment against companies that contain a Spider Queen and/or Aberration)."},
 				"quote": 
 					{"en": "“But there were still five dwarfs hanging from the end of the branch, when the spiders began to return, more rabid than ever.” – Hob"},
-				"image": "Angier than Ever.png",
+				"image": "Angier than Ever.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -444,7 +444,7 @@
 					{"en": "Unique. Slayer. Playable at Angmar and all sites in that region. Two attacks (one strike each) against the same character. The attacker chooses the defending characters. +1 Prowess against Dwarves and Dúnedain. The defending player may choose to tap a character in the same company to cancel one of these attacks. If Angmar Arises is in play, may also be keyed to any region adjacent to Angmar."},
 				"quote": 
 					{"en": ""},
-				"image": "Angmarian Slayer.png",
+				"image": "Angmarian Slayer.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -479,7 +479,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 7. +1 Prowess against Dwarves. If Crazy Cob, Lazy Lob and/or Old Pob are in the same company, reduce Angry Gob Mind by 1."},
 				"quote": 
 					{"en": "“I’ll soon put an end to that,” hissed the angry spider climbing back onto the branch.” – Hob"},
-				"image": "Angry Gob.png",
+				"image": "Angry Gob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -511,7 +511,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Arachnid Tunnels.png",
+				"image": "Arachnid Tunnels.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -539,7 +539,7 @@
 					{"en": "Spider Queen specific. Playable at a tapped or untapped site in a region with Rot if the influence check is greater than 9.Modifications: Spider Queen (+3), Aberration (+2), Spider Leader (+1), any other character (-3).Discard this faction during the site phase to be able to play a Spider character in a Shadow-hold [S] or a Dark-hold [D]."},
 				"quote": 
 					{"en": "“Armies of flies of all kinds were buzzing in their ears and the afternoon sun burned their backs.” – SdlA I"},
-				"image": "Army of Flies.png",
+				"image": "Army of Flies.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -565,7 +565,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if she is not in play She the Watcher. Untap a character in a company containing a Spider Queen, Aberration, or Spider Leader."},
 				"quote": 
 					{"en": "“Don’t stay up there and be netted!” - Hob"},
-				"image": "Be Netted.png",
+				"image": "Be Netted.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -597,7 +597,7 @@
 					{"en": "Unique. Hobbits. Playable only against an overt minion company. Two strikes. All Body checks resulting from a successful Bearers of the Light strike are modified by +1. +3 Prowess against Aberrations and Spiders. May also be keyed to Dagorlad, Ithilien and Wold &amp; Foothills; and may also be played at sites in these regions."},
 				"quote": 
 					{"en": "“‘Galadriel!’ he called, and gathering his courage he lifted up the Phial once more.” – LotR II"},
-				"image": "Bearers of the Light.png",
+				"image": "Bearers of the Light.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -623,7 +623,7 @@
 					{"en": "Spider Queen specific. Playable a company in a region with Rot if your Spider Queen is in play. During your organization phase you can take this card from your complementary deck, and shuffle it into your play deck. Reduce the hazard limit of your Spider Queen’s company by one."},
 				"quote": 
 					{"en": "“…but Ungoliant belched forth black vapours as she drank, and swelled to a shape so vast and hideous that Melkor was afraid.” – Sil"},
-				"image": "Belch Black Vapors.png",
+				"image": "Belch Black Vapors.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -655,7 +655,7 @@
 					{"en": "Unique. Artifact. Playable at a Shadow-hold [S] or a Dark-hold [D] in a region with Rot. +2 to direct influence against Spiders. +1 to the wearer’s Prowess. -1 to Body of all strikes against the bearer that have failed."},
 				"quote": 
 					{"en": ""},
-				"image": "Belt of Rot.png",
+				"image": "Belt of Rot.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -682,7 +682,7 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She the Great. Discard if you play another Potencie card or the Spider Scheme card leaves active play. Once during your movement/hazard phase, you can untap all Spider characters that are tapped in the Spider Queen’s company. If it was untapped, tap the Spider Queen."},
 				"quote": 
 					{"en": ""},
-				"image": "Bloodthirsty.png",
+				"image": "Bloodthirsty.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -709,7 +709,7 @@
 					{"en": "Dark enchantment. Playable on a non-Avatar character facing a strike from a Spider or Spawn creature attack. The character reduces his Prowess and Body by 2. Cannot be duplicated on a given character. If at a Haven/Darkhaven [H,K] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll: if this result is greater than 7, discard this card. Modify the roll by +1 for each Sage character in his company."},
 				"quote": 
 					{"en": "“…they go as limp as boned fish…” – LotR II"},
-				"image": "Boned Fish.png",
+				"image": "Boned Fish.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -737,7 +737,7 @@
 					{"en": "Spider Queen specific. Playable on an adversity creature, or a character from an opposing company, who has been defeated in combat. Instead of being defeated, the target is taken prisoner under this card. Turn a character to put Bring Good Food and the target card under them.Rescue Attack: same race as the wielder, 1 strike of Prowess 5 plus the Prowess of the wielder character. That character cannot be untapped until this card is stored in a Spiderhaven. If stored, the target is eliminated, and this card gives three marshalling points. Cannot be duplicated on the same objetive."},
 				"quote": 
 					{"en": ""},
-				"image": "Bring Good Food.png",
+				"image": "Bring Good Food.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -772,7 +772,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Buhr Ailgra is also an important crossing point for horse breeders.” – Shadow Tribes"},
-				"image": "Buhr Ailgra.png",
+				"image": "Buhr Ailgra.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -807,7 +807,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The capital of the Ailgarthas, the oldest of the six Eothraim tribes.” – Shadow Tribes"},
-				"image": "Buhr Ailgra.1.png",
+				"image": "Buhr Ailgra.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -837,7 +837,7 @@
 					{"en": "Unique. Playable at a non-Dragon lair Ruins and Lairs [R] in a Coastal Sea [c]. Cannot be attacked. Tap Calassë the Oarni to give +1 Prowess to all characters in her company until the end of the phase. Discard Calassë the Oarni if the character controlling her is wounded or her company moves to a site that´s not a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "Calassë the Oarni.png",
+				"image": "Calassë the Oarni.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -870,7 +870,7 @@
 					{"en": "Unique. Demon. Playable at Carvarad by a Diplomat with Mind 6 or higher. Discard if your company moves to a site other than the Horse Plains, Nurn, or a region with Rot. He can play Words of Menace and Deceit on himself (ignores any corruption checks). This ally can attempt to influence factions as if he were a character."},
 				"quote": 
 					{"en": ""},
-				"image": "Carrog.png",
+				"image": "Carrog.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -905,7 +905,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Black as ash, it was impossible to locate it among the steep walls of the Ash Mountains.” – Shadow Tribes"},
-				"image": "Carvarad.1.png",
+				"image": "Carvarad.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -940,7 +940,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“An abandoned tower in the middle of the Ered Lithui…” – Shadow Tribes"},
-				"image": "Carvarad.png",
+				"image": "Carvarad.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -966,7 +966,7 @@
 					{"en": "Playable if Gates of Night is not in play. During your movement/hazards phase you can discard a Spell or Ritual card if you are a hero player, or a Spell card if you are a server player, to remove a Rot marker that is in a region you are moving through the company of your Avatar, or the Magic user. Cannot be duplicated by the same player."},
 				"quote": 
 					{"en": "“...their breath became easier and their heads clearer…” - LotR II"},
-				"image": "Clear up the Stink.png",
+				"image": "Clear up the Stink.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -997,7 +997,7 @@
 					{"en": "Unique. Artifact. Playable at Ruins and Lairs [R] in a region with Rot. Turn the bearer to modify the number of strikes by one or -2 to the Prowess of an Elf or Awakened Plant attack against his company. The bearer must perform a corruption check."},
 				"quote": 
 					{"en": "“A cloak woven from the dark webs of an evil monstrosity.” – Shadow Tribes"},
-				"image": "Cloak of Rot.png",
+				"image": "Cloak of Rot.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1032,7 +1032,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 8. +1 Prowess against Dwarves. If Angry Gob, Lazy Lob and/or Old Pob are in the same company, reduce Crazy Cob Mind by 1."},
 				"quote": 
 					{"en": "“…and crazy Cob weave webs to hunt me…” – Hob"},
-				"image": "Crazy Cob.png",
+				"image": "Crazy Cob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1059,7 +1059,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She Evil Creature is not in play. You can play a Spider Leader character in a site where one of your companies is located, which is a Ruins and Lairs [R] located in a Wilderness [w]. When it comes into play, place this card under the Spider Leader, receive -1 to its Mind."},
 				"quote": 
 					{"en": "“You cannot trap me, though you try, in your cobwebs crazy.” – Hob"},
-				"image": "Crazy Cobwebs.png",
+				"image": "Crazy Cobwebs.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1092,7 +1092,7 @@
 					{"en": "Return it to its owner’s hand with a Body check of 6 or 7. -1 to all its corruption checks. It can be tapped to modify the roll by +1 in an attempt to influence against an Animal or Spider faction."},
 				"quote": 
 					{"en": "“Large spiders from the Wstrikee Mountains characterized by their luminescent skin.” – Shadow Tribes"},
-				"image": "Crystal Spider.png",
+				"image": "Crystal Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1120,7 +1120,7 @@
 					{"en": "Spider Queen specific. Potentie. A company can only be played with an Aberration, rather than a Spider automatic attack, if a character in the company controls a Trophy or Prisoner. Eliminate the Trophy or Prisoner and turn the character controlling it. This site becomes one of your Spiderhavens [K] and loses all automatic attacks to you; other versions of the site gain the following automatic attack: Spawn, 2 strikes of Prowess 15, any character wounded by this attack is immediately eliminated. Discard when the Aberration leaves the site. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "Cult of the Web.png",
+				"image": "Cult of the Web.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1154,7 +1154,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Known as the Valley of Thunder because of a large mountainous elevation frequently surrounded by storm clouds.” – Shadow Tribes"},
-				"image": "Cûm Taran.png",
+				"image": "Cûm Taran.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1188,7 +1188,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Sacred ground of the Daen marked by a tower that stood on a low hill.” – Shadow Tribes"},
-				"image": "Cûm Taran.1.png",
+				"image": "Cûm Taran.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1215,7 +1215,7 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable on She the Great or She the Watcher during the organization phase. Discard if you play another Potencie card or a Spider Scheme card leaves active play. Your Spider Queen may be tapped to modify a corruption check made by an Aberration or Spider character by +2."},
 				"quote": 
 					{"en": "“…cutting him off from light and from regret.” – LotR II"},
-				"image": "Cutt off from Light.png",
+				"image": "Cutt off from Light.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1243,7 +1243,7 @@
 					{"en": "Playable at a tapped or untapped site in a Wilderness [w] if the influence check is greater than 11.Modifications: if Radagast is your Wizard (+3), if Gandalf is your Wizard (+1), Hobbits (+1).Discard this faction to give +2 to the roll on a corruption check."},
 				"quote": 
 					{"en": "“…butterfly that loves the tops of oak-woods, but these were not purple at all, they were a dark dark velvety black…” – Hob"},
-				"image": "Dark Velvety Butterflies.png",
+				"image": "Dark Velvety Butterflies.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1272,7 +1272,7 @@
 					{"en": "Unique. Spider Queen specific. Playable on your Spider Queen if she is in a Spiderhaven [K]. At the end of the game, this card gives 1 marshalling point for every 4 regions with Rot, up to a maximum of 4 marshalling points."},
 				"quote": 
 					{"en": "“…Frodo or Sam known such darkness, and if possible here it was deeper and denser.” – LotR II"},
-				"image": "Deeper and Denser Darkness.png",
+				"image": "Deeper and Denser Darkness.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1304,7 +1304,7 @@
 					{"en": "Unique. Eagle. Playable located in Eagle´s Eyre or in any Ruins and Lairs [R] in Anduin Vales. You can discard Descendant of Thorondor to cancel the attack against his company from a lasting event adversity from a Dragon manifestation in Anduin Vales and/or its adjacent regions."},
 				"quote": 
 					{"en": ""},
-				"image": "Descendant of Thorondor.png",
+				"image": "Descendant of Thorondor.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1335,7 +1335,7 @@
 					{"en": "Spiders. Two strikes. +1 to all Body checks as a result of missing a strike against Desert Spiders. May also be keyed to Harondor, Khand and Horse Plains; and also be played in all Ruins and Lairs [R] in these regions."},
 				"quote": 
 					{"en": "“They will come on you in the wild, in some dark place where there is no help.” – SdlA I"},
-				"image": "Desert Spiders.png",
+				"image": "Desert Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1363,7 +1363,7 @@
 					{"en": "Playable during the sites phase on one of your companies after facing the site’s automatic attacks, if it contains a Ringwraith or a Leader with Mind 7 or higher, and usually the hero version of the site is a Haven [H]. Turn the site. The company faces 3 attacks (cannot be canceled): Elves, 4 strikes with Prowess 9; Elves, 3 strikes with Prowess 10; Elf Lord, 1 strike with Prowess 16. Then tap the Ringwraith or Leader, or discard this card. If not discarded, all versions of the Haven become Ruins and Lairs [R], lose all their automatic attacks and gain the following (detainment against servers): Orcs, 2 strikes of Prowess 9; Trolls, 1 strike of Prowess 11. No hero player may play resource cards in the site. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "Destroy the Last Havens.png",
+				"image": "Destroy the Last Havens.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1395,7 +1395,7 @@
 					{"en": "Unique. Demon. Maia. Manifestation of Mourfuin. As a creature, playable at The Igneous Grottos. Two strikes. If Gates of Night is in play, it can also be played anywhere in the Underdeeps. As a permanent event, reduces by 1 all corruption rolls made by using a Spell or Magic card."},
 				"quote": 
 					{"en": ""},
-				"image": "Devam of Ash.png",
+				"image": "Devam of Ash.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1430,7 +1430,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“A place destined for rituals and sacrifices of ancients.” – Shadow Tribes"},
-				"image": "Devams Shrine.1.png",
+				"image": "Devams Shrine.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1465,7 +1465,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Along the Epel Dúath is the sanctuary of the Devam demons.” – Shadow Tribes"},
-				"image": "Devam´s Shrine.png",
+				"image": "Devam´s Shrine.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1493,7 +1493,7 @@
 					{"en": "Spider Queen specific. Your Spider Queen can only be played if she is wearing The One Ring and is in a Spiderhaven [K] that is in a region with Rot. Roll and add one for every three regions with Rot and every other Devour All Prowess in play. If the result is: less than 7, your Spider Queen is eliminated; 7 to 9, discard this card; 10 to 12, you gain 2 marshalling points; greater than 13, you win the game. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…who only desired death for all others…” – LotR II"},
-				"image": "Devour All Prowess.png",
+				"image": "Devour All Prowess.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1521,7 +1521,7 @@
 					{"en": "Playable on a company that contains an Aberration and at least one Spider character. Choose a Spider character from the company and make a roll, if the result is less than the difference between the Mind of Aberration and the Mind of the target Spider, the Aberration makes an attack against the Spider (resolve the combat as if it were a combat between companies, one formed by the Aberration and another by the target Spider). It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…bastards of the miserable mates, her own offspring, that she slew…” – LotR II"},
-				"image": "Devour your Mates.png",
+				"image": "Devour your Mates.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1548,7 +1548,7 @@
 					{"en": "Dark enchantment. Playable on a non-Avatar character facing a strike from a Spider or Spawn creature attack. The character increases his Mind by 2. Cannot be duplicated on a given character. If at a Haven/Darkhaven [H,K] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll: if this result is greater than 8, discard this card. Modify the roll by +1 for each Sage character in his company."},
 				"quote": 
 					{"en": "“… although he felt dizzy and sick because of the spiders’ poison…” – Hob"},
-				"image": "Dizzy and Sick.png",
+				"image": "Dizzy and Sick.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1580,7 +1580,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Dol Guldur.png",
+				"image": "Dol Guldur.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1612,7 +1612,7 @@
 					{"en": "Unique. Demon. Can only be played on Tum-i-Cereg Warrior with Prowess 6 or higher. Discard if your company moves to a site that is not in a region in Old Pûke Gap, Old Pûkel-land, or a region with Rot. You can play Well-preserved (ignores any corruption checks). Can be tapped to cancel a Pûkel Creature attack."},
 				"quote": 
 					{"en": ""},
-				"image": "Dûran.png",
+				"image": "Dûran.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1642,7 +1642,7 @@
 					{"en": "Unique. Eagle´s Eyrie gains an additional automatic attack against overt companies: Animals. Eagles, 3 strikes of 14/7 (attacker chooses defending characters). +2 Prowess against Aberrations, Spiders and Dragons.Additionally, a unique manifestation of Eagle may be played against each company without counting agains harzard limit."},
 				"quote": 
 					{"en": ""},
-				"image": "Eagles at Home.png",
+				"image": "Eagles at Home.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1677,7 +1677,7 @@
 					{"en": "Unique. Manifestation of Ungoliant’s Foul Issue. Unless he is one of the starting characters, he can only come into play in his home site. +3 to direct influence against Spiders and Spider factions. Eagoth’s Prowess is only modified by -1 when he chooses not to turn to face a strike. +2 to all rolls made by his company to move to an adjacent Under-deeps site."},
 				"quote": 
 					{"en": "“The Great Spawn from the Far South roams the underground ruins to spread its seed into great Spiders of Middle Earth.” – Shadow Tribes"},
-				"image": "Eagoth.png",
+				"image": "Eagoth.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1706,7 +1706,7 @@
 					{"en": "Unique. Manifestation of Ungoliant’s Foul Issue. Playable at Ancient Deep-hold if the influence check is greater than 12.Modifications: Spider Queen (+3), Spider Leader (+1), for each other Aberration faction in play (+1), any other character (-3).All Spawn attacks against any of your companies are considered holding. Any company that moves to Ancient Deep-hold faces one attack: Spawn, two strikes of 17/7 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Eagoth Hungried.png",
+				"image": "Eagoth Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1733,7 +1733,7 @@
 					{"en": "Playable on an Aberration, Spider, Demon or Spider Queen character (or ally) if Gates of Morning or Sun is in play. The character (or ally) receives -1 to Prowess and -2 to Body. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“Aiya Eärendil Elenion Ancalima! -he cried, and knew not what he had spoken…” – LotR II"},
-				"image": "Elenion Ancalima!.png",
+				"image": "Elenion Ancalima!.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -1763,7 +1763,7 @@
 					{"en": "Unique. Manifestation of Spider of Môrlat. +2 to direct influence against Spiders, Orcs, Spider factions, and Orc factions. She can use Shadow magic. She cannot use basic or region movement, except if you move to a location in Mirkwood (except Woodland Realm) or a region with Rot. All Body checks as a result of missing a strike against Enna San Sarab are modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "Enna San Sarab.png",
+				"image": "Enna San Sarab.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1791,7 +1791,7 @@
 					{"en": "Playable at a tapped or untapped Shadow-hold [S] in a region with Rot if the influence check is greater than 9.Modifications: Spider Queen (+3), Aberration (+2), Spider Leader (+1), any other character (-3).You can discard Ennerlings to untap an Aberration character."},
 				"quote": 
 					{"en": "“When about fifty had gone off to the place where he had stood before…” – Hob"},
-				"image": "Ennerlings.png",
+				"image": "Ennerlings.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1823,7 +1823,7 @@
 					{"en": "Unique. Demon. Playable at Ûgûlai by a Ranger whose sum of Body and Mind is 13 or higher. Discard if your company moves to a site other than Gundabad, Anduin Vales, or a region with Rot. May play Gold Chains in the Wind (ignore any corruption checks). Once per turn, ignore the requirement to tap a Ranger character for the first card played in or against your company that requires you to tap a Ranger character."},
 				"quote": 
 					{"en": ""},
-				"image": "Faebartha.png",
+				"image": "Faebartha.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1856,7 +1856,7 @@
 					{"en": "Return it to its owner’s hand with a Body check of 7 or 8. -1 to all its corruption checks. Her company may only move to a site keyed in a Coastal Sea [c] or a surface site keyed in a region adjacent to a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "Fastiqan.png",
+				"image": "Fastiqan.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1891,7 +1891,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 9. The company only must use region movement, and only move through Coastal Sea [c] and one less region than usual. It can be tapped to cancel any effect that forces your company to return to its original location or tap its new location; when tapped for this purpose, it must make a Body check."},
 				"quote": 
 					{"en": ""},
-				"image": "Fastitocalón.png",
+				"image": "Fastitocalón.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1917,7 +1917,7 @@
 					{"en": "Playable during the movement phase against a Spider or Demon ally. The ally makes an attack against a character with the same or lower Mind attribute in his company (opponent chooses). Next, resolve a combat as if it were a combat between companies, one consisting of the target Spider or Demon ally and another of the defending character. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…brooding on her feasts…” – LotR II"},
-				"image": "Feast of Spiders.png",
+				"image": "Feast of Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1948,7 +1948,7 @@
 					{"en": "Animal. One strike. The attacker chooses the defending characters. As a creature, may also be keyed to Mirkwood regions with +2 Prowess; and may also be played at sites in these regions.As a short event, you can take an Animal creature adversity from your discard pile and put it into your hand."},
 				"quote": 
 					{"en": "“Out of the gloom came suddenly the shape of a flying deer.” – Hob"},
-				"image": "Flying Deer.png",
+				"image": "Flying Deer.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -1981,7 +1981,7 @@
 					{"en": "Return to its owner’s hand with a Body check of 7 or 8. +1 Prowess against Dwarves. -1 to all its corruption checks."},
 				"quote": 
 					{"en": "“Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.” – Hob"},
-				"image": "Forest Spider.png",
+				"image": "Forest Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2012,7 +2012,7 @@
 					{"en": "Draque. Two strikes. The attacker chooses the defending characters. May play keyed in any region of Mirkwood; and may also be played in all adjacent regions."},
 				"quote": 
 					{"en": "“Think of the treasure at the end, and forget the forest and the dragon, at any rate until tomorrow morning!” – Hob"},
-				"image": "Forest-drake.png",
+				"image": "Forest-drake.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2039,7 +2039,7 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She the Watcher. Discard if you play another Potencie card or the Spider Scheme card leaves active play. Your Spider Queen may tap to choose one of your companies and increase the Prowess and Body of all Aberration and Spider characters and allies by 1 until the end of the turn."},
 				"quote": 
 					{"en": "“…untroubled by the foul air of the pit.” – LotR II"},
-				"image": "Foul Air.png",
+				"image": "Foul Air.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2072,7 +2072,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Geann a-Lisch.png",
+				"image": "Geann a-Lisch.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2107,7 +2107,7 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she can only come into play in her home site. Return it to its owner’s hand with a Body check of 8. +1 to Prowess against Men and Orcs. +1 to direct influence against Spiders and Spider factions. If Fell Winter, Long Winter, or Snowstorm is in play, Gelob receives +1 Prowess and Body."},
 				"quote": 
 					{"en": "“The great ice spider lives settled in some ancient ruins abandoned by the Dwarves.” – Shadow Tribes"},
-				"image": "Gelob.png",
+				"image": "Gelob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2133,7 +2133,7 @@
 					{"en": "Playable if Gates of Night is not in play. Once per turn you can discard an Environment card from your hand to remove a Rot marker. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…and with every stride they climbed higher above the stenches of the unseen lair, and strength returned to limb and heart.” - LotR II"},
-				"image": "Get Away from the Stink.png",
+				"image": "Get Away from the Stink.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2164,7 +2164,7 @@
 					{"en": "Unique. Weapon. Hoard Item. +2 to the wearer’s Prowess up to a maximum of 8 (+3 to Prowess against Spiders). Even if tapped, the bearer can be assigned as a defender against any strike from an attack that does not target the defending characters."},
 				"quote": 
 					{"en": "“It is said that she is forged from the purest mithril, with the hilt lined with mother-of-pearl and a ruby set in the pommel.” – Shadow Tribes"},
-				"image": "Gildagor.png",
+				"image": "Gildagor.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2196,7 +2196,7 @@
 					{"en": "Unique. Spider. Playable in a site that contains an automatic Spider attack keyed in a Rot region. Tap this card to cancel a Spider attack against your company. Tap the Great Spider to give +2 to any influence attempt made by a character in your company against a faction of Spiders."},
 				"quote": 
 					{"en": "“Then the great spider, who had been busy tying him up while he dozed, came from behind him and came at him.” – Hob"},
-				"image": "Great Spider.png",
+				"image": "Great Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2231,7 +2231,7 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she can only come into play in his native place. Return to its owner’s hand with a Body check of 9. +1 to her direct influence against Spiders and Spider factions. If Choking Shadows is in play, Gwethil modifies all of her Body checks by -1."},
 				"quote": 
 					{"en": "“His escape from Mirkwood led him to settle in a ruin south of the borders of Mirkwood.” – Shadow Tribes"},
-				"image": "Gwethil.png",
+				"image": "Gwethil.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2266,7 +2266,7 @@
 					{"en": "Unique. +1 Prowess against Spiders and Orcs. His company is not affected by the effect of Beorning Skin-changers. Haleth Keusan can use Skin-changer as if he was Beorn."},
 				"quote": 
 					{"en": "“...many strong men and neither orcs nor wolves dared enter his country, between the mountains and Mirkwood.” – SdlA I"},
-				"image": "Haleth Keusan.png",
+				"image": "Haleth Keusan.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2297,7 +2297,7 @@
 					{"en": "Unique. Agent. -1 to all your corruption checks. Agent Only: Tap and discard Harry Goatleaf so that an opponent must again make an influence attempt on one of their Hobbits or Men factions in play, if they are in the same location as the faction was played. If the attempt is unsuccessful, discard the faction."},
 				"quote": 
 					{"en": ""},
-				"image": "Harry Goatleaf.png",
+				"image": "Harry Goatleaf.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2329,7 +2329,7 @@
 					{"en": "Unique. Slayer. Playable at Harondor or Khand and all sites in those regions. Two attacks (one strike each) against the same character. The attacker chooses the defending characters. +1 Prowess against Men. The defending player may choose to tap a character in the same company to cancel one of these attacks. If In Darkness Bind Them is in play,may also be keyed to any region adjacent to Harondor or Khand."},
 				"quote": 
 					{"en": ""},
-				"image": "Hasharin Slayer.png",
+				"image": "Hasharin Slayer.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2355,7 +2355,7 @@
 					{"en": "Spider Queen specific. Playable on Ruins and Lairs [R] with an Spider automatic attack in a region with Rot and if a Spider Queen is there. The site becomes a Spiderhaven [K], and loses its automatic attacks to you. All other versions of the site gain the following automatic attack: Spider, 1 strike with Prowess 10. You cannot play any of the cards listed on the site. If one of your companies is in that site, all attacks against it are canceled. The site is never discarded or returned to your location deck. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "Haven for its Lesser Brood.png",
+				"image": "Haven for its Lesser Brood.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2387,7 +2387,7 @@
 					{"en": "Unique. Artifact. Helmet. Playable at Ruins and Lairs [R] in a region with Rot. +1 to the bearer’s direct influence against Spiders and Spider factions. +1 to the wearer’s Body up to a maximum of 9."},
 				"quote": 
 					{"en": ""},
-				"image": "Helm of Rot.png",
+				"image": "Helm of Rot.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -2414,7 +2414,7 @@
 					{"en": "Spider Queen specific. Playable on an Aberration that is in the same site as your Spider Queen. The Aberration receives +2 to direct influence against Spiders and Spider factions. Discard if there is a character with a higher Mind value in his company."},
 				"quote": 
 					{"en": ""},
-				"image": "Her Orders.png",
+				"image": "Her Orders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2449,7 +2449,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Seven natural caverns used as Haven.” – Shadow Tribes"},
-				"image": "Hogo Tarosvan.1.png",
+				"image": "Hogo Tarosvan.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2484,7 +2484,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“An ancient ceremonial site of the Daen situated among the Wstrikee Mountains on the borders of Lamedon.” – Shadow Tribes"},
-				"image": "Hogo Tarosvan.png",
+				"image": "Hogo Tarosvan.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2512,7 +2512,7 @@
 					{"en": "Playable on an Aberration or Spider Leader character in your hand. Place the character face up “to the side” along with this card. The character becomes in a hazard creature (with the following modifications: Spider, 1 strike with Prowess equal to the Spider’s Prowess plus 7 and equal Body, any character wounded by this attack modifies their Body check by +1) and can be played on any company that moves through the same region as its home site or surface site. If the attack is defeated, this card gives as many marshalling points for kills as the target character’s point value. Discard this card after the character attacks. It cannot be duplicated on the same character."},
 				"quote": 
 					{"en": ""},
-				"image": "Hungried for a Long Time.png",
+				"image": "Hungried for a Long Time.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2545,7 +2545,7 @@
 					{"en": "Return it to its owner’s hand with a Body check of 7 or 8. -1 to all its corruption checks. If Fell Winter, Long Winter, or Snowstorm is in play, the Ice Spider does not need to tap to deal with a strike."},
 				"quote": 
 					{"en": "“Perfectly adapted to cold climates, the ice spider is able to withstand adverse weather situations.” – Shadow Tribes"},
-				"image": "Ice Spider.png",
+				"image": "Ice Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2577,7 +2577,7 @@
 					{"en": "Unique. Spawn. The Moss-deeps gain an additional auto attack: Spawn, 2 strikes of 17/9 prowess/body.Additionally, it allows each player to take a Spider creature or Pûkel Creature from the discard pile and shuffle it into their play deck."},
 				"quote": 
 					{"en": "“From time immemorial the great Stone Queen dwelt there, unbreakable and imperturbable…” – Shadow Tribes"},
-				"image": "Immemorial Stone Queen.png",
+				"image": "Immemorial Stone Queen.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2604,7 +2604,7 @@
 					{"en": "Unique. Spider Queen specific. Playable on a Spider Haven if any Trophies are stored there. You can remove a Trophy whose marshalling points have an asterisk, to give +3 to an influence attempt against an opposing server player."},
 				"quote": 
 					{"en": "“She’d forgotten him, maybe, but we didn’t touch him – no good interfering with Her.” – LotR II"},
-				"image": "Interfering with Her.png",
+				"image": "Interfering with Her.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2635,7 +2635,7 @@
 					{"en": "Unique. Artifact. Hoard Item. +1 to the wearer’s Prowess up to a maximum of 6 (+3 to Prowess up to a maximum of 8 against Undead)."},
 				"quote": 
 					{"en": "“An ivory scepter crowned with a diamond, the work of a perfidious master of the dark arts.” – Shadow Tribes"},
-				"image": "Ivory Scepter.png",
+				"image": "Ivory Scepter.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2661,7 +2661,7 @@
 					{"en": "Spider Queen specific. Playable if you have at least two Spider characters in play, or an Aberration, whose home place is in the Mirkwood. Reduce by 1 (to a minimum of 1) the hazard limit of all your companies moving to or from a site in the Heart of Mirkwood, Western Mirkwood, and/or Southern Mirkwood."},
 				"quote": 
 					{"en": ""},
-				"image": "Know the Forest.png",
+				"image": "Know the Forest.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2693,7 +2693,7 @@
 					{"en": "Unique. Demon. Playable at Cairn Lossadan by a character with Mind 6 or higher. Discard if your company moves to a site other than Angmar, Forochel, or a region with Rot. May play Bitter Cold (ignores any corruption checks). Warrior characters in your company only suffer a -2 penalty to Prowess if they choose not to turn to face an attack."},
 				"quote": 
 					{"en": ""},
-				"image": "Kuruki.png",
+				"image": "Kuruki.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2725,7 +2725,7 @@
 					{"en": "Unique. Demon. Playable on Isle of the Dead that Live by an Scout with Prowess 5 or higher. Discard if your company moves to a site that is not in a Coastal Sea [c] or a region adjacent to Coastal Sea [c] with Rot. May play Driven as by a Madness (ignore any corruption checks). In all cases, Lairathin must be targeted by a strike before the controlling character is targeted."},
 				"quote": 
 					{"en": ""},
-				"image": "Lairathin.png",
+				"image": "Lairathin.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2757,7 +2757,7 @@
 					{"en": "Unique. Demon. Can only be played in Nen Falastir by a Sage character with Mind above 5. Discard if your company moves to a site other than Harondor, Khand, or a region with Rot. May play A Malady without Healing (ignore any corruption checks). A character wounded by Langon has his Body check modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "Langon.png",
+				"image": "Langon.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2783,7 +2783,7 @@
 					{"en": "Spider Queen specific. Playable before rolling a Body check made by an Aberration, Spider Leader, or Spider Queen character. Reduces the roll by -2. The target character cannot be returned to the hand due to the result of the Body check. Cannot be duplicated on the same Body check."},
 				"quote": 
 					{"en": "“…within with layer on layer of evil growth.” – LotR II"},
-				"image": "Layer of Evil Growth.png",
+				"image": "Layer of Evil Growth.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2818,7 +2818,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 9. +1 Prowess against Dwarves. If Angry Gob, Crazy Cob, and/or Old Pob are in the same company, reduce Lazy Lob’s Mind by 1."},
 				"quote": 
 					{"en": "“Lazy Lob! Poisonous! -between the trees on the right.” – Hob"},
-				"image": "Lazy Lob.png",
+				"image": "Lazy Lob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2845,7 +2845,7 @@
 					{"en": "Unique. Playable on a facedown hazard Agent that is in the same site as an opponent’s company. Reveal the agent to force a corruption check on a character in the company (opposed by the adversity player), adding the agent’s corruption modifier to the roll. If the check fails, turn the character (ignore other results) and transfer one of the items to the agent (of the defender’s choice) along with this card. If one of your companies is in the same site as the agent and you have that item in your hand or companion deck, you may tap a character in your company to play the item on it. Next, discard this card, the agent, and the carrying´s item."},
 				"quote": 
 					{"en": ""},
-				"image": "Leave in Will.png",
+				"image": "Leave in Will.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2880,7 +2880,7 @@
 					{"en": "Unique. Manifestation of Nan Dungortheb’s Torment. Unless she is one of the starting characters, she can only come into play in his native place. +1 Prowess against Men. +2 to direct influence against Spiders and Spider factions. She can use Shadow magic. You can tap Lhingril to search your discard pile for a Shadow magic card and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“...she was the one who captured Beren when he tried to escape from Dorthonion through the Dor Dínen Pass.” – Shadow Tribes"},
-				"image": "Lhingril.png",
+				"image": "Lhingril.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2909,7 +2909,7 @@
 					{"en": "Unique. Manifestation of Nan Dungortheb’s Torment. Playable at The Haunted Grottos if the influence check is greater than 11.Modifications: Spider Queen (+3), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered holding. Any company that moves into The Haunted Grottos faces one attack: Spawn, two strikes of 16/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Lhingril Hungried.png",
+				"image": "Lhingril Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2935,7 +2935,7 @@
 					{"en": "Spider Queen specific. Playable at a combat company vs company, before strikes are assigned, if your company contains a Spider Queen or Aberration. Each character and ally in the opposing company must make a roll adding her Mind. If the result is less than 10, the character/ally becomes tapped; or, if he was already turned, he is wounded; or, if he was already wounded, he is eliminated. Cannot be duplicated in the same combat."},
 				"quote": 
 					{"en": "“…gurgling, bubbling noise, and a long venomous hiss.” – LotR II"},
-				"image": "Long Venomous Hiss.png",
+				"image": "Long Venomous Hiss.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2967,7 +2967,7 @@
 					{"en": "Unique. Manifestation of The Warg-king. Wolf. One strike. As a creature, may also be keyed to any Ruins and Lairs [R] that contain a Wolves automatic attack.As a long event, it cancels all effects that could cancel or prevent a Wolves attack."},
 				"quote": 
 					{"en": ""},
-				"image": "Lord of the Wargs.png",
+				"image": "Lord of the Wargs.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3001,7 +3001,7 @@
 					{"en": "Unique. Agent. +2 to direct influence against Hobbits and Hobbit factions. Agent only: Discard Lotho Sackville during the sites phase to force a character in the same site (of the hardship player’s choice) to make a -1 modified corruption check."},
 				"quote": 
 					{"en": "“‘Whatever it is,’ said Pippin, ‘Lotho will be at the bottom of it: you can be sure of that.’” – SdlA I"},
-				"image": "Lotho Sackville.png",
+				"image": "Lotho Sackville.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3036,7 +3036,7 @@
 					{"en": "Unique. Manifestation of Monstrosity of Diverse Shape. Unless he is one of the starting characters, he can only come into play in his native place. +4 to direct influence against Fastiqan. +2 Prowess against attacks located in a Coastal Sea [c]. -1 to his Resistance if he is in or moves to a location that is not on a Coastal Sea [c]. Once per turn, if his company has moved to a location located in a Coastal Sea [c], he may move to an additional location that same turn. Another location card must be played and another movement/adversity phase resolved."},
 				"quote": 
 					{"en": ""},
-				"image": "Maeklog.png",
+				"image": "Maeklog.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3065,7 +3065,7 @@
 					{"en": "Unique. Manifestation of Monstrosity of Diverse Shape. Playable at The Drowning-deeps or Remains of Thangorodrim if the influence check is greater than 12.Modifications: Spider Queen (+1), Fastitocalón (+2), if you eliminate a character or prisoner in the company (+2), any other character (-3).All Spawn attacks against any of your companies are considered holding. Any company that moves into The Drowning-deeps or Remains of Thangorodrim faces one attack: Spawn, two strikes of 15/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Maeklog Hungried.png",
+				"image": "Maeklog Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3091,7 +3091,7 @@
 					{"en": "Spider Queen specific. Playable if your Spider Queen is in play. During your organization phase you can take this card from your sideboard, and shuffle it into your playing deck. Your Spider Queen receives +5 to direct influence until end of turn. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…and the darkness of Shelob’s evil will had penetrated Gollum’s fatigue…” – LotR II"},
-				"image": "Maleficent Will.png",
+				"image": "Maleficent Will.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3117,7 +3117,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She the Great is not in play. You can tap this card during your end-of-turn phase to take Layer of Evil Growth, Bring Good Food, or Sweeter Meat from your discard pile and add it to your hand. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…he felt a great malice bent upon him, and a deadly regard considering him.” – LotR II"},
-				"image": "Malice Bent upon Him.png",
+				"image": "Malice Bent upon Him.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3143,7 +3143,7 @@
 					{"en": "Spider Queen specific. Playable on a company in a Spider Haven that contains an Aberration or a Spider Queen. +2 to rolls made by your company to move to an adjacent Underdeep site."},
 				"quote": 
 					{"en": "“Too little did he or his master know of the craft of Shelob. She had many exits from her lair.” – LotR II"},
-				"image": "Many Exits.png",
+				"image": "Many Exits.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3178,7 +3178,7 @@
 					{"en": "Unique. +2 to his direct influence against the Ailgarthas faction."},
 				"quote": 
 					{"en": "“The chief of the tribe of the Ailgarthas was settled in Burh Ailgra. A burly man who liked to charge into the enemy ranks with his ax and shield while mounted on horseback.” – Shadow Tribes"},
-				"image": "Marhcara.png",
+				"image": "Marhcara.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3204,7 +3204,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She Weaver of Evil is not in play. The Spider Queen’s company can move by region movement between Imlad Morgul and Southern Mirkwood, or viceversa. Discard when Doors of Night comes into play; If the Spider Queen is not in a Underdeep Site or an adjacent surface site, in her next organization phase she must move to an adjacent surface site or the nearest Spiderhaven [K]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "Mating Season.png",
+				"image": "Mating Season.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3236,7 +3236,7 @@
 					{"en": "Unique. Demon. Undead. Can only be played in Dead Marshes by a Scout character whose Prowess plus Mind is greater than 11. Discard if his company moves to a site that is not in Dagorlad, Brown Lands, or a region with Rot. May play Freeze the Flesh (ignore any corruption checks). May tap to cancel an Undead attack against his company."},
 				"quote": 
 					{"en": ""},
-				"image": "Maugarth.png",
+				"image": "Maugarth.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3264,7 +3264,7 @@
 					{"en": "Spider Queen specific. Playable on a company that is in Thranduil’s Halls if Realm of Mirkwood has Rot. The company may face one attack each turn based on how many times this card has been tapped: none: Elves, 3 strikes with Prowess 8; once: Elves, 2 strikes with Prowess 9; twice: Elves, 1 strike with Prowess 13; three times: Elf Lord, 1 strike with Prowess 16. If the attack is defeated, tap a Spider Queen, Aberration, or Spider Leader into the company and tap this card. If it has rotated 360º and is stored in a Spider Haven, it gives 4 marshalling points; all versions of Thranduil’s Halls become Ruins and Lairs [R] and Realm of Mirkwood becomes a Wilderness [w]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "Mirkwood Under His Rule.png",
+				"image": "Mirkwood Under His Rule.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3296,7 +3296,7 @@
 					{"en": "Unique. Wolves. Each of the characters in the company must face a blow. It can also be played located in Rhudaur or Anduin Vales; and may also be played at sites in these regions that are not a Refuge. If Gates of Night are in play, may also be keyed to adjacent regions to Rhudaur or Anduin Vales, and non-Haven sites in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "Mist Wargs.png",
+				"image": "Mist Wargs.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3322,7 +3322,7 @@
 					{"en": "Spider Queen specific. Playable during the site phase on an opposing company that is in the same site as one of your companies that contains at least one Aberration or Spider Leader character. A company character (of your choice) must make a +1 modified Body check. If the character fails the check, he is taken prisoner at his current site. Rescue Attack: Spiders, 2 strikes with Prowess 8. During its untap phase, make a +1 modified Body check. If he is eliminated, you receive his marshalling points for kills."},
 				"quote": 
 					{"en": ""},
-				"image": "More Turns and Turns.png",
+				"image": "More Turns and Turns.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -3352,7 +3352,7 @@
 					{"en": "Unique. Playable at Oracle Forest. Cannot be attacked. Tap Morfanwen to return a Spell or Ritual resource from your discard pile to your play deck. Discard Morfanwen if a character in her company is wounded."},
 				"quote": 
 					{"en": "“A storm spirit that settled in the east of Middle-earth.” – Shadow Tribes"},
-				"image": "Morfanwen.png",
+				"image": "Morfanwen.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3386,7 +3386,7 @@
 					{"en": "Return to its owner’s hand with a Body check of 7 or 8. May use Shadow magic. Any character injured by Morgul Spider must make a corruption check modified by -1."},
 				"quote": 
 					{"en": "“Across the width and height of the tunnel avast web was spun, orderly as the web of some huge spider…” – LotR II"},
-				"image": "Morgul Spider.png",
+				"image": "Morgul Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3418,7 +3418,7 @@
 					{"en": "Unique. Animal. Eagle. Manifestation of Meneldor. Playable only against an overt minion company. Two strikes. The attacker chooses the defending characters. +2 Prowess against Aberrations and Spiders. May also be keyed to Anduin Vales; and may also be played at sites in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "Mountain´s Eagle.png",
+				"image": "Mountain´s Eagle.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3450,7 +3450,7 @@
 					{"en": "Unique. Demon. Maia. Can only be played in The Igneous Grottos by a Magic user with Mind 6 or higher. Discard if your company moves to a site that is not in a Underdeep site, a surface site, or a region with Rot. May play Some Secret Art of Flame (ignore any corruption checks). May tap to return a Spell card that a character in their company has just used to your play deck."},
 				"quote": 
 					{"en": ""},
-				"image": "Mourfuin.png",
+				"image": "Mourfuin.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3482,7 +3482,7 @@
 					{"en": "Unique. Hobbit. Playable at a place located in The Shire. Discard Mr Otho to cancel the effect of a hazard that requires you to discard an item other than a Ring from one of the characters in his company."},
 				"quote": 
 					{"en": "“The Sackville-Bagginses were not forgotten. Otho and his wife Lobelia were present.” – Hob"},
-				"image": "Mr Otho.png",
+				"image": "Mr Otho.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3514,7 +3514,7 @@
 					{"en": "Unique. Slayer. Playable at Horse Plains and in all places in that region. Two attacks (one strike each) against the same character. The attacker chooses the defending characters. +1 Prowess against Elves. The defending player may choose to tap a character in the same company to cancel one of these attacks. If In Darkness Bind Them is in play, may also be keyed to any region adjacent to Horse Plains."},
 				"quote": 
 					{"en": ""},
-				"image": "Mur-Grishi Slayer.png",
+				"image": "Mur-Grishi Slayer.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3542,7 +3542,7 @@
 					{"en": "Playable on an Aberration or Spider character. The character receives -2 to his direct influence and -1 to Prowess. Cancels any positive race or name modifications that affect the target character in any influence attempts against factions. It cannot be duplicated on the same character. During their organization phase, a character with this card can be tapped to try to eliminate it. Make a roll: if the result is greater than 7, discard this card."},
 				"quote": 
 					{"en": "“…Like a man who throws a treat at her cat (my cat called her him, but she didn’t recognize him as her master)…” – LotR II"},
-				"image": "My Cat.png",
+				"image": "My Cat.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3576,7 +3576,7 @@
 					{"en": "Return to its owner’s hand with a Body check of 6 or 7. May use Shadow magic. Any character wounded by Nan Dungortheb Spider must make an additional Body check."},
 				"quote": 
 					{"en": "“...descendants of the spiders that once held Beren captive.” – Shadow Tribes"},
-				"image": "Nan Dungortheb Spider.png",
+				"image": "Nan Dungortheb Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3608,7 +3608,7 @@
 					{"en": "Unique. Spawn. The Haunted Grottos gain an additional auto attack: Spawn, 2 strikes of 16/9 prowess/body.Additionally, for all Spiders automatic attacks, the opponent chooses the defending characters."},
 				"quote": 
 					{"en": "“The stench of decay oozed from every pore of him, and no living thing dared approach his lair.” – Shadow Tribes"},
-				"image": "Nan Dungortheb´s Torment.png",
+				"image": "Nan Dungortheb´s Torment.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3643,7 +3643,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The ancient ruins dominated by a tower built by the Haruzan.” – Shadow Tribes"},
-				"image": "Nen Falastir.png",
+				"image": "Nen Falastir.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3678,7 +3678,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“...a tower barely protruding from the treetops.” – Shadow Tribes"},
-				"image": "Nen Falastir.1.png",
+				"image": "Nen Falastir.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3704,7 +3704,7 @@
 					{"en": "All Spider Queen, Aberration, and Spider characters receive -1 to Prowess and their direct influence (-2 if Gates of Morning is in play). Cannot be duplicated."},
 				"quote": 
 					{"en": "“No one, no one has ever stuck a pin in Shelob before, as you should know well enough.” – LotR II"},
-				"image": "Never Hurt Before.png",
+				"image": "Never Hurt Before.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3739,7 +3739,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…swampy area created by the meanders of the Glanduin.” – Shadow Tribes"},
-				"image": "Nîn-in-Eilph.1.png",
+				"image": "Nîn-in-Eilph.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3774,7 +3774,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…it was lost in the plains and disappeared in the marshes…” – SdlA I"},
-				"image": "Nîn-in-Eilph.png",
+				"image": "Nîn-in-Eilph.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3802,7 +3802,7 @@
 					{"en": "Playable during the organization phase on a company in a Haven/Darkhaven [H,K]. Turn this card 90º each time the company moves to a Hidden site. If this card has been tapped at least 4 times, gives two marshalling points. Cannot be duplicated on the same company."},
 				"quote": 
 					{"en": "“The knowledge which he obtained was, doubtless, often of service to him…” – LotR III"},
-				"image": "Obtained Knowledge.png",
+				"image": "Obtained Knowledge.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3828,7 +3828,7 @@
 					{"en": "Playable at the end of the organization phase on a hero or covert company that will move through one or more regions in Mirkwood. Reduces the company’s hazard limit by 1 (to a minimum of 1). The opponent can only play the following types of hazard creature: Animal, Spider, Awakened Plant or Elf. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "Old Forest Road.png",
+				"image": "Old Forest Road.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3863,7 +3863,7 @@
 					{"en": "Unique. Return it to its owner’s hand with a Body check of 8. +1 Prowess against Dwarves. If Angry Gob, Crazy Cob and/or Lazy Lob are in the same company, reduce Old Pob Mind by 1."},
 				"quote": 
 					{"en": "“Fat old spider you spin on a tree! “You fat, old spider that you can’t see me!” – Hob"},
-				"image": "Old Pob.png",
+				"image": "Old Pob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3889,7 +3889,7 @@
 					{"en": "Spider Queen specific. Playable if you have at least one company in play that moves and only contains Spiders. At the end of the movement/hazard phase, each of your companies that only contain Spiders can move to a new site (or Underdeep site). If a new site is played, perform the movement/hazard phase. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…he saw with terror that the eyes came jumping out after them.” – LotR II"},
-				"image": "One Big Stride.png",
+				"image": "One Big Stride.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3924,7 +3924,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Oracle Forest.1.png",
+				"image": "Oracle Forest.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3959,7 +3959,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Oracle Forest.png",
+				"image": "Oracle Forest.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -3992,7 +3992,7 @@
 					{"en": "Spider Queen specific. Discard with a Resistance check of 7. -1 to all corruption checks. -1 to all influence checks against factions. He counts as half a character (rounded up) when calculating company size. If it is in the same company as a Spider Queen or Aberration, you may remove the Orc Slave from play to untap her. Each time you play an Aberration character or an Aberration faction you can take an Orc Slave from the discard pile or sideboard, and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“As for the orcs, they were useful slaves, but he had plenty of them.” – Hob"},
-				"image": "Orc Slave.png",
+				"image": "Orc Slave.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4020,7 +4020,7 @@
 					{"en": "Corruption. Playable on a company that is facing a Spider attack, before assigning strikes. The first character wounded by these attack receives 1 point of corruption (place this card next to the character). Discard Paralyzing Poison if the attack does not hurt any characters. A character with this card is always assigned as the first target against any attack by an hazard creature and all of his Body checks are modified by +2.During you organization phase, a character with this card may tap to try to remove it. Make a roll: if the result is greater than 5, discard this card."},
 				"quote": 
 					{"en": "“She has more than one poison. When she goes hunting, all he has to do is tap her neck…” – LotR II"},
-				"image": "Paralyzing Poison.png",
+				"image": "Paralyzing Poison.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4055,7 +4055,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Parth Iaur.1.png",
+				"image": "Parth Iaur.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4090,7 +4090,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Parth Iaur.png",
+				"image": "Parth Iaur.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4117,7 +4117,7 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She the Great or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. You may tap the Spider Queen to cancel an attack against her company."},
 				"quote": 
 					{"en": "“Knobbed and pitted with corruption was her age-old hide...” – LotR II"},
-				"image": "Pit with Corruption.png",
+				"image": "Pit with Corruption.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4153,7 +4153,7 @@
 					{"en": "Unique. Unless she is one of the starting characters, she may only be brought into play at her home site. +2 Prowess against Spiders. All of her corruption checks are modified by +1. Before facing any automatic attacks or rescue attacks, if your company is at the rescue location of one of your prisoner characters, you may tap Poppy Goodbody to discard its host adversity and add the prisoner to your company without tapping the location."},
 				"quote": 
 					{"en": ""},
-				"image": "Poppy Goodbody.png",
+				"image": "Poppy Goodbody.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4189,7 +4189,7 @@
 					{"en": "Unique. Agent. May be part of a company containing Spiders. Agent Only: Reveal and tap Portik to be able to play a Spider creature hazard against a company in its current location, or prevent a Spider attack in its current region from being cancelled, or give +2 prowess to a Spider attack in your current region."},
 				"quote": 
 					{"en": "“…a cunning thief who works as a spy in the thieves’ camp.” – Shadow Tribes"},
-				"image": "Portik.png",
+				"image": "Portik.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4215,7 +4215,7 @@
 					{"en": "Spider Queen specific. It can be played in your starting company instead of a minor item. You may include and use the following Balrog-specific cards in your deck: A Few Recruits, Nasty Slimy Thing, Evil Things Lingering, and Memories of Old Torture. Replace the text of the card where it indicates The Balrog with Spider Queen."},
 				"quote": 
 					{"en": "“But other potencies there are in Middle-earth, powers of night, and they are old and strong.” – LotR II"},
-				"image": "Powers of Night.png",
+				"image": "Powers of Night.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4244,7 +4244,7 @@
 					{"en": "Unique. Spider Queen specific. Playable at a Spiderhaven [K] if a Spider Queen is there. If the company defeats either an opposing character in company combat, or an asterisked creature, rotate this card 90º. If it has turned at least 360º, the company may store this card in the same Spiderhaven [K] it was played in, if your Spider Queen is there. It only gives marshalling points if it is stored."},
 				"quote": 
 					{"en": "“…or that you’d perhaps sent her a present, a prisoner of war or something.” – LotR II"},
-				"image": "Presents for the Lady.png",
+				"image": "Presents for the Lady.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4279,7 +4279,7 @@
 					{"en": "+1 to direct influence against Spiders, Woses, Spider factions, and Woses factions. -1 to all corruption checks for him. Tap Prophet of Dungortheb and eliminate a Wose character in his company to find an Aberration or Spider character in your discard pile and put it in your hand."},
 				"quote": 
 					{"en": ""},
-				"image": "Prophet of Dungortheb.png",
+				"image": "Prophet of Dungortheb.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4314,7 +4314,7 @@
 					{"en": "Unique. +2 Prowess against Animals and Spiders."},
 				"quote": 
 					{"en": "“…commissioned by Radagast himself for the defense of Mirkwood.” – Shadow Tribes"},
-				"image": "Rauko.png",
+				"image": "Rauko.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4349,7 +4349,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“And he took with him three very dear servants, and there was never any news or sign of them in this world…” - Sil"},
-				"image": "Resting Island.png",
+				"image": "Resting Island.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4384,7 +4384,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Resting Island.1.png",
+				"image": "Resting Island.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4419,7 +4419,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…they say that in ancient times, from their watchtower, watchmen could see the dangers coming from the dark forest and the mountains of ash.” – Shadow Tribes"},
-				"image": "Rómenost.1.png",
+				"image": "Rómenost.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4454,7 +4454,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Situated at the crossroads of the great southern road, Rómenost was a small Gondorian fortress.” – Shadow Tribes"},
-				"image": "Rómenost.png",
+				"image": "Rómenost.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4489,7 +4489,7 @@
 					{"en": "Unique. Manifestation of Ungoliant´s Progeny. Unless she is one of the starting characters, she can only come into play in her home site. +1 Prowess against Dwarves. +2 to direct influence against Spiders and Spider factions. She can use Shadow magic. His company (and where he moves) is not affected by Fell Winter, Long Winter, or Snowstorm."},
 				"quote": 
 					{"en": "“Cut off from the brood of Mirkwood, she took refuge deep beneath the Iron Hills.” – Shadow Tribes"},
-				"image": "Saenathra.png",
+				"image": "Saenathra.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4518,7 +4518,7 @@
 					{"en": "Unique. Manifestation of Ungoliant´s Progeny. Playable at The Rusted-deeps or The Wind-deeps if your influence check is greater than 12.Modifications: Spider Queen (+3), Gelob (+2), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered cancelled. Any company that moves into The Rusted-deeps or The Wind-deeps faces one attack: Spawn, two strikes of 16/8 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Saenathra Hungried.png",
+				"image": "Saenathra Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4552,7 +4552,7 @@
 					{"en": "Unique. Agent. +5 Powress against Spiders, Aberrations and Spider Queen. Agent only: may move to a Spiderhaven [K] and may tap at a compan´s new site to attack that company during opponent´s movement hazard phase."},
 				"quote": 
 					{"en": "“No onslaught more fierce was ever seen in the savage world of beasts, where some desperate small creature armed with little teeth, alone, will spring upon a tower of horn and hide that stands above its fallen mate.” – LotR II"},
-				"image": "Samwise.png",
+				"image": "Samwise.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4587,7 +4587,7 @@
 					{"en": "Unique. +2 to his direct influence against the Black Númenóreans faction."},
 				"quote": 
 					{"en": "“The Black Dragon…is Sangarunya himself!” – Kuduk Wisdom"},
-				"image": "Sangarunya.png",
+				"image": "Sangarunya.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4614,7 +4614,7 @@
 					{"en": "Unique. Spider Queen specific. Playable during the organization phase on She the Watcher or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. During your end-of-turn phase, you may tap the Spider Queen to take a resource that is neither a short event nor a character from your discard pile and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“…she served no one but herself, drinking the blood of elves and men…” – LotR II"},
-				"image": "Serve Yourself.png",
+				"image": "Serve Yourself.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4646,7 +4646,7 @@
 					{"en": "Unique. Slayer. Playable at Southern Mirkwood and all sites in that region. Two attacks (one strike each) against the same character. The attacker chooses the defending characters. +1 Prowess against Elves. The defending player may choose to tap a character in the same company to cancel one of these attacks. If Reaching Shadow is in play, may also be keyed to any region adjacent to Southern Mirkwood."},
 				"quote": 
 					{"en": ""},
-				"image": "Shadow Slayer.png",
+				"image": "Shadow Slayer.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4675,7 +4675,7 @@
 					{"en": "Spider Queen specific. Spider Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. -2 to general Influence, +2 to her direct Influence, +1 to Prowess and -1 to Body. The Spider Queen gains the Ranger ability and can have Orc and Troll followers. +2 to all rolls made by her company to move to an adjacent Underdeep site."},
 				"quote": 
 					{"en": ""},
-				"image": "She Evil Creature.png",
+				"image": "She Evil Creature.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4704,7 +4704,7 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 to general Influence, -2 to her direct Influence, +1 to Prowess and -2 to Body. The Spider Queen gains the Warrior ability, becomes a Leader, and may move an additional region."},
 				"quote": 
 					{"en": "“But none could rival her, Shelob the Great…” – LotR II"},
-				"image": "She the Great.png",
+				"image": "She the Great.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4733,7 +4733,7 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 to general Influence, -2 to its direct Influence, -2 to Prowess and +2 to Body. The Spider Queen gains the Diplomat skill and can have followers. You can keep one more card than normal in your hand."},
 				"quote": 
 					{"en": "“But still the hatred of the Watcher lurked behind them …” – LotR II"},
-				"image": "She the Watcher.png",
+				"image": "She the Watcher.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4762,7 +4762,7 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 to general Influence, -2 to its direct Influence, -2 to Prowess and +2 to Body. The Spider Queen gains the Sage ability, she cannot move and cannot have followers (at the end of the organization phase she discards any followers in her company). In each end-of-turn phase, if the Spider Queen is in a Spider Haven, she places a Rot marker in the region in which she is located; or if already has Rot, in an adjacent region that is not a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "She Weaver of Evil.png",
+				"image": "She Weaver of Evil.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4792,7 +4792,7 @@
 					{"en": "Unique. Manifestation of Shelob. +3 to direct influence against Spiders and Spider factions. She can only have followers that are Spider or that are Spider Queen specific. She cannot use basic or region movement, except if she moves to a location in Gorgoroth, Imlad Morgul, Ithilien, or a region with Rot. All Resistance checks as a result of missing a strike against Shelob are modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "Shelob.png",
+				"image": "Shelob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4823,7 +4823,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Shelob's Lair.png",
+				"image": "Shelob's Lair.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4850,7 +4850,7 @@
 					{"en": "You can only play on a Scout in a Haven/Darkhaven [H,K]. When moving to a Hidden site, the target character’s company does not have to turn a character as a requirement to reveal the site. The bearer must make a corruption check each time he moves to a Hidden site."},
 				"quote": 
 					{"en": "“During his entire existence he had visited the most diverse places in Middle-earth.” – Shadow Tribes"},
-				"image": "Site-lore.png",
+				"image": "Site-lore.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4876,7 +4876,7 @@
 					{"en": "Spider Queen specific. Playable on an Aberration or Spider Queen character. If the character is wounded by an opposing character’s attack, the attacker must make a Body check modified by +1. Cannot be duplicated ona given character."},
 				"quote": 
 					{"en": "“She reached the hole, and squeezing down, leaving a trail of green-yellow slime…” – LotR II"},
-				"image": "Slime Blood.png",
+				"image": "Slime Blood.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4912,7 +4912,7 @@
 					{"en": "Unique. Spider Queen specific. Manifestation of Gollum. Unless he is one of the starting characters, he can only come into play in his home site. +2 to his direct influence against Spiders and Aberration and Spider factions. All of his corruption checks are modified by +4. If he is the only character in his company, reduce his hazard limit by 1. Tap Sneak to cancel an attack against his company in a Wilderness [w] or a Shadow-land [s]. -2 marshalling points if eliminated."},
 				"quote": 
 					{"en": "“Sneak! Sneak! -hiss. Hobbits always so kind, yes. “Oh, good Hobbits!” – LotR II"},
-				"image": "Sneak.png",
+				"image": "Sneak.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4943,7 +4943,7 @@
 					{"en": "Spiders. Three strikes. Playable in Angmar, Withered Heath, Iron Hills, Forochel, Gundabad, Numeriador, and Grey Mountain Narrows; and may also be played in all Ruins and Lairs [R] in these regions."},
 				"quote": 
 					{"en": "“Large-furred spiders with resistence to cold that feed on the scarce northern fauna.” – Shadow Tribes"},
-				"image": "Snow Spiders.png",
+				"image": "Snow Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -4975,7 +4975,7 @@
 					{"en": "Unique. Artifact. Playable at a Shadow-hold [S] or a Dark-hold [D] in a region with Rot. +2 to direct influence against Spiders and Spider factions. +1 Prowess against Elves and Dwarves."},
 				"quote": 
 					{"en": "“Great horns she had, and behind her short stalk-like neck was her huge swollen bodyt…” – LotR II"},
-				"image": "Spider Horn Necklace.png",
+				"image": "Spider Horn Necklace.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5002,7 +5002,7 @@
 					{"en": "Spider Queen specific. Playable at a Spiderhaven [K]. The bearer must be a Spider character who is not a Leader. You can place an Orc character whose Mind is equal to or lower than that of the carrying character as a follower of the target Spider. The Orc does not count for the purpose of calculating the company’s harzard limit."},
 				"quote": 
 					{"en": ""},
-				"image": "Spider Mount.png",
+				"image": "Spider Mount.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5035,7 +5035,7 @@
 					{"en": "Discard with a Resistance check of 7. -1 to all corruption checks. -1 to all influence checks against factions. +2 Prowess against Spiders."},
 				"quote": 
 					{"en": ""},
-				"image": "Spider Subjugator.png",
+				"image": "Spider Subjugator.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5063,7 +5063,7 @@
 					{"en": "Corruption. Playable on a company that is facing a Spider or Spawn attack, before assigning strikes. The first character wounded by said attack receives -1 Body and 1 corruption point (place this card next to the character). Discard Spider Venom if the attack does not hurt any characters. A character with this card must make a Body check at the beginning of each of their untap phases.During their organization phase, a character with this card can be tapped to try to eliminate it. Make a roll: if the result is greater than 5, discard this card. Cannot be duplicated on the same attack."},
 				"quote": 
 					{"en": ""},
-				"image": "Spider Venom.png",
+				"image": "Spider Venom.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5089,7 +5089,7 @@
 					{"en": "Spider Queen specific. Playable at a Spiderhaven [K] on an Aberration (except Maeklog or Fastitocalón), Spider, or Spider Queen character. During the site phase you may discard this item in an company vs company combat, before assigning strikes, to choose a character from the opposing company. The character must make a Body check modified by +2. If the character fails the check, he is taken prisoner at the current site and cannot participate in combat. During his untap phase, the player must make a roll: if the result is greater than 7, the character is rescued and forms his own company on the site; If the result is less than 3, he is eliminated. Rescue Attack: Trap, 1 strike of Prowess 10."},
 				"quote": 
 					{"en": ""},
-				"image": "Spider Web.png",
+				"image": "Spider Web.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5118,7 +5118,7 @@
 					{"en": "Unique. Playable at Dol Guldur if the influence check is greater than 10.Modifications: Shelob (+2), Enna San Sarab (+3), Aberrations or Leader Spiders (+1), any other character (-2)."},
 				"quote": 
 					{"en": "“…spread from glen to glen, from the Ephel Dúath to the eastern hills, to Dol Guldur and the fastnesses of Mirkwood.” – LotR II"},
-				"image": "Spiders of Dol Guldur.png",
+				"image": "Spiders of Dol Guldur.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5147,7 +5147,7 @@
 					{"en": "Weapon. +1 Prowess up to a maximum of 8 (+2 Prowess up to a maximum of 8 against Spiders and rescue attacks)."},
 				"quote": 
 					{"en": "“The spider was lying dead on the side and the sword was stained black.” – Hob"},
-				"image": "Spiderslasher.png",
+				"image": "Spiderslasher.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5181,7 +5181,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“No sooner had the first stepped into the clearing than all the lights went out as if by magic..” - Hob"},
-				"image": "Spiders Clear.1.png",
+				"image": "Spiders Clear.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5216,7 +5216,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“...round the trunks and looked into a clearing where some trees had been felled and the ground levelled.” – Hob"},
-				"image": "Spider´s Clear.png",
+				"image": "Spider´s Clear.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5242,7 +5242,7 @@
 					{"en": "Playable at the end of the organization phase on a company that moves by region if the last region is a Wilderness [w]. Use this card as a site card: Ruins and Lairs [R]; automatic attack: Spiders, 2 strikes of Prowess 7 (detainment against companies containing a Spider); playable: items (Minor, Major), drawn cards 1/2 (you/opponent), special: a non-unique Spider character can come into play at this location during the setup phase. The company can only leave the site using region cards. Discard Spider´s Colony when the company moves to a new location."},
 				"quote": 
 					{"en": ""},
-				"image": "Spider´s Colony.png",
+				"image": "Spider´s Colony.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5276,7 +5276,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Spiders Den.1.png",
+				"image": "Spiders Den.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5310,7 +5310,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“As she approached, he saw that the shadow was actually a jumble of overlapping cobwebs.” – Hob"},
-				"image": "Spider´s Den.png",
+				"image": "Spider´s Den.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5337,7 +5337,7 @@
 					{"en": "Spider Queen specific. Playable on an Aberration or a Spider in a Spiderhaven [K]. You can discard Poisonous Saliva to give the bearer +1 Prowess and +1 to all Body checks as a result of missing a strike against the bearer until the end of the turn."},
 				"quote": 
 					{"en": "“…her beak drabbling a spittle of venom…” – LotR II"},
-				"image": "Spittle of Venom.png",
+				"image": "Spittle of Venom.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5365,7 +5365,7 @@
 					{"en": "Spider Queen specific. Playable if you have at least four Spider characters in play, one Aberration, one Spider ally, and two Spider factions (or one Aberration) that have been played somewhere in Mirkwood. For the purpose of playing adversities, treat all Border-holds [B] in Mirkwood as Ruins and Lairs [R], and all places with an Spider automatic attack become a Spider Haven. Increases the hardship limit of any company of heroes moving to or from a site in a region in Mirkwood by one. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…alejándolo de toda luz y todo remordimiento.” – SdlA II"},
-				"image": "Spreading through Mirkwood.png",
+				"image": "Spreading through Mirkwood.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5392,7 +5392,7 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. During your end-of-turn phase, you can tap the Spider Queen to take a short event resource or character from your discard pile and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“They had not gone more than a few yards when from behind them came a sound, startling and horrible in the heavy padded silence…” – LotR II"},
-				"image": "Starling Sound.png",
+				"image": "Starling Sound.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5424,7 +5424,7 @@
 					{"en": "Unique. Hobbit. Playable only against an overt minion company. One strike. +3 Prowess against Spiders, Orcs and Trolls. As a creature, it can also be played located in The Shire, Rhudaur, High Pass, Anduin Vales, Woodland Realm, and Northern Rhovanion; and may also be played at sites in these regions.As a short event, can be played as a resource to give a Hobbit +3 Prowess against a Spider, Orc or Troll strike."},
 				"quote": 
 					{"en": "“His little sword was something new in the way of stings for them.” – Hob"},
-				"image": "Stinger.png",
+				"image": "Stinger.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5459,7 +5459,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Yet here we are still, while all the gardens of the ent-women have been devastated: men now call them the Brown Lands.” – LotR II"},
-				"image": "Stone Pit.1.png",
+				"image": "Stone Pit.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5494,7 +5494,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Far and above the Rio Grande and the Brown Lands, over leagues and leagues of gray expanses…” – LotR II"},
-				"image": "Stone Pit.png",
+				"image": "Stone Pit.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5527,7 +5527,7 @@
 					{"en": "Return to its owner’s hand with a Body check of 8 or 9. +1 Prowess against Elves. -1 to all its corruption checks. If Choking Shadows is in play, you may target the Stone Spider for a strike (not targeting the defender) even if it is tapped."},
 				"quote": 
 					{"en": "“They live in caves and go out to hunt at night.” – Shadow Tribes"},
-				"image": "Stone Spider.png",
+				"image": "Stone Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5558,7 +5558,7 @@
 					{"en": "Hobbit. Playable only against an overt minion company. One strike. All Body checks resulting from a successful strike are modified by +1. +3 Prowess against Aberrations and Spiders. May also be keyed to The Shire and Old Forest; and may also be played at sites in these regions."},
 				"quote": 
 					{"en": "“Bilbo was a pretty fair shot with a stone, and it did not take him long to find a nice smooth egg-shaped one that fitted his hand cosily.” – Hob"},
-				"image": "Stone Thrower.png",
+				"image": "Stone Thrower.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5584,7 +5584,7 @@
 					{"en": "Playable on a Shadow magic user character. The target character can remove a Special Ring, Palantír, or Artifact item to place a Rot marker in the region where her current site is keyed. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“There she sucked up all light that she could find, and spun it forth again in dark nets of strangling gloom…” – Sil"},
-				"image": "Strangling Dark Net.png",
+				"image": "Strangling Dark Net.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5610,7 +5610,7 @@
 					{"en": "Playable on a company that is moving through a Wilderness [w]. Discard a Spider character or ally from your hand to search your play deck or discard pile for a hazard Spider creature that could be legally played against the target company, and put it into your hand. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "Surrounded by Spiders.png",
+				"image": "Surrounded by Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5643,7 +5643,7 @@
 					{"en": "Return to its owner’s hand with a Body check of 7 or 8. +1 Prowess against Dwarves. -1 to all its corruption checks."},
 				"quote": 
 					{"en": "“They reside in wetlands and swamps, they are very aggressive against anyone who invades their territory.” – Shadow Tribes"},
-				"image": "Swamp Spider.png",
+				"image": "Swamp Spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5674,7 +5674,7 @@
 					{"en": "Spiders. Two strikes. The attacker chooses the defending characters. +1 to all Body checks as a result of missing a strike against Swarming Spiders."},
 				"quote": 
 					{"en": "“…saw spiders swarming up all the neighbouring trees, and crawling along the boughs above the heads of the dwarves.” – Hob"},
-				"image": "Swarming Spiders.png",
+				"image": "Swarming Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5700,7 +5700,7 @@
 					{"en": "Spider Queen specific. Playable on a company that contains more Spider characters than characters of other races. Eliminate a non-Spider or non-Orc character from the company to untap all Spider characters in the company. Cannot be duplicated on the same company in the same turn."},
 				"quote": 
 					{"en": "“But she lusted for sweeter meat.” – LotR II"},
-				"image": "Sweeter Meat.png",
+				"image": "Sweeter Meat.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5734,7 +5734,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Ancestral Grottos.1.png",
+				"image": "The Ancestral Grottos.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5768,7 +5768,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Ancestral Grottos.png",
+				"image": "The Ancestral Grottos.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5796,7 +5796,7 @@
 					{"en": "Unique. Spider Queen specific. Playable on an Aberration or Spider Leader in a Spiderhaven [K]. +1 to your direct influence against Spiders. This character requires 3 points of influence to control and may only be controlled by general influence or your Spider Queen. Discard this card if moves to a site that is not a Mirkwood, Mordor, or Rot region."},
 				"quote": 
 					{"en": ""},
-				"image": "The Best of Her Progeny.png",
+				"image": "The Best of Her Progeny.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5823,7 +5823,7 @@
 					{"en": "Unique. Spider Queen specific. Playable on Sneak if he is in the same place as an opposing company and one of his characters contains a Special Ring. Sneak makes an attack against each character in the company (in order chosen by the defender) and last the character who controls the Ring. After the attack, if Sneak is still in play, remove him from the game along with the Ring. Neither manifestation of both can be brought into play again. If it is The One Ring; your opponent loses the game."},
 				"quote": 
 					{"en": "“My Precious! O my Precious!’” – LotR III"},
-				"image": "The Betrayal of Smeagol.png",
+				"image": "The Betrayal of Smeagol.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5855,7 +5855,7 @@
 					{"en": "Unique. Demon. Manifestation of Zaken. Playable on Wintirion Iaur. One strike.May also be played after an Undead attack in Dorwinion, Southern Rhovanion, or a region with Rot. A character wounded by The Black Messenger must discard an item they are carrying (the defender’s choice)."},
 				"quote": 
 					{"en": ""},
-				"image": "The Black Messenger.png",
+				"image": "The Black Messenger.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5881,7 +5881,7 @@
 					{"en": "Playable on a company that contains an Aberration and at least one Spider character. The player must make a roll for each Spider character in the company. Returns the character to his or her home site if the Mind of Aberration minus the Mind of the Spider is equal to or less than the result of the roll. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "The Call of the Nest.png",
+				"image": "The Call of the Nest.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5915,7 +5915,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Deafening Grottos .1.png",
+				"image": "The Deafening Grottos .1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5949,7 +5949,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Deafening Grottos.png",
+				"image": "The Deafening Grottos.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5976,7 +5976,7 @@
 					{"en": "Unique. Playable on Barad-dûr if you are Sauron. Place this card aside next to a manifestation of Sauron. Barad-dûr is never discarded or returned to the site deck. Increases the corruption points of all Hero Palantír by 1. All hero companies moving to a site in Gorgoroth must make a roll (modified by +2 for each Hobbit and +1 for each Scout in the company); If the result is less than 7, the company must return to its place of origin. Discard this card if The Ithil-stone comes into play."},
 				"quote": 
 					{"en": "“But it is necessary above all that the Eye of the Enemy continues to be removed from the real danger that threatens it.” – LotR III"},
-				"image": "The Eye of the Enemy.png",
+				"image": "The Eye of the Enemy.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6008,7 +6008,7 @@
 					{"en": "Unique. Demon. Undead. Manifestation of Maugarth. Playable at Dead Marshes. One strike. May also be played after an Undead attack on Dagorlad, Brown Lands, or a region with Rot. A character wounded by The First Wright is taken prisoner in a Ruins and Lairs [R] keyed in one of these regions (at the attacker’s choice); all cards the prisoner character controls are discarded. Rescue Attack: Undead, 1 Prowess 13 strike."},
 				"quote": 
 					{"en": ""},
-				"image": "The First Wright.png",
+				"image": "The First Wright.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6042,7 +6042,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Haunted Grottos.png",
+				"image": "The Haunted Grottos.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6076,7 +6076,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Haunted Grottos.1.png",
+				"image": "The Haunted Grottos.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6108,7 +6108,7 @@
 					{"en": "Unique. Demon. Manifestation of Ygana. Playable at Hogo Tarosvan. One strike. May also be played after an Undead attack in Lamedon, Lebennin, or a region with Rot. A character wounded by The High Priestess separates into a different company and must return to the site of origin of the initial company."},
 				"quote": 
 					{"en": ""},
-				"image": "The High Priestess.png",
+				"image": "The High Priestess.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6140,7 +6140,7 @@
 					{"en": "Unique. Demon. Manifestation of Kuruki. Playable at Cairn Lossadan. One strike. May also be played after an Undead attack in Angmar, Forochel, or a region with Rot. After playing The Ice Paladin against a company, may play Fell Winter and/or Long Winter against them without against hazard limit."},
 				"quote": 
 					{"en": ""},
-				"image": "The Ice Paladin.png",
+				"image": "The Ice Paladin.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6174,7 +6174,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Igneous Grottos .1.png",
+				"image": "The Igneous Grottos .1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6208,7 +6208,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "Flavor Text"},
-				"image": "The Igneous Grottos.png",
+				"image": "The Igneous Grottos.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6240,7 +6240,7 @@
 					{"en": "Unique. Demon. Manifestation of Faebartha. Playable at Ûgûlai. One strike. May also be played after an Undead attack keyed in Gundabad, Anduin Vales, or a region with Rot. A character wounded by The Mist Walker must return alone to the company’s place of origin."},
 				"quote": 
 					{"en": ""},
-				"image": "The Mist Walker.png",
+				"image": "The Mist Walker.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6272,7 +6272,7 @@
 					{"en": "Unique. Demon. Manifestation of Langon. Playable at Nen Falastir. One strike. May also be played after an Undead attack in Harondor, Khand, or a region with Rot. If a character is wounded by The Pest Sower instead of making a Body check, you can play Plague on them, which can come from your hand or discard pile."},
 				"quote": 
 					{"en": ""},
-				"image": "The Pest Sower.png",
+				"image": "The Pest Sower.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6304,7 +6304,7 @@
 					{"en": "Unique. Demon. Manifestation of Carrog. Playable at Carvarad. One strike. May also be played after an Undead attack in Dorwinion, Southern Rhovanion, or a region with Rot. Reduces by 3 all influence rolls made by a company that has faced The Red Priest until the end of the turn."},
 				"quote": 
 					{"en": ""},
-				"image": "The Red Priest.png",
+				"image": "The Red Priest.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6336,7 +6336,7 @@
 					{"en": "Unique. Demon. Manifestation of Lairathin. Playable on Isle of the Dead that Live. One strike. May also be played after an Undead attack in a Coastal Sea[c] or a region adjacent to Coastal Sea [c] with Rot. All attacks keyed in a Coastal Sea [c] against the company of The Shadow of the Dusk, have their Prowess and Body (if any) reduced by one."},
 				"quote": 
 					{"en": ""},
-				"image": "The Shadow of the Dusk.png",
+				"image": "The Shadow of the Dusk.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6370,7 +6370,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Shelob´s Great Pit.png",
+				"image": "The Shelob´s Great Pit.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6404,7 +6404,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Shelobs Great Pit.1.png",
+				"image": "The Shelobs Great Pit.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6436,7 +6436,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Shelob´s Great Pit.png",
+				"image": "The Shelob´s Great Pit.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6468,7 +6468,7 @@
 					{"en": "Unique. Demon. Manifestation of Dûran. Playable at Tum-i-Cereg. One strike. May also be played after an Undead attack in Old Pûkel Gap, Old Pûkel Land, or a region with Rot. A character wounded by The Slave Master must discard an item they are carrying (the defender’s choice)."},
 				"quote": 
 					{"en": ""},
-				"image": "The Slave Master.png",
+				"image": "The Slave Master.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6500,7 +6500,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Sulfur-deeps.png",
+				"image": "The Sulfur-deeps.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6534,7 +6534,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "The Under-gates.png",
+				"image": "The Under-gates.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6561,7 +6561,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen, an Aberration (other than Maeklog), or a Spider Leader in a Spiderhaven [K]. The character may use Shadow magic; increases your Mind by 1. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“A cloak of darkness she wove about them when Melkor and Ungoliant set forth: an Unlight, in which things seemed to be no more, and which eyes could not pierce, for it was void.” – Sil"},
-				"image": "The Unlight of Ungoliant.png",
+				"image": "The Unlight of Ungoliant.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6587,7 +6587,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if she is in a Spiderhaven [K]. When you store a Special Ring (except The One Ring), a Palantír, or an item that is an Artifact, you can reduce its marshalling points by 1 to place a Rot marker in the region where the Spider Haven is keyed, or else already has, in a non-Coastal Sea [c] keyed to three regions away that is adjacent to a region with Rot. Cannot be duplicated."},
 				"quote": 
 					{"en": "“And still she thirsted, and going to the Wells of Varda she drank them dry…” – Sil"},
-				"image": "Thirst of Power.png",
+				"image": "Thirst of Power.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6622,7 +6622,7 @@
 					{"en": "Unique. He can use Sorcery. +1 to his direct influence against any playable faction in Khand region."},
 				"quote": 
 					{"en": "“One of Sauron’s most versatile servants, equally adapted to the dark arts and the use of the sword, he maintained terrifying and efficient control of his armies.” – Kuduk Wisdom"},
-				"image": "Tónn Varthkûr.png",
+				"image": "Tónn Varthkûr.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6649,7 +6649,7 @@
 					{"en": "Unique. Spider Queen specific. It can be played on a starting company instead of a minor item. Your deck can include and allows you to play any minion character (include agents) whose Mind attribute is less than 5, even as a follower of a Spider Queen. The character can only enter play at her home place or at a Spiderhaven [K] if a Spider Queen is there."},
 				"quote": 
 					{"en": "“…but we left him alone: apparently he understands with the Lady.” – LotR II"},
-				"image": "Treats of the Lady.png",
+				"image": "Treats of the Lady.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6684,7 +6684,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Located in the mountains, in this place the Dunir buried their dead.” – Shadow Tribes"},
-				"image": "Tum-i-Cereg.1.png",
+				"image": "Tum-i-Cereg.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6719,7 +6719,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The Great Mound stands out among all the steep underground crypts in the mountains.” – Shadow Tribes"},
-				"image": "Tum-i-Cereg.png",
+				"image": "Tum-i-Cereg.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6754,7 +6754,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 8. +1 to Prowess if he is in the same company as Zimbrelian."},
 				"quote": 
 					{"en": "“They dwelt together in caves at the foot of the Wstrikee Mountains…” – Shadow Tribes"},
-				"image": "Tyqelian.png",
+				"image": "Tyqelian.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6789,7 +6789,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ûgûlai.png",
+				"image": "Ûgûlai.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6824,7 +6824,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ûgûlai.1.png",
+				"image": "Ûgûlai.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6859,7 +6859,7 @@
 					{"en": "Unique. Uruk-hai. Discard with a Resistance check of 8. +2 to direct influence against Spiders. If you are Shelob, it only requires 3 influence points to be controlled."},
 				"quote": 
 					{"en": "“Úklurg was in charge of providing food to the Cat, the only one who could occasionally get close…” – Shadow Tribes"},
-				"image": "Úklurg.png",
+				"image": "Úklurg.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6894,7 +6894,7 @@
 					{"en": "Unique. Manifestation of Immemorial Stone Queen. Unless she is one of the starting characters, she can only come into play in her home site. +1 Prowess against Elves. +3 to direct influence against Spiders, Woses, Spider factions, and Woses factions. +2 to direct influence against the Mirkwood Spiders faction. She can use Shadow magic."},
 				"quote": 
 					{"en": "“She worships Drúedain fanatics, who bring her generous sacrifices in exchange for knowledge and protection.” – Shadow Tribes"},
-				"image": "Unglob.png",
+				"image": "Unglob.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6927,7 +6927,7 @@
 					{"en": "Spider Queen specific. -1 to all her corruption checks. Remove Ungoliant’s Acolyte from play to cancel a hit against an Aberration character or Spider Queen in his company."},
 				"quote": 
 					{"en": "“…members of secret cults who offered themselves as sacrifices to the ancient demon spiders.” – Shadow Tribes"},
-				"image": "Ungoliant´ Acolyte.png",
+				"image": "Ungoliant´ Acolyte.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6953,7 +6953,7 @@
 					{"en": "Spider Queen specific. Playable during the organization phase if your Spider Queen is in play. If an Aberration or Spider Leader comes into play in her home site, place a Rot marker in the region in which that site is keyed."},
 				"quote": 
 					{"en": "“…but a foul reek, as if filth unnameable were piled and hoarded in the dark within.” - LotR II"},
-				"image": "Unnameable Filths.png",
+				"image": "Unnameable Filths.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -6982,7 +6982,7 @@
 					{"en": "Unique. Playable on a faction or ally that has been played in a site keyed in a region with a Rot. Halve (round up) the target faction or ally’s marchalling points. Discard if the Rot marker is removed or when any play deck is exhausted."},
 				"quote": 
 					{"en": "“...in that dark valley that was after called Nan Dungortheb, the Valley of Dreadful Death, because of the horror that she bred there. For other foul creatures of spider form had dwelt...” - Sil"},
-				"image": "Valley of Dreadful Dead.png",
+				"image": "Valley of Dreadful Dead.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7014,7 +7014,7 @@
 					{"en": "Unique. Eagle. Manifestation of Landroval. Playable keyed in Eagle´s Eyrie or in some Ruins and Lairs [R] in Anduin Vales. You can discard the Vassal of the Winds to cancel a Nazgûl event that affects his company or an entity that is part of it."},
 				"quote": 
 					{"en": ""},
-				"image": "Vassal of the Winds.png",
+				"image": "Vassal of the Winds.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7041,7 +7041,7 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if Gates of Morning is not in play. Your Spider Queen receives +3 to her general influence while in a region with Rot. If it is the first copy of Vomit Darkness in play, place a Rot marker in each non-Coast region that contains a Spiderhaven [K]. If it is not the first copy of Vomit Darkness in play, place a Rot marker in each non-Coast Sea adjacent to the region where that Spiderhaven [K] is keyed. Discard when Gates of Morning comes into play, if more than one copy of Vomit Darkness is in play, discard a single copy."},
 				"quote": 
 					{"en": "“…for all living things were her food, and her vomit darkness.” – LotR II"},
-				"image": "Vomit Darkness.png",
+				"image": "Vomit Darkness.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7076,7 +7076,7 @@
 					{"en": "Unique. Manifestation of Spawn of Ungoliant. Unless she is one of the starting characters, she can only come into play in her home site. +1 Prowess against Dúnedain. +1 to direct influence against Spiders and Spider factions. All Resistance checks as a result of missing a strike against Vorsang are modified by +1. When your company makes an attack in CvsC, you always choose the defending character regardless of any other cards played."},
 				"quote": 
 					{"en": "“Vorsang is one of the few large spiders that inhabit the depths of the Wstrikee Mountains.” – Shadow Tribes"},
-				"image": "Vorsang.png",
+				"image": "Vorsang.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7105,7 +7105,7 @@
 					{"en": "Unique. Manifestation of Spawn of Ungoliant. Playable at The Pûkel-deeps or The Gem-deeps if the influence check is greater than 12.Modifications: Spider Queen (+3), Bogbereth (+2), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered holding. Any company that moves into the Pûkel-deeps or The Gem-deeps faces one attack: Spawn, two strikes of 15/8 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "Vorsang Hungried.png",
+				"image": "Vorsang Hungried.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7134,7 +7134,7 @@
 					{"en": "Spider. Playable at a Ruins and Lairs [R], untapped or tapped that contains a Spider automatic attack. May tap to modify a Body check made by the character controlling it by -1."},
 				"quote": 
 					{"en": "“In the end he poked his head above the roof of leaves, and then he found spiders...” – Hob"},
-				"image": "War-spider.png",
+				"image": "War-spider.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7165,7 +7165,7 @@
 					{"en": "Spiders. Three strikes. If the Body check of a character (other than a Wizard or Ringwraith) wounded by the Weavering Spiders is equal to his Body, the character is taken prisoner in a Ruins and Lairs site [R] in the same region (or an adjacent region) than the company’s new site. During the untap phase, the character must make a Body check. If the character is not eliminated, and the result obtained is lower than his Prowess, the character is rescued and forms a company at the rescue site. Rescue Attack: Spiders, 2 strikes of 8 Prowess."},
 				"quote": 
 					{"en": ""},
-				"image": "Weavering Spiders.png",
+				"image": "Weavering Spiders.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7191,7 +7191,7 @@
 					{"en": "Spider Queen specific. Playable on a company if your Spider Queen is in play. During the organization phase you may take this card from your sideboard, and shuffle it into your play deck. All Ruins and Lairs [R] keyed in a Wilderness[w] gain the following automatic attack: Spider, 1 strike with prowess 6. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…weaving webs of shadow…” – LotR II"},
-				"image": "Webs of Shadow.png",
+				"image": "Webs of Shadow.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7226,7 +7226,7 @@
 					{"en": "Unique. Discard with a Body check of 9. +2 to direct influence against Trolls and Troll factions. +1 Prowess against Men (+2 if a Wose)."},
 				"quote": 
 					{"en": "“…Chief of the trolls who ravaged the forests of the Eryn Vorn, but he had his true abode in The Mournshaws.” – Shadow Tribes"},
-				"image": "Wedegog.png",
+				"image": "Wedegog.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7261,7 +7261,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“...a tower in which great books of the dark arts were kept.” – Shadow Tribes"},
-				"image": "Wintirion Iaur.png",
+				"image": "Wintirion Iaur.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7295,7 +7295,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Wintirion Iaur keeps a door open for all who deserve it.” – Shadow Tribes"},
-				"image": "Wintirion Iaur.1.png",
+				"image": "Wintirion Iaur.1.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7330,7 +7330,7 @@
 					{"en": "Unique. Olog-hai. Leader. Discard with a Body check of 8. +1 to direct influence against Trolls, Orcs, Troll factions, and Orc factions. +1 Prowess against Dwarves and Elves."},
 				"quote": 
 					{"en": "“But the trolls are just an imposture, manufactured by the enemy in the Great Dark, a false imitation of the Ents…” – LotR II"},
-				"image": "Wodûrishak.png",
+				"image": "Wodûrishak.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7363,7 +7363,7 @@
 					{"en": "It can come into play in a company of a Spider Queen player. -1 to all his corruption checks. He counts as a half character for the purpose of calculating his company size. May play from the discard pile as if it was in your hand."},
 				"quote": 
 					{"en": "“…through shamanic rituals they offered the demon spiders the sacrifice of their prey.” – Shadow Tribes"},
-				"image": "Worshiper Wose.png",
+				"image": "Worshiper Wose.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7395,7 +7395,7 @@
 					{"en": "Unique. Demon. Playable at Hogo Tarosvan by a Ranger with Body greater than 9. Discard if your company moves to a site other than Lamedon, Lebennin, or a region with Rot. You can play Govern the Storms and use Spiritual magic (ignore any corruption checks)."},
 				"quote": 
 					{"en": ""},
-				"image": "Ygana.png",
+				"image": "Ygana.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7423,7 +7423,7 @@
 					{"en": "Spider Queen specific. Playable during your organization phase on your marshalling point pile if your Spider Queen is in a Spiderhaven [K], and you have more marshalling points than and your opponent is a server player. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "Your Own Rules.png",
+				"image": "Your Own Rules.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -7455,7 +7455,7 @@
 					{"en": "Unique. Demon. Playable on Wintirion Iaur by a Diplomat with direct influence 3 or higher. Discard if your company moves to a site other than Dorwinion, Southern Rhovanion, or a region with Rot. May play Poisonous Despair (ignores any corruption checks). It can be discarded to take a Spirit Ring item from your supplemental deck or discard pile and play it on the character who controlled it."},
 				"quote": 
 					{"en": ""},
-				"image": "Zaken.png",
+				"image": "Zaken.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
@@ -7490,7 +7490,7 @@
 					{"en": "Unique. Return to its owner’s hand with a Body check of 8. +1 to Prowess if in the same company as Tyqelian."},
 				"quote": 
 					{"en": "“…and together they hunted and surprised their prey.” – Shadow Tribes"},
-				"image": "Zimbrelian.png",
+				"image": "Zimbrelian.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			}

@@ -11,11 +11,11 @@
 			"en": "https://github.com/Machacator/meccg-webs-of-shadows/tree/main/images_en/",
 			"es": "https://github.com/Machacator/meccg-webs-of-shadows/tree/main/images_es/" },
 		"cards": {
-			"TS-21": {
-				"id": "TS-21",
+			"TS-20": {
+				"id": "TS-20",
 				"set": "TS",
 				"name": {
-					"en": "<b>Bogbereth</b>",
+					"en": "Bogbereth",
 					"es": "Bogbereth",
 					"de": "Name DE",
 					"fr": "<b>Bogbereth</b>",
@@ -42,15 +42,15 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she may only brought into play in her home site. Return it to its owner’s hand on a body check result of 7. +2 to direct influence against Spiders and Spider factions. Bogbereth’s prowess is only modified by -2 when she chooses not tap to face a strike, and -1 if she is wounded."},
 				"quote": 
 					{"en": "“...she took refuge in an ancient ruined tower over the sea in the south of Middle-earth.” – Shadow Tribes"},
-				"image": "bbogberethb_21.jpg",
+				"image": "bbogberethb_20.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-54": {
-				"id": "TS-54",
+			"TS-51": {
+				"id": "TS-51",
 				"set": "TS",
 				"name": {
-					"en": "<b>Dolomed</b>",
+					"en": "Dolomed",
 					"es": "Dolomed",
 					"de": "Name DE",
 					"fr": "<b>Dolomed</b>",
@@ -77,15 +77,15 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she may only be brought into play in her home site. Return to its owner’s hand on a body check result of 7. +1 prowess against Elves. +1 to all rolls made by your company to move to an adjacent Underdeeps site."},
 				"quote": 
 					{"en": "“...the great marsh spider made her abode in the vicinity of the ancient ruins of Ost-in-Edhil.” – Shadow Tribes"},
-				"image": "bdolomedb_54.jpg",
+				"image": "bdolomedb_51.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-221": {
-				"id": "TS-221",
+			"TS-203": {
+				"id": "TS-203",
 				"set": "TS",
 				"name": {
-					"en": "<b>Unglob Famished</b>",
+					"en": "Unglob Famished",
 					"es": "Unglob Hambrienta",
 					"de": "Name DE",
 					"fr": "<b>Unglob Famished</b>",
@@ -106,12 +106,12 @@
 					{"en": "Unique. Manifestation of the Immemorial Stone Queen. Playable at The Moss-deeps if the influence check is greater than 11.Modifications: Spider Queen (+3), Gwethil (+2), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered detainment. Any company moving to The Moss-deeps faces one attack: Spawn, two strikes of 17/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "bunglobfamishedb_221.jpg",
+				"image": "bunglobfamishedb_203.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-69": {
-				"id": "TS-69",
+			"TS-63": {
+				"id": "TS-63",
 				"set": "TS",
 				"name": {
 					"en": "A Fly in the Spider's Web",
@@ -133,12 +133,12 @@
 					{"en": "Unique. Spider Queen specific. Playable on a company that contains a Spider Queen or at least one Aberration. You may remove a character in the company or a character in your hand to heal a character in the same company (move from wounded to healed to tapped), or untap two Spider characters."},
 				"quote": 
 					{"en": ""},
-				"image": "aflyinthespidersweb_69.jpg",
+				"image": "aflyinthespidersweb_63.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-78": {
-				"id": "TS-78",
+			"TS-72": {
+				"id": "TS-72",
 				"set": "TS",
 				"name": {
 					"en": "A Great Hoard",
@@ -159,12 +159,12 @@
 					{"en": "Tap two Warrior characters in the same company to play this card on their company. During the setup phase, you may tap a Warrior to take a minor or major item from your sideboard or discard pile and place it “aside” with this card. This item gives no marshalling points. A maximum of one item may be placed with this card at a time. After the target company defeats a creature with a marshalling point value of 2 or more, you may tap a Warrior to play an item placed with this card on it as if it were in your hand."},
 				"quote": 
 					{"en": ""},
-				"image": "agreathoard_78.jpg",
+				"image": "agreathoard_72.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-99": {
-				"id": "TS-99",
+			"TS-91": {
+				"id": "TS-91",
 				"set": "TS",
 				"name": {
 					"en": "A Knife in the Dark",
@@ -185,12 +185,12 @@
 					{"en": "All Slayer hazard creature attacks may be played in any Shadow-land [s]. If Morgul Night or Doors of Night is in play, all Slayers hazard creature attacks may be played in any Dark-domain [d]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "aknifeinthedark_99.jpg",
+				"image": "aknifeinthedark_91.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-152": {
-				"id": "TS-152",
+			"TS-137": {
+				"id": "TS-137",
 				"set": "TS",
 				"name": {
 					"en": "A Present",
@@ -213,12 +213,12 @@
 					{"en": "Spider Queen specific. Playable on a Spiderhaven [K]. Your characters may store Trophy cards under this card. The character must make a corruption check for each Trophy he stores for this purpose. For every 2 Trophy cards under this card, it gives 1 marshalling point (up to a maximum of 3). Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": "“I thought her Sneak had brought her a toy, or that you’d perhaps sent her a present…” – LotR II"},
-				"image": "apresent_152.jpg",
+				"image": "apresent_137.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-196": {
-				"id": "TS-196",
+			"TS-178": {
+				"id": "TS-178",
 				"set": "TS",
 				"name": {
 					"en": "A Spy Among Us",
@@ -242,12 +242,12 @@
 					{"en": "Unique. Playable on a unique hero character with mind less than 4 in your hand. The character may be played as a agent against a dark player. If the character is defeated, place this card on the opponent’s marshalling point pile, this card gives 1 marshalling point plus the marshalling points indicated on the character card."},
 				"quote": 
 					{"en": ""},
-				"image": "aspyamongus_196.jpg",
+				"image": "aspyamongus_178.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-198": {
-				"id": "TS-198",
+			"TS-180": {
+				"id": "TS-180",
 				"set": "TS",
 				"name": {
 					"en": "A Stench",
@@ -268,7 +268,7 @@
 					{"en": "All characters other than Spider Queen, Aberration, or Spider whose company moves through a region with Rot receive -1 to prowess and +1 to their corruption checks until the end of the turn. Cannot be duplicated."},
 				"quote": 
 					{"en": "“Out of it came a stench, not the sickly odour of decay in the meads of Morgul…” - SdlA II"},
-				"image": "astench_198.jpg",
+				"image": "astench_180.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -659,8 +659,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-19": {
-				"id": "TS-19",
+			"TS-18": {
+				"id": "TS-18",
 				"set": "TS",
 				"name": {
 					"en": "Blisters of Decay",
@@ -682,12 +682,12 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She the Great or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. You may tap the Spider Queen to cancel an attack against her company."},
 				"quote": 
 					{"en": "“Knobbed and pitted with corruption was her age-old hide...” – LotR II"},
-				"image": "blistersofdecay_19.jpg",
+				"image": "blistersofdecay_18.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-20": {
-				"id": "TS-20",
+			"TS-19": {
+				"id": "TS-19",
 				"set": "TS",
 				"name": {
 					"en": "Bloodthirsty",
@@ -709,12 +709,12 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She the Great. Discard if you play another Potencie card or the Spider Scheme card leaves active play. Once during your movement/hazard phase, you may untap all Spider characters that are tapped in the Spider Queen’s company. If it was untapped, tap the Spider Queen."},
 				"quote": 
 					{"en": ""},
-				"image": "bloodthirsty_20.jpg",
+				"image": "bloodthirsty_19.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-22": {
-				"id": "TS-22",
+			"TS-21": {
+				"id": "TS-21",
 				"set": "TS",
 				"name": {
 					"en": "Boned Fish",
@@ -736,12 +736,12 @@
 					{"en": "Dark enchantment. Playable on a non-Avatar character facing a strike from a Spider or Spawn creature attack. Reduce character’s prowess and body by 2. Cannot be duplicated on a given character. If at a Haven/Darkhaven [H,K] during the organization phase, a character with this card may tap to attempt to remove it. Make a roll: if the result is greater than 7, discard this card. Modify the roll by +1 for each sage character in his company."},
 				"quote": 
 					{"en": "“…they go as limp as boned fish…” – LotR II"},
-				"image": "bonedfish_22.jpg",
+				"image": "bonedfish_21.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-23": {
-				"id": "TS-23",
+			"TS-22": {
+				"id": "TS-22",
 				"set": "TS",
 				"name": {
 					"en": "Bring Good Food",
@@ -764,12 +764,12 @@
 					{"en": "Spider Queen specific. Playable on an hazard creature, or a character from an opposing company, who has been defeated in combat. Instead of being defeated, target is taken prisoner under this card. Tap a character to put Bring Good Food and the target card under them.Rescue Attack: same race as the bearer, 1 strike of prowess 5 plus the prowess of the bearer character. That character cannot be untapped until this card is stored in a Spiderhaven. If stored, target is eliminated, and this card gives three marshalling points. Cannot be duplicated on the same target."},
 				"quote": 
 					{"en": ""},
-				"image": "bringgoodfood_23.jpg",
+				"image": "bringgoodfood_22.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-24": {
-				"id": "TS-24",
+			"TS-23": {
+				"id": "TS-23",
 				"set": "TS",
 				"name": {
 					"en": "Buhr Ailgra",
@@ -799,12 +799,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Buhr Ailgra is also an important crossing point for horse breeders.” – Shadow Tribes"},
-				"image": "buhrailgra_24.jpg",
+				"image": "buhrailgra_23.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-25": {
-				"id": "TS-25",
+			"TS-24": {
+				"id": "TS-24",
 				"set": "TS",
 				"name": {
 					"en": "Buhr Ailgra",
@@ -825,7 +825,7 @@
 					"auto_attack": "Men — 2 strikes with 8 prowess (detainment against covert companies)",
 					"site_type": "{B}",
 					"playable": "Information",
-					"special": "During the sites phase you may tap a diplomat in one of your companies here to take a Man faction playable in Southern Rhovanion or its adjacent regions from your sideboard or discard pile and put it into your play deck.",
+					"special": "During the site phase you may tap a diplomat in one of your companies at this site to take a Man faction playable in Southern Rhovanion or its adjacent regions from your sideboard or discard pile and shuffle it into your play deck.",
 					"drawOpponent": "2",
 					"site_path": "{d}{w}",
 					"spawn": false,
@@ -834,12 +834,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The capital of the Ailgarthas, the oldest of the six Eothraim tribes.” – Shadow Tribes"},
-				"image": "buhrailgra_25.jpg",
+				"image": "buhrailgra_24.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-26": {
-				"id": "TS-26",
+			"TS-25": {
+				"id": "TS-25",
 				"set": "TS",
 				"name": {
 					"en": "Calassë the Oarni",
@@ -864,45 +864,12 @@
 					{"en": "Unique. Playable at a non-Dragon lair Ruins and Lairs [R] in a Coastal Sea [c]. Cannot be attacked. Tap Calassë the Oarni to give +1 prowess to all characters in her company until the end of the phase. Discard Calassë the Oarni if the character controlling her is wounded or her company moves to a site that´s not a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "calassëtheoarni_26.jpg",
+				"image": "calassëtheoarni_25.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
 			"TS-28": {
 				"id": "TS-28",
-				"set": "TS",
-				"name": {
-					"en": "Carrog",
-					"es": "Carrog",
-					"de": "Name DE",
-					"fr": "Carrog",
-					"it": "Carrog",
-					"nl": "Carrog",
-					"fi": "Carrog",
-					"ja": "Carrog"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "9",
-					"prowess": "3",
-					"mind": "3",
-					"directInfluence": "2",
-					"subtype": "Diplomat Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable at Carvarad by a diplomat with mind 6 or higher. Discard if your company moves to a site other than the Horse Plains, Nurn, or a region with Rot. He may play Words of Menace and Deceit on himself (ignores any corruption checks). This ally may attempt to influence factions as if he were a character."},
-				"quote": 
-					{"en": ""},
-				"image": "carrog_28.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-30": {
-				"id": "TS-30",
 				"set": "TS",
 				"name": {
 					"en": "Carvarad",
@@ -932,12 +899,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“An abandoned tower in the middle of the Ered Lithui…” – Shadow Tribes"},
-				"image": "carvarad_30.jpg",
+				"image": "carvarad_28.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-29": {
-				"id": "TS-29",
+			"TS-27": {
+				"id": "TS-27",
 				"set": "TS",
 				"name": {
 					"en": "Carvarad",
@@ -958,7 +925,7 @@
 					"auto_attack": "Undead — 2 strikes with 8 prowess",
 					"site_type": "{R}",
 					"playable": "Items* (Minor, Major)*- only Weapon, Armor, Shield and Helmet items",
-					"special": "Hidden site. The company must contain a Sage to reveal this site.",
+					"special": "Hidden site. The company must contain a sage to reveal this site.",
 					"drawOpponent": "2",
 					"site_path": "{d}{w}{s}",
 					"spawn": false,
@@ -967,12 +934,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Black as ash, it was impossible to locate it among the steep walls of the Ash Mountains.” – Shadow Tribes"},
-				"image": "carvarad_29.jpg",
+				"image": "carvarad_27.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-31": {
-				"id": "TS-31",
+			"TS-29": {
+				"id": "TS-29",
 				"set": "TS",
 				"name": {
 					"en": "Clear up the Stink",
@@ -993,12 +960,12 @@
 					{"en": "Playable if Gates of Night is not in play. During your movement/hazards phase you may discard a spell or ritual card if you are a hero player, or a spell card if you are a minion player, to remove a Rot marker that is in a region you are moving through the company of your Avatar, or the magic user. Cannot be duplicated by the same player."},
 				"quote": 
 					{"en": "“...their breath became easier and their heads clearer…” - LotR II"},
-				"image": "clearupthestink_31.jpg",
+				"image": "clearupthestink_29.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-32": {
-				"id": "TS-32",
+			"TS-30": {
+				"id": "TS-30",
 				"set": "TS",
 				"name": {
 					"en": "Cloak of Rot",
@@ -1024,12 +991,12 @@
 					{"en": "Unique. Artifact. Playable at Ruins and Lairs [R] in a region with Rot. Tap the bearer to modify the number of strikes by one or -2 to the prowess of an Elf or Awakened Plant attack against his company. Bearer must make a corruption check."},
 				"quote": 
 					{"en": "“A cloak woven from the dark webs of an evil monstrosity.” – Shadow Tribes"},
-				"image": "cloakofrot_32.jpg",
+				"image": "cloakofrot_30.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-33": {
-				"id": "TS-33",
+			"TS-31": {
+				"id": "TS-31",
 				"set": "TS",
 				"name": {
 					"en": "Crazy Cob",
@@ -1059,12 +1026,12 @@
 					{"en": "Unique. Return to its owner’s hand on a body check result of 8. +1 prowess against Dwarves. If Angry Gob, Lazy Lob and/or Old Pob are in the same company, reduce Crazy Cob mind by 1."},
 				"quote": 
 					{"en": "“…and crazy Cob weave webs to hunt me…” – Hob"},
-				"image": "crazycob_33.jpg",
+				"image": "crazycob_31.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-34": {
-				"id": "TS-34",
+			"TS-32": {
+				"id": "TS-32",
 				"set": "TS",
 				"name": {
 					"en": "Crazy Cobwebs",
@@ -1086,12 +1053,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She Evil Creature is not in play. You may play a Spider Leader character in a site where one of your companies is located, if it is a Ruins and Lairs [R] located in a Wilderness [w]. When it comes into play, place this card under the Spider Leader, -1 to its mind."},
 				"quote": 
 					{"en": "“You cannot trap me, though you try, in your cobwebs crazy.” – Hob"},
-				"image": "crazycobwebs_34.jpg",
+				"image": "crazycobwebs_32.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-35": {
-				"id": "TS-35",
+			"TS-33": {
+				"id": "TS-33",
 				"set": "TS",
 				"name": {
 					"en": "Crystal Spider",
@@ -1119,12 +1086,12 @@
 					{"en": "Return it to its owner’s hand on a body check result of 6 or 7. -1 to all its corruption checks. It may be tapped to add +1 to an to check roll against an Animal or Spider faction."},
 				"quote": 
 					{"en": "“Large spiders from the Wstrikee Mountains characterized by their luminescent skin.” – Shadow Tribes"},
-				"image": "crystalspider_35.jpg",
+				"image": "crystalspider_33.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-36": {
-				"id": "TS-36",
+			"TS-34": {
+				"id": "TS-34",
 				"set": "TS",
 				"name": {
 					"en": "Cult of the Web",
@@ -1147,12 +1114,12 @@
 					{"en": "Spider Queen specific. Potentie. May only be played on a company with an Aberration, or in a site with a Spider automatic attack, if a character in the company controls a Trophy or Prisoner. Eliminate the Trophy or Prisoner and tap the character controlling it. This site becomes one of your Spiderhavens [K] and loses all automatic attacks to you; other versions of the site gain the following automatic attack: Spawn, 2 strikes of prowess 15, any character wounded by this attack is immediately eliminated. Discard when the Aberration leaves the site. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "cultoftheweb_36.jpg",
+				"image": "cultoftheweb_34.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-38": {
-				"id": "TS-38",
+			"TS-35": {
+				"id": "TS-35",
 				"set": "TS",
 				"name": {
 					"en": "Cûm Taran",
@@ -1181,12 +1148,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Known as the Valley of Thunder because of a large mountainous elevation frequently surrounded by storm clouds.” – Shadow Tribes"},
-				"image": "cûmtaran_38.jpg",
+				"image": "cûmtaran_35.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-37": {
-				"id": "TS-37",
+			"TS-36": {
+				"id": "TS-36",
 				"set": "TS",
 				"name": {
 					"en": "Cûm Taran",
@@ -1215,12 +1182,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Sacred ground of the Daen marked by a tower that stood on a low hill.” – Shadow Tribes"},
-				"image": "cûmtaran_37.jpg",
+				"image": "cûmtaran_36.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-39": {
-				"id": "TS-39",
+			"TS-37": {
+				"id": "TS-37",
 				"set": "TS",
 				"name": {
 					"en": "Cutt off from Light",
@@ -1242,12 +1209,12 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable on She the Great or She the Watcher during the organization phase. Discard if you play another Potencie card or a Spider Scheme card leaves active play. Your Spider Queen may be tapped to modify a corruption check made by an Aberration or Spider character by +2."},
 				"quote": 
 					{"en": "“…cutting him off from light and from regret.” – LotR II"},
-				"image": "cuttofffromlight_39.jpg",
+				"image": "cuttofffromlight_37.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-40": {
-				"id": "TS-40",
+			"TS-38": {
+				"id": "TS-38",
 				"set": "TS",
 				"name": {
 					"en": "Dark Velvety Butterflies",
@@ -1270,12 +1237,12 @@
 					{"en": "Playable at a tapped or untapped site in a Wilderness [w] if the influence check is greater than 11.Modifications: if Radagast is your Wizard (+3), if Gandalf is your Wizard (+1), Hobbits (+1).Discard this faction to give +2 to the roll on a corruption check."},
 				"quote": 
 					{"en": "“…butterfly that loves the tops of oak-woods, but these were not purple at all, they were a dark dark velvety black…” – Hob"},
-				"image": "darkvelvetybutterflies_40.jpg",
+				"image": "darkvelvetybutterflies_38.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-43": {
-				"id": "TS-43",
+			"TS-41": {
+				"id": "TS-41",
 				"set": "TS",
 				"name": {
 					"en": "Deeper and Denser Darkness",
@@ -1298,13 +1265,13 @@
 				"text": 
 					{"en": "Unique. Spider Queen specific. Playable on your Spider Queen if she is in a Spiderhaven [K]. At the end of the game, this card gives 1 marshalling point for every 4 regions with Rot, up to a maximum of 4 marshalling points."},
 				"quote": 
-					{"en": "“…Frodo or Sam known such darkness, and if possible here it was deeper and denser.” – LotR II"},
-				"image": "deeperanddenserdarkness_43.jpg",
+					{"en": "“…Frodo or Sam known such darkness, and if possible here it was deeper and denser.” –LotR II"},
+				"image": "deeperanddenserdarkness_41.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-44": {
-				"id": "TS-44",
+			"TS-42": {
+				"id": "TS-42",
 				"set": "TS",
 				"name": {
 					"en": "Descendant of Thorondor",
@@ -1331,12 +1298,12 @@
 					{"en": "Unique. Eagle. Playable at Eagle´s Eyre or in any Ruins and Lairs [R] in Anduin Vales. You may discard Descendant of Thorondor to cancel an attack against his company from a long-event Dragon manifestation in Anduin Vales and/or its adjacent regions."},
 				"quote": 
 					{"en": ""},
-				"image": "descendantofthorondor_44.jpg",
+				"image": "descendantofthorondor_42.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-45": {
-				"id": "TS-45",
+			"TS-43": {
+				"id": "TS-43",
 				"set": "TS",
 				"name": {
 					"en": "Desert Spiders",
@@ -1362,12 +1329,12 @@
 					{"en": "Spiders. Two strikes. +1 to all body checks resulting from failing a strike from Desert Spiders. May also be keyed to Harondor, Khand and Horse Plains; and also be played in all Ruins and Lairs [R] in these regions."},
 				"quote": 
 					{"en": "“They will come on you in the wild, in some dark place where there is no help.” – SdlA I"},
-				"image": "desertspiders_45.jpg",
+				"image": "desertspiders_43.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-46": {
-				"id": "TS-46",
+			"TS-44": {
+				"id": "TS-44",
 				"set": "TS",
 				"name": {
 					"en": "Destroy the Last Havens",
@@ -1390,44 +1357,12 @@
 					{"en": "Playable during the sites phase on one of your companies after facing the site’s automatic attacks, if it contains a Ringwraith or a Leader with mind 7 or higher and the hero version of the site is normally a Haven [H]. Tap the site. The company faces 3 attacks (cannot be canceled): Elves, 4 strikes with prowess 9; Elves, 3 strikes with prowess 10; Elf Lord, 1 strike with prowess 16. Then tap the Ringwraith or Leader, or discard this card. If not discarded, all versions of the Haven become Ruins and Lairs [R], lose all their automatic attacks and gain the following (detainment against minion): Orcs, 2 strikes of prowess 9; Trolls, 1 strike of prowess 11. No hero player may play resource cards in the site. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "destroythelasthavens_46.jpg",
+				"image": "destroythelasthavens_44.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-47": {
-				"id": "TS-47",
-				"set": "TS",
-				"name": {
-					"en": "Devam of Ash",
-					"es": "Devam de la Ceniza",
-					"de": "Name DE",
-					"fr": "Devam of Ash",
-					"it": "Devam of Ash",
-					"nl": "Devam of Ash",
-					"fi": "Devam of Ash",
-					"ja": "Devam of Ash"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "2",
-					"marshallingPoints": "4",
-					"marshallingPointsType": "kill",
-					"prowess": "13/9",
-					"race": "Demon, Maia",
-					"subtype": "Creature/Permanent-event",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Maia. Manifestation of Mourfuin. As a creature, playable at The Igneous Grottos. Two strikes. If Gates of Night is in play, it may also be played anywhere in the Underdeeps. As a permanent-event, reduces by 1 all corruption check rolls made from spell or magic cards."},
-				"quote": 
-					{"en": ""},
-				"image": "devamofash_47.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-49": {
-				"id": "TS-49",
+			"TS-46": {
+				"id": "TS-46",
 				"set": "TS",
 				"name": {
 					"en": "Devam´s Shrine",
@@ -1448,7 +1383,7 @@
 					"auto_attack": "Men — 2 strikes with 7 prowess (detainment)",
 					"site_type": "{S}",
 					"playable": "Items (Minor)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site.",
 					"drawOpponent": "1",
 					"site_path": "{s}{w}{w}{s}",
 					"spawn": false,
@@ -1457,12 +1392,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“A place destined for rituals and sacrifices of ancients.” – Shadow Tribes"},
-				"image": "devamsshrine_49.jpg",
+				"image": "devamsshrine_46.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-48": {
-				"id": "TS-48",
+			"TS-45": {
+				"id": "TS-45",
 				"set": "TS",
 				"name": {
 					"en": "Devam´s Shrine",
@@ -1483,7 +1418,7 @@
 					"auto_attack": "Men — 3 strikes with 7 prowess",
 					"site_type": "{S}",
 					"playable": "Information, Items (Minor, Major)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site.",
 					"drawOpponent": "3",
 					"site_path": "{w}{f}{c}{w}{s}",
 					"spawn": false,
@@ -1492,12 +1427,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Along the Epel Dúath is the sanctuary of the Devam demons.” – Shadow Tribes"},
-				"image": "devamsshrine_48.jpg",
+				"image": "devamsshrine_45.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-50": {
-				"id": "TS-50",
+			"TS-47": {
+				"id": "TS-47",
 				"set": "TS",
 				"name": {
 					"en": "Devour All Prowess",
@@ -1520,12 +1455,12 @@
 					{"en": "Spider Queen specific. May only be played if your Spider Queen is bearing The One Ring and is in a Spiderhaven [K] that is in a region with Rot. Roll and add one for every three regions with Rot and every other Devour All Prowess in play. If the result is: less than 7, your Spider Queen is eliminated; 7 to 9, discard this card; 10 to 12, you gain 2 marshalling points; greater than 13, you win the game. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…who only desired death for all others…” – LotR II"},
-				"image": "devourallprowess_50.jpg",
+				"image": "devourallprowess_47.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-51": {
-				"id": "TS-51",
+			"TS-48": {
+				"id": "TS-48",
 				"set": "TS",
 				"name": {
 					"en": "Devour your Mates",
@@ -1539,21 +1474,19 @@
 				"type": "Hazard",
 				"alignment": "Neutral",
 				"attributes": {
-					"strikes": "playable on a company that contains an aberration and at least one spider character. choose a spider character from the company and make a roll, if the result is less than the difference between the mind of aberration and the mind of the target spider, the aberration makes an attack against the spider (resolve the combat as if it were a combat between companies, one formed by the aberration and another by the target spider). it cannot be duplicated in the same turn.",
-					"race": "",
-					"subtype": "Creature/Short-event",
+					"subtype": "Short-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Playable on a company that contains an Aberration and at least one Spider character. Choose a Spider character from the company and make a roll, if the result is less than the difference between the mind of Aberration and the mind of the target Spider, the Aberration makes an attack against the Spider (resolve the combat as if it were a combat between companies, one formed by the Aberration and another by the target Spider). It cannot be duplicated in the same turn."},
+					{"en": "Playable on a company that contains an Aberration and at least one Spider character. Choose a Spider character in the company and make a roll, if the result is less than the difference between the mind of the Aberration and the mind of target Spider, the Aberration attacks against the Spider (resolve the combat as if it were a combat between companies, one formed by the Aberration and another by the target Spider). It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…bastards of the miserable mates, her own offspring, that she slew…” – LotR II"},
-				"image": "devouryourmates_51.jpg",
+				"image": "devouryourmates_48.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-52": {
-				"id": "TS-52",
+			"TS-49": {
+				"id": "TS-49",
 				"set": "TS",
 				"name": {
 					"en": "Dizzy and Sick",
@@ -1575,12 +1508,12 @@
 					{"en": "Dark enchantment. Playable on a non-Avatar character facing a strike from a Spider or Spawn creature attack. Character increases his mind by 2. Cannot be duplicated on a given character. If at a Haven/Darkhaven [H,K] during his organization phase, a character with this card may tap to attempt to remove it. Make a roll: if this result is greater than 8, discard this card. Modify the roll by +1 for each sage character in his company."},
 				"quote": 
 					{"en": "“… although he felt dizzy and sick because of the spiders’ poison…” – Hob"},
-				"image": "dizzyandsick_52.jpg",
+				"image": "dizzyandsick_49.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-53": {
-				"id": "TS-53",
+			"TS-50": {
+				"id": "TS-50",
 				"set": "TS",
 				"name": {
 					"en": "Dol Guldur",
@@ -1607,44 +1540,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "dolguldur_53.jpg",
+				"image": "dolguldur_50.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-55": {
-				"id": "TS-55",
-				"set": "TS",
-				"name": {
-					"en": "Dûran",
-					"es": "Dûran",
-					"de": "Name DE",
-					"fr": "Dûran",
-					"it": "Dûran",
-					"nl": "Dûran",
-					"fi": "Dûran",
-					"ja": "Dûran"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "7",
-					"prowess": "6",
-					"mind": "3",
-					"subtype": "Warrior Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. May only be played on Tum-i-Cereg Warrior with prowess 6 or higher. Discard if your company moves to a site that is not in a region in Old Pûkel Gap, Old Pûkel-land, or a region with Rot. You may play Well-preserved (ignores any corruption checks). May be tapped to cancel a Pûkel Creature attack."},
-				"quote": 
-					{"en": ""},
-				"image": "dûran_55.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-56": {
-				"id": "TS-56",
+			"TS-52": {
+				"id": "TS-52",
 				"set": "TS",
 				"name": {
 					"en": "Eagles at Home",
@@ -1669,12 +1570,12 @@
 					{"en": "Unique. Eagle´s Eyrie gains an additional automatic attack against overt companies: Animals. Eagles, 3 strikes of 14/7 (attacker chooses defending characters). +2 prowess against Aberrations, Spiders and Dragons.Additionally, a unique Eagle manifestation may be played against each company not counting against the hazard limit."},
 				"quote": 
 					{"en": ""},
-				"image": "eaglesathome_56.jpg",
+				"image": "eaglesathome_52.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-57": {
-				"id": "TS-57",
+			"TS-53": {
+				"id": "TS-53",
 				"set": "TS",
 				"name": {
 					"en": "Eagoth",
@@ -1704,12 +1605,12 @@
 					{"en": "Unique. Manifestation of Ungoliant’s Foul Issue. Unless she is one of the starting characters, she may only brought into play in her home site. +3 to direct influence against Spiders and Spider factions. Eagoth’s prowess is only modified by -1 when she chooses not to tap to face a strike. +2 to all rolls made by her company to move to an adjacent Under-deeps site."},
 				"quote": 
 					{"en": "“The Great Spawn from the Far South roams the underground ruins to spread its seed into great Spiders of Middle Earth.” – Shadow Tribes"},
-				"image": "eagoth_57.jpg",
+				"image": "eagoth_53.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-58": {
-				"id": "TS-58",
+			"TS-54": {
+				"id": "TS-54",
 				"set": "TS",
 				"name": {
 					"en": "Eagoth Famished",
@@ -1733,12 +1634,12 @@
 					{"en": "Unique. Manifestation of Ungoliant’s Foul Issue. Playable at Ancient Deep-hold if the influence check is greater than 12.Modifications: Spider Queen (+3), Spider Leader (+1), for each other Aberration faction in play (+1), any other character (-3).All Spawn attacks against any of your companies are considered detainment. Any company moving to or from Ancient Deep-hold faces one attack: Spawn, two strikes of 17/7 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "eagothfamished_58.jpg",
+				"image": "eagothfamished_54.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-59": {
-				"id": "TS-59",
+			"TS-55": {
+				"id": "TS-55",
 				"set": "TS",
 				"name": {
 					"en": "Elenion Ancalima!",
@@ -1760,12 +1661,12 @@
 					{"en": "Playable on an Aberration, Spider, Demon or Spider Queen character (or ally) if Gates of Morning or Sun is in play. The character (or ally) receives -1 to prowess and -2 to body. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“Aiya Eärendil Elenion Ancalima! -he cried, and knew not what he had spoken…” – LotR II"},
-				"image": "elenionancalima!_59.jpg",
+				"image": "elenionancalima!_55.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-60": {
-				"id": "TS-60",
+			"TS-56": {
+				"id": "TS-56",
 				"set": "TS",
 				"name": {
 					"en": "Enna San Sarab",
@@ -1789,12 +1690,12 @@
 					{"en": "Unique. Manifestation of Spider of Môrlat. +2 to direct influence against Spiders, Orcs, Spider factions, and Orc factions. She can use shadow-magic. She cannot use basic or region movement, except if she moves to a location in Mirkwood (except Woodland Realm) or a region with Rot. All body checks resulting from missing a strike against Enna San Sarab are modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "ennasansarab_60.jpg",
+				"image": "ennasansarab_56.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-61": {
-				"id": "TS-61",
+			"TS-57": {
+				"id": "TS-57",
 				"set": "TS",
 				"name": {
 					"en": "Ennerlings",
@@ -1817,44 +1718,12 @@
 					{"en": "Playable at a tapped or untapped Shadow-hold [S] in a region with Rot if the influence check is greater than 9.Modifications: Spider Queen (+3), Aberration (+2), Spider Leader (+1), any other character (-3).Discard Ennerlings to untap an Aberration character."},
 				"quote": 
 					{"en": "“When about fifty had gone off to the place where he had stood before…” – Hob"},
-				"image": "ennerlings_61.jpg",
+				"image": "ennerlings_57.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-63": {
-				"id": "TS-63",
-				"set": "TS",
-				"name": {
-					"en": "Faebartha",
-					"es": "Faebartha",
-					"de": "Name DE",
-					"fr": "Faebartha",
-					"it": "Faebartha",
-					"nl": "Faebartha",
-					"fi": "Faebartha",
-					"ja": "Faebartha"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "9",
-					"prowess": "5",
-					"mind": "3",
-					"subtype": "Ranger Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable at Ûgûlai by a ranger whose sum of body and mind is 13 or higher. Discard if your company moves to a site other than Gundabad, Anduin Vales, or a region with Rot. May play Gold Chains in the Wind (ignore any corruption checks). Once per turn, ignore the requirement to tap a ranger character for the first card played in or against your company that requires you to tap a ranger character."},
-				"quote": 
-					{"en": ""},
-				"image": "faebartha_63.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-64": {
-				"id": "TS-64",
+			"TS-59": {
+				"id": "TS-59",
 				"set": "TS",
 				"name": {
 					"en": "Famished for a Long Time",
@@ -1877,12 +1746,12 @@
 					{"en": "Playable on an Aberration or Spider Leader character in your hand. Place the character face up “to the side” along with this card. The character becomes a hazard creature (with the following modifications: Spider, 1 strike with prowess equal to the Spider’s prowess plus 7 and equal body, any character wounded by this attack modifies their body check by +1) and may be played on any company that moves through the same region as its home site or surface site. If the attack is defeated, this card gives as many marshalling points for kills as the target character’s point value. Discard this card after the character attacks. It cannot be duplicated on the same character."},
 				"quote": 
 					{"en": ""},
-				"image": "famishedforalongtime_64.jpg",
+				"image": "famishedforalongtime_59.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-65": {
-				"id": "TS-65",
+			"TS-60": {
+				"id": "TS-60",
 				"set": "TS",
 				"name": {
 					"en": "Fastiqan",
@@ -1910,12 +1779,12 @@
 					{"en": "Return it to its owner’s hand with a body check of 7 or 8. -1 to all its corruption checks. Her company may only move to a site keyed in a Coastal Sea [c] or a surface site keyed in a region adjacent to a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "fastiqan_65.jpg",
+				"image": "fastiqan_60.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-66": {
-				"id": "TS-66",
+			"TS-61": {
+				"id": "TS-61",
 				"set": "TS",
 				"name": {
 					"en": "Fastitocalón",
@@ -1945,12 +1814,12 @@
 					{"en": "Unique. Return to its owner’s hand on a body check result of 9. The company only must use region movement, and only move through Coastal Sea [c] and one less region than usual. It may be tapped to cancel any effect that forces your company to return to its original location or tap its new location; when tapped for this purpose, it must make a body check."},
 				"quote": 
 					{"en": ""},
-				"image": "fastitocalón_66.jpg",
+				"image": "fastitocalón_61.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-67": {
-				"id": "TS-67",
+			"TS-62": {
+				"id": "TS-62",
 				"set": "TS",
 				"name": {
 					"en": "Feast of Spiders",
@@ -1971,12 +1840,12 @@
 					{"en": "Playable during the movement phase against a Spider or Demon ally. The ally makes an attack against a character with the same or lower mind attribute in his company (opponent chooses). Next, resolve a combat as if it were a combat between companies, one consisting of the target Spider or Demon ally and another of the defending character. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…brooding on her feasts…” – LotR II"},
-				"image": "feastofspiders_67.jpg",
+				"image": "feastofspiders_62.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-70": {
-				"id": "TS-70",
+			"TS-64": {
+				"id": "TS-64",
 				"set": "TS",
 				"name": {
 					"en": "Flying Deer",
@@ -2002,12 +1871,12 @@
 					{"en": "Animal. One strike. Attacker chooses the defending characters. As a creature, may also be keyed to Mirkwood regions with +2 prowess; and may also be played at sites in these regions.As a short-event, you may take an Animal hazard creature from your discard pile and put it in your hand."},
 				"quote": 
 					{"en": "“Out of the gloom came suddenly the shape of a flying deer.” – Hob"},
-				"image": "flyingdeer_70.jpg",
+				"image": "flyingdeer_64.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-71": {
-				"id": "TS-71",
+			"TS-65": {
+				"id": "TS-65",
 				"set": "TS",
 				"name": {
 					"en": "Forest Spider",
@@ -2035,12 +1904,12 @@
 					{"en": "Return to its owner’s hand on a body check result of 7 or 8. +1 prowess against Dwarves. -1 to all its corruption checks."},
 				"quote": 
 					{"en": "“Practically all the spiders in the place came after him: some dropped to the ground, others raced along the branches, swung from tree to tree, or cast new ropes across the dark spaces.” – Hob"},
-				"image": "forestspider_71.jpg",
+				"image": "forestspider_65.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-72": {
-				"id": "TS-72",
+			"TS-66": {
+				"id": "TS-66",
 				"set": "TS",
 				"name": {
 					"en": "Forest-drake",
@@ -2066,12 +1935,12 @@
 					{"en": "Draque. Two strikes. Attacker chooses defending characters. May play keyed in any region of Mirkwood; and may also be played in all adjacent regions."},
 				"quote": 
 					{"en": "“Think of the treasure at the end, and forget the forest and the dragon, at any rate until tomorrow morning!” – Hob"},
-				"image": "forest-drake_72.jpg",
+				"image": "forest-drake_66.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-73": {
-				"id": "TS-73",
+			"TS-67": {
+				"id": "TS-67",
 				"set": "TS",
 				"name": {
 					"en": "Foul Air",
@@ -2093,12 +1962,12 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She the Watcher. Discard if you play another Potencie card or the Spider Scheme card leaves active play. Your Spider Queen may tap to choose one of your companies and increase the prowess and body of all Aberration and Spider characters and allies by 1 until the end of the turn."},
 				"quote": 
 					{"en": "“…untroubled by the foul air of the pit.” – LotR II"},
-				"image": "foulair_73.jpg",
+				"image": "foulair_67.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-74": {
-				"id": "TS-74",
+			"TS-68": {
+				"id": "TS-68",
 				"set": "TS",
 				"name": {
 					"en": "Geann a-Lisch",
@@ -2126,12 +1995,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "geanna-lisch_74.jpg",
+				"image": "geanna-lisch_68.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-75": {
-				"id": "TS-75",
+			"TS-69": {
+				"id": "TS-69",
 				"set": "TS",
 				"name": {
 					"en": "Gelob",
@@ -2161,12 +2030,12 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she may only be brought into play in her home site. Return it to its owner’s hand on a body check result of 8. +1 to prowess against Men and Orcs. +1 to direct influence against Spiders and Spider factions. If Fell Winter, Long Winter, or Snowstorm is in play, Gelob receives +1 prowess and body."},
 				"quote": 
 					{"en": "“The great ice spider lives settled in some ancient ruins abandoned by the Dwarves.” – Shadow Tribes"},
-				"image": "gelob_75.jpg",
+				"image": "gelob_69.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-76": {
-				"id": "TS-76",
+			"TS-70": {
+				"id": "TS-70",
 				"set": "TS",
 				"name": {
 					"en": "Get Away from the Stink",
@@ -2187,12 +2056,12 @@
 					{"en": "Playable if Gates of Night is not in play. Once per turn you may discard an Environment card from your hand to remove a Rot marker. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…and with every stride they climbed higher above the stenches of the unseen lair, and strength returned to limb and heart.” - LotR II"},
-				"image": "getawayfromthestink_76.jpg",
+				"image": "getawayfromthestink_70.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-77": {
-				"id": "TS-77",
+			"TS-71": {
+				"id": "TS-71",
 				"set": "TS",
 				"name": {
 					"en": "Gildagor",
@@ -2218,12 +2087,12 @@
 					{"en": "Unique. Weapon. Hoard Item. +2 to the wearer’s prowess up to a maximum of 8 (+3 to prowess against Spiders). Even if tapped, the bearer may be assigned as a defender against any strike from an attack that does not target the defending characters."},
 				"quote": 
 					{"en": "“It is said that she is forged from the purest mithril, with the hilt lined with mother-of-pearl and a ruby set in the pommel.” – Shadow Tribes"},
-				"image": "gildagor_77.jpg",
+				"image": "gildagor_71.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-79": {
-				"id": "TS-79",
+			"TS-73": {
+				"id": "TS-73",
 				"set": "TS",
 				"name": {
 					"en": "Great Spider",
@@ -2250,12 +2119,12 @@
 					{"en": "Unique. Spider. Playable in a site that contains an automatic Spider attack keyed in a Rot region. Tap this card to cancel a Spider attack against your company. Tap the Great Spider to give +2 to any influence attempt made by a character in your company against a faction of Spiders."},
 				"quote": 
 					{"en": "“Then the great spider, who had been busy tying him up while he dozed, came from behind him and came at him.” – Hob"},
-				"image": "greatspider_79.jpg",
+				"image": "greatspider_73.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-80": {
-				"id": "TS-80",
+			"TS-74": {
+				"id": "TS-74",
 				"set": "TS",
 				"name": {
 					"en": "Gwethil",
@@ -2285,12 +2154,12 @@
 					{"en": "Unique. Leader. Unless she is one of the starting characters, she may only be brought into play in her home site. Return to its owner’s hand on a body check result of 9. +1 to her direct influence against Spiders and Spider factions. If Choking Shadows is in play, Gwethil modifies all of her body checks by -1."},
 				"quote": 
 					{"en": "“His escape from Mirkwood led him to settle in a ruin south of the borders of Mirkwood.” – Shadow Tribes"},
-				"image": "gwethil_80.jpg",
+				"image": "gwethil_74.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-81": {
-				"id": "TS-81",
+			"TS-75": {
+				"id": "TS-75",
 				"set": "TS",
 				"name": {
 					"en": "Haleth Keusan",
@@ -2320,12 +2189,12 @@
 					{"en": "Unique. +1 prowess against Spiders and Orcs. His company is not affected by the effect of Beorning Skin-changers. Haleth Keusan can use Skin-changer as if he was Beorn."},
 				"quote": 
 					{"en": "“...many strong men and neither orcs nor wolves dared enter his country, between the mountains and Mirkwood.” – SdlA I"},
-				"image": "halethkeusan_81.jpg",
+				"image": "halethkeusan_75.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-82": {
-				"id": "TS-82",
+			"TS-76": {
+				"id": "TS-76",
 				"set": "TS",
 				"name": {
 					"en": "Harry Goatleaf",
@@ -2351,12 +2220,12 @@
 					{"en": "Unique. Agent. -1 to all your corruption checks. Agent Only: Tap and discard Harry Goatleaf to force an opponent repeating an influence attempt on one of their Hobbits or Men factions in play, if they are in the same location as the faction was played. If the attempt is unsuccessful, discard the faction."},
 				"quote": 
 					{"en": ""},
-				"image": "harrygoatleaf_82.jpg",
+				"image": "harrygoatleaf_76.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-83": {
-				"id": "TS-83",
+			"TS-77": {
+				"id": "TS-77",
 				"set": "TS",
 				"name": {
 					"en": "Hasharin Slayer",
@@ -2383,12 +2252,12 @@
 					{"en": "Unique. Slayer. Playable at Harondor or Khand and all sites in those regions. Two attacks (one strike each) against the same character. Attacker chooses the defending characters. +1 prowess against Men. The defending player may choose to tap a character in the same company to cancel one of these attacks. If In Darkness Bind Them is in play,may also be keyed to any region adjacent to Harondor or Khand."},
 				"quote": 
 					{"en": ""},
-				"image": "hasharinslayer_83.jpg",
+				"image": "hasharinslayer_77.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-86": {
-				"id": "TS-86",
+			"TS-80": {
+				"id": "TS-80",
 				"set": "TS",
 				"name": {
 					"en": "Haven for its Lesser Brood",
@@ -2409,12 +2278,12 @@
 					{"en": "Spider Queen specific. Playable on Ruins and Lairs [R] with an Spider automatic attack in a region with Rot and if a Spider Queen is there. The site becomes a Spiderhaven [K], and loses its automatic attacks to you. All other versions of the site gain the following automatic attack: Spider, 1 strike with prowess 10. You cannot play any of the cards listed on the site. If one of your companies is in that site, all attacks against it are canceled. The site is never discarded or returned to your location deck. Cannot be duplicated in the same site."},
 				"quote": 
 					{"en": ""},
-				"image": "havenforitslesserbrood_86.jpg",
+				"image": "havenforitslesserbrood_80.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-87": {
-				"id": "TS-87",
+			"TS-81": {
+				"id": "TS-81",
 				"set": "TS",
 				"name": {
 					"en": "Helm of Rot",
@@ -2441,12 +2310,12 @@
 					{"en": "Unique. Artifact. Helmet. Playable at Ruins and Lairs [R] in a region with Rot. +1 to the bearer’s direct influence against Spiders and Spider factions. +1 to the wearer’s body up to a maximum of 9."},
 				"quote": 
 					{"en": ""},
-				"image": "helmofrot_87.jpg",
+				"image": "helmofrot_81.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-88": {
-				"id": "TS-88",
+			"TS-82": {
+				"id": "TS-82",
 				"set": "TS",
 				"name": {
 					"en": "Her Orders",
@@ -2468,12 +2337,12 @@
 					{"en": "Spider Queen specific. Playable on an Aberration that is in the same site as your Spider Queen. The Aberration receives +2 to direct influence against Spiders and Spider factions. Discard if there is a character with a higher mind value in his company."},
 				"quote": 
 					{"en": ""},
-				"image": "herorders_88.jpg",
+				"image": "herorders_82.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-90": {
-				"id": "TS-90",
+			"TS-83": {
+				"id": "TS-83",
 				"set": "TS",
 				"name": {
 					"en": "Hogo Tarosvan",
@@ -2494,7 +2363,7 @@
 					"auto_attack": "Undead — 2 strikes with 8 prowess",
 					"site_type": "{R}",
 					"playable": "Information",
-					"special": "Hidden site. The company must tap a Sage to reveal this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site.",
 					"drawOpponent": "2",
 					"site_path": "{w}{b}",
 					"spawn": false,
@@ -2503,12 +2372,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“An ancient ceremonial site of the Daen situated among the Wstrikee Mountains on the borders of Lamedon.” – Shadow Tribes"},
-				"image": "hogotarosvan_90.jpg",
+				"image": "hogotarosvan_83.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-91": {
-				"id": "TS-91",
+			"TS-84": {
+				"id": "TS-84",
 				"set": "TS",
 				"name": {
 					"en": "Hogo Tarosvan",
@@ -2529,7 +2398,7 @@
 					"auto_attack": "Undead — 2 strikes with 8 prowess",
 					"site_type": "{R}",
 					"playable": "Information",
-					"special": "Hidden site. The company must tap a Sage to reveal this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site.",
 					"drawOpponent": "2",
 					"site_path": "{s}{w}{f}{f}{b}",
 					"spawn": false,
@@ -2538,12 +2407,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Seven natural caverns used as Haven.” – Shadow Tribes"},
-				"image": "hogotarosvan_91.jpg",
+				"image": "hogotarosvan_84.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-93": {
-				"id": "TS-93",
+			"TS-85": {
+				"id": "TS-85",
 				"set": "TS",
 				"name": {
 					"en": "Ice Spider",
@@ -2571,12 +2440,12 @@
 					{"en": "Return it to its owner’s hand on a body check result of 7 or 8. -1 to all its corruption checks. If Fell Winter, Long Winter, or Snowstorm is in play, the Ice Spider does not need to tap to face a strike."},
 				"quote": 
 					{"en": "“Perfectly adapted to cold climates, the ice spider is able to withstand adverse weather situations.” – Shadow Tribes"},
-				"image": "icespider_93.jpg",
+				"image": "icespider_85.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-96": {
-				"id": "TS-96",
+			"TS-88": {
+				"id": "TS-88",
 				"set": "TS",
 				"name": {
 					"en": "Immemorial Stone Queen",
@@ -2591,24 +2460,22 @@
 				"alignment": "Neutral",
 				"attributes": {
 					"unique": true,
-					"strikes": "unique. spawn. the moss-deeps gain an additional auto attack: spawn, 2 strikes of 17/9 prowess/body.additionally, it allows each player to take a spider creature or pûkel creature from the discard pile and shuffle it into their play deck.",
 					"marshallingPoints": "4",
 					"marshallingPointsType": "kill",
 					"prowess": "17/9",
-					"race": "Spawn",
-					"subtype": "Creature/Permanent-event",
+					"subtype": "Permanent-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
 					{"en": "Unique. Spawn. The Moss-deeps gain an additional auto attack: Spawn, 2 strikes of 17/9 prowess/body.Additionally, it allows each player to take a Spider creature or Pûkel Creature from the discard pile and shuffle it into their play deck."},
 				"quote": 
 					{"en": "“From time immemorial the great Stone Queen dwelt there, unbreakable and imperturbable…” – Shadow Tribes"},
-				"image": "immemorialstonequeen_96.jpg",
+				"image": "immemorialstonequeen_88.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-97": {
-				"id": "TS-97",
+			"TS-89": {
+				"id": "TS-89",
 				"set": "TS",
 				"name": {
 					"en": "Interfering with Her",
@@ -2630,12 +2497,12 @@
 					{"en": "Unique. Spider Queen specific. Playable on a Spider Haven if any Trophies are stored there. You may remove a Trophy whose marshalling points attribute has an asterisk, to give +3 to an influence attempt against an opposing minion player."},
 				"quote": 
 					{"en": "“She’d forgotten him, maybe, but we didn’t touch him – no good interfering with Her.” – LotR II"},
-				"image": "interferingwithher_97.jpg",
+				"image": "interferingwithher_89.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-98": {
-				"id": "TS-98",
+			"TS-90": {
+				"id": "TS-90",
 				"set": "TS",
 				"name": {
 					"en": "Ivory Scepter",
@@ -2661,12 +2528,12 @@
 					{"en": "Unique. Artifact. Hoard Item. +1 to the bearer’s prowess up to a maximum of 6 (+3 to prowess up to a maximum of 8 against Undead)."},
 				"quote": 
 					{"en": "“An ivory scepter crowned with a diamond, the work of a perfidious master of the dark arts.” – Shadow Tribes"},
-				"image": "ivoryscepter_98.jpg",
+				"image": "ivoryscepter_90.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-100": {
-				"id": "TS-100",
+			"TS-92": {
+				"id": "TS-92",
 				"set": "TS",
 				"name": {
 					"en": "Know the Forest",
@@ -2687,108 +2554,12 @@
 					{"en": "Spider Queen specific. Playable if you have at least two Spider characters in play, or an Aberration, whose home site is in the Mirkwood. Reduce by 1 (to a minimum of 1) the hazard limit of all your companies moving to or from a site in the Heart of Mirkwood, Western Mirkwood, and/or Southern Mirkwood."},
 				"quote": 
 					{"en": ""},
-				"image": "knowtheforest_100.jpg",
+				"image": "knowtheforest_92.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-101": {
-				"id": "TS-101",
-				"set": "TS",
-				"name": {
-					"en": "Kuruki",
-					"es": "Kuruki",
-					"de": "Name DE",
-					"fr": "Kuruki",
-					"it": "Kuruki",
-					"nl": "Kuruki",
-					"fi": "Kuruki",
-					"ja": "Kuruki"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "7",
-					"prowess": "5",
-					"mind": "3",
-					"subtype": "Warrior Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable at Cairn Lossadan by a character with mind 6 or higher. Discard if your company moves to a site other than Angmar, Forochel, or a region with Rot. May play Bitter Cold (ignores any corruption checks). Warrior characters in your company only suffer a -2 penalty to prowess if they choose not to tap to face an attack."},
-				"quote": 
-					{"en": ""},
-				"image": "kuruki_101.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-102": {
-				"id": "TS-102",
-				"set": "TS",
-				"name": {
-					"en": "Lairathin",
-					"es": "Lairathin",
-					"de": "Name DE",
-					"fr": "Lairathin",
-					"it": "Lairathin",
-					"nl": "Lairathin",
-					"fi": "Lairathin",
-					"ja": "Lairathin"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "9",
-					"prowess": "4",
-					"mind": "3",
-					"subtype": "Scout Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable on Isle of the Dead that Live by an Scout with prowess 5 or higher. Discard if your company moves to a site that is not in a Coastal Sea [c] or a region adjacent to Coastal Sea [c] with Rot. May play Driven as by a Madness (ignore any corruption checks). In all cases, Lairathin must be assigned a strike before any strike may be assigned to its controlling character."},
-				"quote": 
-					{"en": ""},
-				"image": "lairathin_102.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-103": {
-				"id": "TS-103",
-				"set": "TS",
-				"name": {
-					"en": "Langon",
-					"es": "Langon",
-					"de": "Name DE",
-					"fr": "Langon",
-					"it": "Langon",
-					"nl": "Langon",
-					"fi": "Langon",
-					"ja": "Langon"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "8",
-					"prowess": "3",
-					"mind": "3",
-					"subtype": "Sage Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable only in Nen Falastir by a sage character whose mind is greater than 5. Discard if your company moves to a site other than Harondor, Khand, or a region with Rot. May play A Malady without Healing (ignore any corruption checks). A character wounded by Langon has his body check modified by +2."},
-				"quote": 
-					{"en": ""},
-				"image": "langon_103.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-104": {
-				"id": "TS-104",
+			"TS-93": {
+				"id": "TS-93",
 				"set": "TS",
 				"name": {
 					"en": "Layer of Evil Growth",
@@ -2809,12 +2580,12 @@
 					{"en": "Spider Queen specific. Playable before making a body check made by an Aberration, Spider Leader, or Spider Queen character. Reduces the roll by -2. The target character cannot be returned to its owner hand as aresult of a filed body check. Cannot be duplicated on the same body check."},
 				"quote": 
 					{"en": "“…within with layer on layer of evil growth.” – LotR II"},
-				"image": "layerofevilgrowth_104.jpg",
+				"image": "layerofevilgrowth_93.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-105": {
-				"id": "TS-105",
+			"TS-94": {
+				"id": "TS-94",
 				"set": "TS",
 				"name": {
 					"en": "Lazy Lob",
@@ -2844,12 +2615,12 @@
 					{"en": "Unique. Return to its owner’s hand on a body check result of 9. +1 prowess against Dwarves. If Angry Gob, Crazy Cob, and/or Old Pob are in the same company, reduce Lazy Lob’s mind by 1."},
 				"quote": 
 					{"en": "“Lazy Lob! Poisonous! -between the trees on the right.” – Hob"},
-				"image": "lazylob_105.jpg",
+				"image": "lazylob_94.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-106": {
-				"id": "TS-106",
+			"TS-95": {
+				"id": "TS-95",
 				"set": "TS",
 				"name": {
 					"en": "Leave in Will",
@@ -2871,12 +2642,12 @@
 					{"en": "Unique. Playable on a facedown hazard Agent that is in the same site as an opponent’s company. Reveal the agent to force a corruption check on a character in the company (at hazard player’s will), adding the agent’s corruption modifier to the roll. If the check fails, tap the character (ignore other results) and transfer one of the items to the agent (of the defender’s choice) along with this card. If one of your companies is at the same site as the agent and you have that item in your hand or side deck, you may tap a character in your company to play the item on it. Next, discard this card, the agent, and the carrying´s item."},
 				"quote": 
 					{"en": ""},
-				"image": "leaveinwill_106.jpg",
+				"image": "leaveinwill_95.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-107": {
-				"id": "TS-107",
+			"TS-96": {
+				"id": "TS-96",
 				"set": "TS",
 				"name": {
 					"en": "Lhingril",
@@ -2906,12 +2677,12 @@
 					{"en": "Unique. Manifestation of Nan Dungortheb’s Torment. Unless she is one of the starting characters, she may only be brought intoplay at her home site. +1 prowess against Men. +2 to direct influence against Spiders and Spider factions. Can use shadow-magic. You may tap Lhingril to search your discard pile for a Shadow magic card and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“...she was the one who captured Beren when he tried to escape from Dorthonion through the Dor Dínen Pass.” – Shadow Tribes"},
-				"image": "lhingril_107.jpg",
+				"image": "lhingril_96.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-108": {
-				"id": "TS-108",
+			"TS-97": {
+				"id": "TS-97",
 				"set": "TS",
 				"name": {
 					"en": "Lhingril Famished",
@@ -2935,12 +2706,12 @@
 					{"en": "Unique. Manifestation of Nan Dungortheb’s Torment. Playable at The Haunted Grottos if the influence check is greater than 11.Modifications: Spider Queen (+3), if you remove from play a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered detainment. Any company moving to The Haunted Grottos faces one attack: Spawn, two strikes of 16/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "lhingrilfamished_108.jpg",
+				"image": "lhingrilfamished_97.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-109": {
-				"id": "TS-109",
+			"TS-98": {
+				"id": "TS-98",
 				"set": "TS",
 				"name": {
 					"en": "Long Venomous Hiss",
@@ -2961,12 +2732,12 @@
 					{"en": "Spider Queen specific. Playable during combat company vs company, before strikes are assigned, if your company contains a Spider Queen or Aberration. Each character and ally in the opposing company must make a roll adding his mind. If the result is less than 10, the character/ally becomes tapped; or, if he was already tapped, he is wounded; or, if he was already wounded, he is eliminated. Cannot be duplicated in the same combat."},
 				"quote": 
 					{"en": "“…gurgling, bubbling noise, and a long venomous hiss.” – LotR II"},
-				"image": "longvenomoushiss_109.jpg",
+				"image": "longvenomoushiss_98.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-110": {
-				"id": "TS-110",
+			"TS-99": {
+				"id": "TS-99",
 				"set": "TS",
 				"name": {
 					"en": "Lord of the Wargs",
@@ -2993,12 +2764,12 @@
 					{"en": "Unique. Manifestation of The Warg-king. Wolf. One strike. As a creature, may also be keyed to any Ruins and Lairs [R] that contain a Wolves automatic attack.As a long-event, it cancels all effects that could cancel or prevent a Wolves attack."},
 				"quote": 
 					{"en": ""},
-				"image": "lordofthewargs_110.jpg",
+				"image": "lordofthewargs_99.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-111": {
-				"id": "TS-111",
+			"TS-100": {
+				"id": "TS-100",
 				"set": "TS",
 				"name": {
 					"en": "Lotho Sackville",
@@ -3027,12 +2798,12 @@
 					{"en": "Unique. Agent. +2 direct influence against Hobbits and Hobbit factions. Agent only: Remove Lotho Sackville from the game during the site phase to force a character in the same site (of the hazard player’s choice) to make a -1 modified corruption check."},
 				"quote": 
 					{"en": "“‘Whatever it is,’ said Pippin, ‘Lotho will be at the bottom of it: you can be sure of that.’” – SdlA I"},
-				"image": "lothosackville_111.jpg",
+				"image": "lothosackville_100.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-112": {
-				"id": "TS-112",
+			"TS-101": {
+				"id": "TS-101",
 				"set": "TS",
 				"name": {
 					"en": "Maeklog",
@@ -3062,12 +2833,12 @@
 					{"en": "Unique. Manifestation of Monstrosity of Diverse Shape. Unless he is one of the starting characters, he may only be brough into play at his home site. +4 direct influence against Fastiqan. +2 prowess against attacks keyed to a Coastal Sea [c]. -1 to his body if he is in or moves to a site that is not on a Coastal Sea [c]. Once per turn, if his company has moved to a site located in a Coastal Sea [c], he may move to an additional site that same turn. Another site card must be played and another movement/hazard phase resolved."},
 				"quote": 
 					{"en": ""},
-				"image": "maeklog_112.jpg",
+				"image": "maeklog_101.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-113": {
-				"id": "TS-113",
+			"TS-102": {
+				"id": "TS-102",
 				"set": "TS",
 				"name": {
 					"en": "Maeklog Famished",
@@ -3091,12 +2862,12 @@
 					{"en": "Unique. Manifestation of Monstrosity of Diverse Shape. Playable at The Drowning-deeps or Remains of Thangorodrim if the influence check is greater than 12.Modifications: Spider Queen (+1), Fastitocalón (+2), if you remove from play a character or prisoner in the company (+2), any other character (-3).All Spawn attacks against any of your companies are considered detainment. Any company moving to The Drowning-deeps or Remains of Thangorodrim faces one attack: Spawn, two strikes of 15/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "maeklogfamished_113.jpg",
+				"image": "maeklogfamished_102.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-114": {
-				"id": "TS-114",
+			"TS-103": {
+				"id": "TS-103",
 				"set": "TS",
 				"name": {
 					"en": "Maleficent Will",
@@ -3117,12 +2888,12 @@
 					{"en": "Spider Queen specific. Playable if your Spider Queen is in play. During your organization phase you may take this card from your sideboard, and shuffle it into your playing deck. Your Spider Queen receives +5 to direct influence until end of turn. It cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": "“…and the darkness of Shelob’s evil will had penetrated Gollum’s fatigue…” – LotR II"},
-				"image": "maleficentwill_114.jpg",
+				"image": "maleficentwill_103.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-115": {
-				"id": "TS-115",
+			"TS-104": {
+				"id": "TS-104",
 				"set": "TS",
 				"name": {
 					"en": "Malice Bent upon Him",
@@ -3143,12 +2914,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She the Great is not in play. You may tap this card during your end-of-turn phase to take Layer of Evil Growth, Bring Good Food, or Sweeter Meat from your discard pile and add it to your hand. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…he felt a great malice bent upon him, and a deadly regard considering him.” – LotR II"},
-				"image": "malicebentuponhim_115.jpg",
+				"image": "malicebentuponhim_104.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-116": {
-				"id": "TS-116",
+			"TS-105": {
+				"id": "TS-105",
 				"set": "TS",
 				"name": {
 					"en": "Many Exits",
@@ -3169,12 +2940,12 @@
 					{"en": "Spider Queen specific. Playable on a company in a Spider Haven [K] containing an Aberration or a Spider Queen. +2 to rolls made by your company to move to an adjacent Underdeeps site."},
 				"quote": 
 					{"en": "“Too little did he or his master know of the craft of Shelob. She had many exits from her lair.” – LotR II"},
-				"image": "manyexits_116.jpg",
+				"image": "manyexits_105.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-117": {
-				"id": "TS-117",
+			"TS-106": {
+				"id": "TS-106",
 				"set": "TS",
 				"name": {
 					"en": "Marhcara",
@@ -3204,12 +2975,12 @@
 					{"en": "Unique. +2 to his direct influence against the Ailgarthas faction."},
 				"quote": 
 					{"en": "“The chief of the tribe of the Ailgarthas was settled in Burh Ailgra. A burly man who liked to charge into the enemy ranks with his axe and shield while mounted on horseback.” – Shadow Tribes"},
-				"image": "marhcara_117.jpg",
+				"image": "marhcara_106.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-118": {
-				"id": "TS-118",
+			"TS-107": {
+				"id": "TS-107",
 				"set": "TS",
 				"name": {
 					"en": "Mating Season",
@@ -3230,44 +3001,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if She Weaver of Evil is not in play. The Spider Queen’s company may move with region movement between Imlad Morgul and Southern Mirkwood, or viceversa. Discard when Doors of Night comes into play; If the Spider Queen is not in a Underdeeps site or an adjacent surface site, in her next organization phase she must move to an adjacent surface site or the nearest Spiderhaven [K]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "matingseason_118.jpg",
+				"image": "matingseason_107.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-119": {
-				"id": "TS-119",
-				"set": "TS",
-				"name": {
-					"en": "Maugarth",
-					"es": "Máugarth",
-					"de": "Name DE",
-					"fr": "Maugarth",
-					"it": "Maugarth",
-					"nl": "Maugarth",
-					"fi": "Maugarth",
-					"ja": "Maugarth"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "8",
-					"prowess": "5",
-					"mind": "3",
-					"subtype": "Scout Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Undead. Playable at Dead Marshes by a Scout character whose prowess plus mind is greater than 11. Discard if his company moves to a site that is not in Dagorlad, Brown Lands, or a region with Rot. May play Freeze the Flesh (ignore any corruption checks). May tap to cancel an Undead attack against his company."},
-				"quote": 
-					{"en": ""},
-				"image": "maugarth_119.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-120": {
-				"id": "TS-120",
+			"TS-108": {
+				"id": "TS-108",
 				"set": "TS",
 				"name": {
 					"en": "Mirkwood Under His Rule",
@@ -3290,12 +3029,12 @@
 					{"en": "Spider Queen specific. Playable on a company in Thranduil’s Halls if Realm of Mirkwood has Rot. The company faces one attack each turn based on how many times this card has been tapped: none: Elves, 3 strikes with prowess 8; once: Elves, 2 strikes with prowess 9; twice: Elves, 1 strike with prowess 13; three times: Elf Lord, 1 strike with prowess 16. If the attack is defeated, tap a Spider Queen, Aberration, or Spider Leader into the company and tap this card. If it has rotated 360º and is stored in a Spider Haven, it gives 4 marshalling points; all versions of Thranduil’s Halls become Ruins and Lairs [R] and Realm of Mirkwood becomes a Wilderness [w]. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "mirkwoodunderhisrule_120.jpg",
+				"image": "mirkwoodunderhisrule_108.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-122": {
-				"id": "TS-122",
+			"TS-109": {
+				"id": "TS-109",
 				"set": "TS",
 				"name": {
 					"en": "Mist Wargs",
@@ -3322,12 +3061,12 @@
 					{"en": "Unique. Wolves. Each of the characters in the company must face a strike. May also be played in Rhudaur or Anduin Vales; and may also be played at sites in these regions that are not a Refuge. If Gates of Night are in play, may also be keyed to adjacent regions to Rhudaur or Anduin Vales, and non-Haven sites in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "mistwargs_122.jpg",
+				"image": "mistwargs_109.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-123": {
-				"id": "TS-123",
+			"TS-110": {
+				"id": "TS-110",
 				"set": "TS",
 				"name": {
 					"en": "More Turns and Turns",
@@ -3348,12 +3087,12 @@
 					{"en": "Spider Queen specific. Playable during the site phase on an opposing company that is in the same site as one of your companies that contains at least one Aberration or Spider Leader character. A company character (of your choice) must make a +1 modified body check. If the character fails the check, he is taken prisoner at his current site. Rescue Attack: Spiders, 2 strikes with prowess 8. During its untap phase, make a +1 modified body check. If he is eliminated, you receive his marshalling points for kills."},
 				"quote": 
 					{"en": ""},
-				"image": "moreturnsandturns_123.jpg",
+				"image": "moreturnsandturns_110.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-124": {
-				"id": "TS-124",
+			"TS-111": {
+				"id": "TS-111",
 				"set": "TS",
 				"name": {
 					"en": "Morfanwen",
@@ -3378,12 +3117,12 @@
 					{"en": "Unique. Playable at Oracle Forest. Cannot be attacked. Tap Morfanwen to return a spell or ritual resource from your discard pile to your play deck. Discard Morfanwen if a character in her company is wounded."},
 				"quote": 
 					{"en": "“A storm spirit that settled in the east of Middle-earth.” – Shadow Tribes"},
-				"image": "morfanwen_124.jpg",
+				"image": "morfanwen_111.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-125": {
-				"id": "TS-125",
+			"TS-112": {
+				"id": "TS-112",
 				"set": "TS",
 				"name": {
 					"en": "Morgul Spider",
@@ -3412,12 +3151,12 @@
 					{"en": "Return to its owner’s hand on a body check result of 7 or 8. Can use shadow-magic. Any character injured by Morgul Spider must make a corruption check modified by -1."},
 				"quote": 
 					{"en": "“Across the width and height of the tunnel avast web was spun, orderly as the web of some huge spider…” – LotR II"},
-				"image": "morgulspider_125.jpg",
+				"image": "morgulspider_112.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-126": {
-				"id": "TS-126",
+			"TS-113": {
+				"id": "TS-113",
 				"set": "TS",
 				"name": {
 					"en": "Mountain´s Eagle",
@@ -3444,44 +3183,12 @@
 					{"en": "Unique. Animal. Eagle. Manifestation of Meneldor. Playable only against an overt minion company. Two strikes. The attacker chooses defending characters. +2 prowess against Aberrations and Spiders. May also be keyed to Anduin Vales; and may also be played at sites in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "mountainseagle_126.jpg",
+				"image": "mountainseagle_113.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-127": {
-				"id": "TS-127",
-				"set": "TS",
-				"name": {
-					"en": "Mourfuin",
-					"es": "Mourfuin",
-					"de": "Name DE",
-					"fr": "Mourfuin",
-					"it": "Mourfuin",
-					"nl": "Mourfuin",
-					"fi": "Mourfuin",
-					"ja": "Mourfuin"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "3",
-					"marshallingPointsType": "ally",
-					"body": "8",
-					"prowess": "6",
-					"mind": "4",
-					"subtype": "Sage Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Maia. Playable at The Igneous Grottos by a magic user whose mind is 6 or greater. Discard if your company moves to a site that is not in a Underdeeps site, a surface site, or a region with Rot. May play Some Secret Art of Flame (ignore any corruption checks). May tap to return a spell card that a character in their company has just used to your play deck."},
-				"quote": 
-					{"en": ""},
-				"image": "mourfuin_127.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-128": {
-				"id": "TS-128",
+			"TS-114": {
+				"id": "TS-114",
 				"set": "TS",
 				"name": {
 					"en": "Mr. Otho",
@@ -3508,12 +3215,12 @@
 					{"en": "Unique. Hobbit. Playable at any site in The Shire. Discard Mr. Otho to cancel the effect of a hazard that requires you to discard an item other than a Ring from one of the characters in his company."},
 				"quote": 
 					{"en": "“The Sackville-Bagginses were not forgotten. Otho and his wife Lobelia were present.” – Hob"},
-				"image": "mrotho_128.jpg",
+				"image": "mrotho_114.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-129": {
-				"id": "TS-129",
+			"TS-115": {
+				"id": "TS-115",
 				"set": "TS",
 				"name": {
 					"en": "Mur-Grishi Slayer",
@@ -3540,12 +3247,12 @@
 					{"en": "Unique. Slayer. Playable at Horse Plains and in all sites in that region. Two attacks (of one strike each) against the same character. Attacker chooses defending characters. +1 prowess against Elves. Defending player may choose to tap a character in the same company to cancel one of these attacks. If In Darkness Bind Them is in play, may also be keyed to any region adjacent to Horse Plains."},
 				"quote": 
 					{"en": ""},
-				"image": "mur-grishislayer_129.jpg",
+				"image": "mur-grishislayer_115.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-130": {
-				"id": "TS-130",
+			"TS-116": {
+				"id": "TS-116",
 				"set": "TS",
 				"name": {
 					"en": "My Cat",
@@ -3568,12 +3275,12 @@
 					{"en": "Playable on an Aberration or Spider character. Character receives -2 to his direct influence and -1 to prowess. Cancels any positive race or name modifications that affect the target character in any influence attempts against factions. It cannot be duplicated on the same character. During their organization phase, a character with this card may be tapped to try to eliminate it. Make a roll: if the result is greater than 7, discard this card."},
 				"quote": 
 					{"en": "“…Like a man who throws a treat at her cat (my cat called her him, but she didn’t recognize him as her master)…” – LotR II"},
-				"image": "mycat_130.jpg",
+				"image": "mycat_116.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-131": {
-				"id": "TS-131",
+			"TS-117": {
+				"id": "TS-117",
 				"set": "TS",
 				"name": {
 					"en": "Nan Dungortheb Spider",
@@ -3602,12 +3309,12 @@
 					{"en": "Return to its owner’s hand on a body check result of 6 or 7. Can use shadow-magic. Any character wounded by Nan Dungortheb Spider must make an additional body check."},
 				"quote": 
 					{"en": "“...descendants of the spiders that once held Beren captive.” – Shadow Tribes"},
-				"image": "nandungorthebspider_131.jpg",
+				"image": "nandungorthebspider_117.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-132": {
-				"id": "TS-132",
+			"TS-118": {
+				"id": "TS-118",
 				"set": "TS",
 				"name": {
 					"en": "Nan Dungortheb´s Torment ",
@@ -3622,24 +3329,57 @@
 				"alignment": "Neutral",
 				"attributes": {
 					"unique": true,
-					"strikes": "unique. spawn. the haunted grottos gain an additional auto attack: spawn, 2 strikes of 16/9 prowess/body.additionally, for all spiders automatic attacks, the opponent chooses defending characters.",
 					"marshallingPoints": "4",
 					"marshallingPointsType": "kill",
 					"prowess": "16/9",
-					"race": "Spawn",
-					"subtype": "Creature/Permanent-event",
+					"subtype": "Permanent-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
 					{"en": "Unique. Spawn. The Haunted Grottos gain an additional auto attack: Spawn, 2 strikes of 16/9 prowess/body.Additionally, for all Spiders automatic attacks, the opponent chooses defending characters."},
 				"quote": 
 					{"en": "“The stench of decay oozed from every pore of him, and no living thing dared approach his lair.” – Shadow Tribes"},
-				"image": "nandungorthebstorment_132.jpg",
+				"image": "nandungorthebstorment_118.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-133": {
-				"id": "TS-133",
+			"TS-119": {
+				"id": "TS-119",
+				"set": "TS",
+				"name": {
+					"en": "Nen Falastir",
+					"es": "Nen Falastir",
+					"de": "Name DE",
+					"fr": "Nen Falastir",
+					"it": "Nen Falastir",
+					"nl": "Nen Falastir",
+					"fi": "Nen Falastir",
+					"ja": "Nen Falastir"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Minas Morgul",
+					"draw": "2",
+					"region": "Harondor",
+					"auto_attack": "Undead — 2 strikes with 8 prowess",
+					"site_type": "{R}",
+					"playable": "Items (Minor, Major)",
+					"special": "Hidden site. Tap a scout in the moving company to reveal this site.",
+					"drawOpponent": "2",
+					"site_path": "{s}{w}{f}{f}{b}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“...a tower barely protruding from the treetops.” – Shadow Tribes"},
+				"image": "nenfalastir_119.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-120": {
+				"id": "TS-120",
 				"set": "TS",
 				"name": {
 					"en": "Nen Falastir",
@@ -3669,47 +3409,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The ancient ruins dominated by a tower built by the Haruzan.” – Shadow Tribes"},
-				"image": "nenfalastir_133.jpg",
+				"image": "nenfalastir_120.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-134": {
-				"id": "TS-134",
-				"set": "TS",
-				"name": {
-					"en": "Nen Falastir",
-					"es": "Nen Falastir",
-					"de": "Name DE",
-					"fr": "Nen Falastir",
-					"it": "Nen Falastir",
-					"nl": "Nen Falastir",
-					"fi": "Nen Falastir",
-					"ja": "Nen Falastir"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Minas Morgul",
-					"draw": "2",
-					"region": "Harondor",
-					"auto_attack": "Undead — 2 strikes with 8 prowess",
-					"site_type": "{R}",
-					"playable": "Items (Minor, Major)",
-					"special": "Hidden site. The company must tap a Scout to reveal this site.",
-					"drawOpponent": "2",
-					"site_path": "{s}{w}{f}{f}{b}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": "“...a tower barely protruding from the treetops.” – Shadow Tribes"},
-				"image": "nenfalastir_134.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-135": {
-				"id": "TS-135",
+			"TS-121": {
+				"id": "TS-121",
 				"set": "TS",
 				"name": {
 					"en": "Never Hurt Before",
@@ -3730,12 +3435,12 @@
 					{"en": "All Spider Queen, Aberration, and Spider characters receive -1 to prowess and direct influence (-2 if Gates of Morning is in play). Cannot be duplicated."},
 				"quote": 
 					{"en": "“No one, no one has ever stuck a pin in Shelob before, as you should know well enough.” – LotR II"},
-				"image": "neverhurtbefore_135.jpg",
+				"image": "neverhurtbefore_121.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-136": {
-				"id": "TS-136",
+			"TS-122": {
+				"id": "TS-122",
 				"set": "TS",
 				"name": {
 					"en": "Nîn-in-Eilph",
@@ -3765,12 +3470,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…it was lost in the plains and disappeared in the marshes…” – SdlA I"},
-				"image": "nîn-in-eilph_136.jpg",
+				"image": "nîn-in-eilph_122.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-137": {
-				"id": "TS-137",
+			"TS-123": {
+				"id": "TS-123",
 				"set": "TS",
 				"name": {
 					"en": "Nîn-in-Eilph",
@@ -3800,12 +3505,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…swampy area created by the meanders of the Glanduin.” – Shadow Tribes"},
-				"image": "nîn-in-eilph_137.jpg",
+				"image": "nîn-in-eilph_123.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-138": {
-				"id": "TS-138",
+			"TS-124": {
+				"id": "TS-124",
 				"set": "TS",
 				"name": {
 					"en": "Obtained Knowledge",
@@ -3828,12 +3533,12 @@
 					{"en": "Playable during the organization phase on a company in a Haven/Darkhaven [H,K]. Turn this card 90º each time the company moves to a Hidden site. If this card has been tapped at least 4 times, it gives two marshalling points. Cannot be duplicated on the same company."},
 				"quote": 
 					{"en": "“The knowledge which he obtained was, doubtless, often of service to him…” – LotR III"},
-				"image": "obtainedknowledge_138.jpg",
+				"image": "obtainedknowledge_124.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-139": {
-				"id": "TS-139",
+			"TS-125": {
+				"id": "TS-125",
 				"set": "TS",
 				"name": {
 					"en": "Old Forest Road",
@@ -3854,12 +3559,12 @@
 					{"en": "Playable at the end of the organization phase on a hero or covert company that moving through one or more regions in Mirkwood. Reduces the company’s hazard limit by 1 (to a minimum of 1). Opponent can only play the following types of hazard creature: Animal, Spider, Awakened Plant or Elf. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "oldforestroad_139.jpg",
+				"image": "oldforestroad_125.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-140": {
-				"id": "TS-140",
+			"TS-126": {
+				"id": "TS-126",
 				"set": "TS",
 				"name": {
 					"en": "Old Pob",
@@ -3889,12 +3594,12 @@
 					{"en": "Unique. Return it to its owner’s hand on a body check result of 8. +1 prowess against Dwarves. If Angry Gob, Crazy Cob and/or Lazy Lob are in the same company, reduce Old Pob mind by 1."},
 				"quote": 
 					{"en": "“Fat old spider you spin on a tree! “You fat, old spider that you can’t see me!” – Hob"},
-				"image": "oldpob_140.jpg",
+				"image": "oldpob_126.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-141": {
-				"id": "TS-141",
+			"TS-127": {
+				"id": "TS-127",
 				"set": "TS",
 				"name": {
 					"en": "One Big Stride",
@@ -3915,12 +3620,47 @@
 					{"en": "Spider Queen specific. Playable if you have at least one moving company in play comprised solely by Spiders. At the end of the movement/hazard phase, each of your companies, comprised solely by Spiders, may move to a new site (or Underdeeps site). Another site card is played and a movement/hazard phase immediately follows. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…he saw with terror that the eyes came jumping out after them.” – LotR II"},
-				"image": "onebigstride_141.jpg",
+				"image": "onebigstride_127.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-143": {
-				"id": "TS-143",
+			"TS-128": {
+				"id": "TS-128",
+				"set": "TS",
+				"name": {
+					"en": "Oracle Forest",
+					"es": "Bosque del Oráculo",
+					"de": "Name DE",
+					"fr": "Oracle Forest",
+					"it": "Oracle Forest",
+					"nl": "Oracle Forest",
+					"fi": "Oracle Forest",
+					"ja": "Oracle Forest"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Carn Dûm",
+					"draw": "2",
+					"region": "Numeriador",
+					"auto_attack": "Pûkel Creature — 2 strikes with 8 prowess (detainment against covert companies)",
+					"site_type": "{R}",
+					"playable": "Items (Minor, Major)",
+					"special": "Hidden site. Tap a ranger in the moving company to reveal this site. During the site phase you may tap a ranger at this site to search your sideboard or discard pile for a Spell card and shuffle it into your play deck.",
+					"drawOpponent": "2",
+					"site_path": "{s}{w}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "oracleforest_128.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-129": {
+				"id": "TS-129",
 				"set": "TS",
 				"name": {
 					"en": "Oracle Forest",
@@ -3950,47 +3690,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "oracleforest_143.jpg",
+				"image": "oracleforest_129.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-142": {
-				"id": "TS-142",
-				"set": "TS",
-				"name": {
-					"en": "Oracle Forest",
-					"es": "Bosque del Oráculo",
-					"de": "Name DE",
-					"fr": "Oracle Forest",
-					"it": "Oracle Forest",
-					"nl": "Oracle Forest",
-					"fi": "Oracle Forest",
-					"ja": "Oracle Forest"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Carn Dûm",
-					"draw": "2",
-					"region": "Numeriador",
-					"auto_attack": "Pûkel Creature — 2 strikes with 8 prowess (detainment against covert companies)",
-					"site_type": "{R}",
-					"playable": "Items (Minor, Major)",
-					"special": "Hidden site. Tap a Ranger in the moving company to reveal this site. During the site phase you may tap a Sage at this site to search your sideboard or discard pile for a Spell card and shuffle it into your play deck.",
-					"drawOpponent": "2",
-					"site_path": "{s}{w}{w}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "oracleforest_142.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-144": {
-				"id": "TS-144",
+			"TS-130": {
+				"id": "TS-130",
 				"set": "TS",
 				"name": {
 					"en": "Orc Slave",
@@ -4018,12 +3723,12 @@
 					{"en": "Spider Queen specific. Discard on a body check result of 7. -1 to all corruption checks. -1 to all influence checks against factions. Counts as half a character (rounded up) when calculating company size. If in the same company as a Spider Queen or Aberration, you may remove Orc Slave from play to untap her. Each time you play an Aberration character or an Aberration faction you may take an Orc Slave from the discard pile or sideboard, and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“As for the orcs, they were useful slaves, but he had plenty of them.” – Hob"},
-				"image": "orcslave_144.jpg",
+				"image": "orcslave_130.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-145": {
-				"id": "TS-145",
+			"TS-131": {
+				"id": "TS-131",
 				"set": "TS",
 				"name": {
 					"en": "Paralyzing Poison",
@@ -4046,12 +3751,12 @@
 					{"en": "Corruption. Playable on a company that is facing a Spider attack, before assigning strikes. The first character wounded by these attack receives 1 point of corruption (place this card next to the character). Discard Paralyzing Poison if the attack does not hurt any characters. A character with this card is always assigned as the first target against any attack by an hazard creature and all of his body checks are modified by +2. During you organization phase, a character with this card may tap to try to remove it. Make a roll: if the result is greater than 5, discard this card."},
 				"quote": 
 					{"en": "“She has more than one poison. When she goes hunting, all he has to do is tap her neck…” – LotR II"},
-				"image": "paralyzingpoison_145.jpg",
+				"image": "paralyzingpoison_131.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-147": {
-				"id": "TS-147",
+			"TS-133": {
+				"id": "TS-133",
 				"set": "TS",
 				"name": {
 					"en": "Parth Iaur",
@@ -4072,7 +3777,7 @@
 					"auto_attack": "Pûkel Creature — Each character in the company faces a strike with 7 prowess",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major)",
-					"special": "Hidden site. The company must discard a Lost Knowledge card to reveal this site. Any Woses faction can be played here if the company contains a Wose character of Mind 5 or higher.",
+					"special": "Hidden site. The company must discard a Lost Knowledge card to reveal this site. Any Woses faction can be played here if the company contains a Wose character with a mind of 5 or higher.",
 					"drawOpponent": "1",
 					"site_path": "{w}{w}",
 					"spawn": false,
@@ -4081,12 +3786,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "parthiaur_147.jpg",
+				"image": "parthiaur_133.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-146": {
-				"id": "TS-146",
+			"TS-132": {
+				"id": "TS-132",
 				"set": "TS",
 				"name": {
 					"en": "Parth Iaur",
@@ -4116,12 +3821,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "parthiaur_146.jpg",
+				"image": "parthiaur_132.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-149": {
-				"id": "TS-149",
+			"TS-134": {
+				"id": "TS-134",
 				"set": "TS",
 				"name": {
 					"en": "Poppy Goodbody",
@@ -4152,12 +3857,12 @@
 					{"en": "Unique. Unless she is one of the starting characters, she may only be brought into play at her home site. +2 prowess against Spiders. All of her corruption checks are modified by +1. Before facing any automatic attacks or rescue attacks, if your company is at the rescue location of one of your prisoner characters, you may tap Poppy Goodbody to discard its host hazard and add the prisoner to your company without tapping the location."},
 				"quote": 
 					{"en": ""},
-				"image": "poppygoodbody_149.jpg",
+				"image": "poppygoodbody_134.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-150": {
-				"id": "TS-150",
+			"TS-135": {
+				"id": "TS-135",
 				"set": "TS",
 				"name": {
 					"en": "Portik",
@@ -4188,12 +3893,12 @@
 					{"en": "Unique. Agent. May be in a company containing Spiders. Agent Only: Reveal and tap Portik to be able to play a Spider creature hazard against a company at its current location, or prevent a Spider attack in its current region from being cancelled, or give +2 prowess to a Spider attack in your current region."},
 				"quote": 
 					{"en": "“…a cunning thief who works as a spy in the thieves’ camp.” – Shadow Tribes"},
-				"image": "portik_150.jpg",
+				"image": "portik_135.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-151": {
-				"id": "TS-151",
+			"TS-136": {
+				"id": "TS-136",
 				"set": "TS",
 				"name": {
 					"en": "Powers of Night",
@@ -4214,12 +3919,12 @@
 					{"en": "Spider Queen specific. May be played in your starting company instead of a minor item. You may include and use the following Balrog-specific cards in your deck: A Few Recruits, Nasty Slimy Thing, Evil Things Lingering, and Memories of Old Torture. Replace the text of the card where it indicates The Balrog with Spider Queen."},
 				"quote": 
 					{"en": "“But other potencies there are in Middle-earth, powers of night, and they are old and strong.” – LotR II"},
-				"image": "powersofnight_151.jpg",
+				"image": "powersofnight_136.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-153": {
-				"id": "TS-153",
+			"TS-138": {
+				"id": "TS-138",
 				"set": "TS",
 				"name": {
 					"en": "Presents for the Lady",
@@ -4243,12 +3948,12 @@
 					{"en": "Unique. Spider Queen specific. Playable at a Spiderhaven [K] if a Spider Queen is there. If the company defeats either an opposing character in company combat, or an asterisked creature, rotate this card 90º. If it has turned at least 360º, the company may store this card in the same Spiderhaven [K] it was played in, if your Spider Queen is there. It only gives marshalling points if it is stored."},
 				"quote": 
 					{"en": "“…or that you’d perhaps sent her a present, a prisoner of war or something.” – LotR II"},
-				"image": "presentsforthelady_153.jpg",
+				"image": "presentsforthelady_138.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-154": {
-				"id": "TS-154",
+			"TS-139": {
+				"id": "TS-139",
 				"set": "TS",
 				"name": {
 					"en": "Prophet of Dungortheb",
@@ -4278,12 +3983,12 @@
 					{"en": "+1 direct influence against Spiders, Woses, Spider factions, and Woses factions. -1 to all corruption checks. Tap Prophet of Dungortheb and remove a Wose character in her company from play to look for an Aberration or Spider character in your discard pile and place it in your hand."},
 				"quote": 
 					{"en": ""},
-				"image": "prophetofdungortheb_154.jpg",
+				"image": "prophetofdungortheb_139.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-155": {
-				"id": "TS-155",
+			"TS-140": {
+				"id": "TS-140",
 				"set": "TS",
 				"name": {
 					"en": "Rauko",
@@ -4313,12 +4018,12 @@
 					{"en": "Unique. +2 prowess against Animals and Spiders."},
 				"quote": 
 					{"en": "“…commissioned by Radagast himself for the defense of Mirkwood.” – Shadow Tribes"},
-				"image": "rauko_155.jpg",
+				"image": "rauko_140.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-157": {
-				"id": "TS-157",
+			"TS-141": {
+				"id": "TS-141",
 				"set": "TS",
 				"name": {
 					"en": "Resting Island",
@@ -4348,12 +4053,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“And he took with him three very dear servants, and there was never any news or sign of them in this world…” - Sil"},
-				"image": "restingisland_157.jpg",
+				"image": "restingisland_141.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-158": {
-				"id": "TS-158",
+			"TS-142": {
+				"id": "TS-142",
 				"set": "TS",
 				"name": {
 					"en": "Resting Island",
@@ -4383,12 +4088,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "restingisland_158.jpg",
+				"image": "restingisland_142.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-160": {
-				"id": "TS-160",
+			"TS-144": {
+				"id": "TS-144",
 				"set": "TS",
 				"name": {
 					"en": "Rómenost",
@@ -4418,12 +4123,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Situated at the crossroads of the great southern road, Rómenost was a small Gondorian fortress.” – Shadow Tribes"},
-				"image": "rómenost_160.jpg",
+				"image": "rómenost_144.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-159": {
-				"id": "TS-159",
+			"TS-143": {
+				"id": "TS-143",
 				"set": "TS",
 				"name": {
 					"en": "Rómenost",
@@ -4453,12 +4158,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“…they say that in ancient times, from their watchtower, watchmen could see the dangers coming from the dark forest and the mountains of ash.” – Shadow Tribes"},
-				"image": "rómenost_159.jpg",
+				"image": "rómenost_143.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-161": {
-				"id": "TS-161",
+			"TS-145": {
+				"id": "TS-145",
 				"set": "TS",
 				"name": {
 					"en": "Saenathra",
@@ -4488,12 +4193,12 @@
 					{"en": "Unique. Manifestation of Ungoliant´s Progeny. Unless she is one of the starting characters, she may only be brought into play at her home site. +1 prowess against Dwarves. +2 to direct influence against Spiders and Spider factions. Can use shadow-magic. Her company (as well as the regions she moves through) is not affected by Fell Winter, Long Winter or Snowstorm."},
 				"quote": 
 					{"en": "“Cut off from the brood of Mirkwood, she took refuge deep beneath the Iron Hills.” – Shadow Tribes"},
-				"image": "saenathra_161.jpg",
+				"image": "saenathra_145.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-162": {
-				"id": "TS-162",
+			"TS-146": {
+				"id": "TS-146",
 				"set": "TS",
 				"name": {
 					"en": "Saenathra Famished",
@@ -4517,12 +4222,12 @@
 					{"en": "Unique. Manifestation of Ungoliant´s Progeny. Playable at The Rusted-deeps or The Wind-deeps if the influence check is greater than 12.Modifications: Spider Queen (+3), Gelob (+2), if you remove from play a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered cancelled. Any company moving to The Rusted-deeps or The Wind-deeps faces one attack: Spawn, two strikes of 16/8 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "saenathrafamished_162.jpg",
+				"image": "saenathrafamished_146.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-163": {
-				"id": "TS-163",
+			"TS-147": {
+				"id": "TS-147",
 				"set": "TS",
 				"name": {
 					"en": "Samwise",
@@ -4551,12 +4256,12 @@
 					{"en": "Unique. Agent. +5 prowess against Spiders, Aberrations and Spider Queen. Agent only: may move to a Spiderhaven [K] and may tap at a company´s new site to attack that company during opponent´s movement/hazards phase."},
 				"quote": 
 					{"en": "“No onslaught more fierce was ever seen in the savage world of beasts, where some desperate small creature armed with little teeth, alone, will spring upon a tower of horn and hide that stands above its fallen mate.” – LotR II"},
-				"image": "samwise_163.jpg",
+				"image": "samwise_147.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-164": {
-				"id": "TS-164",
+			"TS-148": {
+				"id": "TS-148",
 				"set": "TS",
 				"name": {
 					"en": "Sangarunya",
@@ -4586,12 +4291,12 @@
 					{"en": "Unique. +2 direct influence against the Black Númenóreans faction."},
 				"quote": 
 					{"en": "“The Black Dragon…is Sangarunya himself!” – Kuduk Lore"},
-				"image": "sangarunya_164.jpg",
+				"image": "sangarunya_148.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-165": {
-				"id": "TS-165",
+			"TS-149": {
+				"id": "TS-149",
 				"set": "TS",
 				"name": {
 					"en": "Serve Yourself",
@@ -4613,12 +4318,12 @@
 					{"en": "Unique. Spider Queen specific. Playable during the organization phase on She the Watcher or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. During your end-of-turn phase, you may tap the Spider Queen to take a resource (no short-event nor a character) from your discard pile and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“…she served no one but herself, drinking the blood of elves and men…” – LotR II"},
-				"image": "serveyourself_165.jpg",
+				"image": "serveyourself_149.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-167": {
-				"id": "TS-167",
+			"TS-150": {
+				"id": "TS-150",
 				"set": "TS",
 				"name": {
 					"en": "Shadow Slayer",
@@ -4645,12 +4350,12 @@
 					{"en": "Unique. Slayer. Playable at Southern Mirkwood and all sites in that region. Two attacks (of one strike each) against the same character. The attacker chooses the defending characters. +1 prowess against Elves. The defending player may choose to tap a character in the same company to cancel one of these attacks. If Reaching Shadow is in play, may also be keyed to any region adjacent to Southern Mirkwood."},
 				"quote": 
 					{"en": ""},
-				"image": "shadowslayer_167.jpg",
+				"image": "shadowslayer_150.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-168": {
-				"id": "TS-168",
+			"TS-151": {
+				"id": "TS-151",
 				"set": "TS",
 				"name": {
 					"en": "She Evil Creature",
@@ -4674,12 +4379,12 @@
 					{"en": "Spider Queen specific. Spider Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. -2 general influence, +2 to her direct influence, +1 to prowess and -1 to body. The Spider Queen gains the ranger ability and may have Orc and Troll followers. +2 to all rolls made by her company to move to an adjacent Underdeeps site."},
 				"quote": 
 					{"en": ""},
-				"image": "sheevilcreature_168.jpg",
+				"image": "sheevilcreature_151.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-169": {
-				"id": "TS-169",
+			"TS-152": {
+				"id": "TS-152",
 				"set": "TS",
 				"name": {
 					"en": "She the Great",
@@ -4703,12 +4408,12 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 general influence, -2 to her direct influence, +1 to prowess and -2 to body. The Spider Queen gains the Warrior ability, becomes a Leader, and may move an additional region."},
 				"quote": 
 					{"en": "“But none could rival her, Shelob the Great…” – LotR II"},
-				"image": "shethegreat_169.jpg",
+				"image": "shethegreat_152.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-170": {
-				"id": "TS-170",
+			"TS-153": {
+				"id": "TS-153",
 				"set": "TS",
 				"name": {
 					"en": "She the Watcher",
@@ -4732,12 +4437,12 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 general influence, -2 to her direct influence, -2 to prowess and +2 to body. The Spider Queen gains the diplomat skill and may have followers. You may keep one more card than normal in your hand."},
 				"quote": 
 					{"en": "“But still the hatred of the Watcher lurked behind them …” – LotR II"},
-				"image": "shethewatcher_170.jpg",
+				"image": "shethewatcher_153.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-171": {
-				"id": "TS-171",
+			"TS-154": {
+				"id": "TS-154",
 				"set": "TS",
 				"name": {
 					"en": "She Weaver of Evil",
@@ -4761,12 +4466,12 @@
 					{"en": "Spider Queen specific. Spider’s Scheme. Playable during the organization phase on your Spider Queen. Return this card to your hand if you play another Spider Scheme card or if you wish during your organization phase. +2 to general influence, -2 to her direct influence, -2 to prowess and +2 to body. The Spider Queen gains the sage ability, she cannot move and cannot have followers (at the end of the organization phase she discards any followers in her company). In each end-of-turn phase, if the Spider Queen is in a Spider Haven, she places a Rot marker in the region in which she is located; or if already has Rot, in an adjacent region that is not a Coastal Sea [c]."},
 				"quote": 
 					{"en": ""},
-				"image": "sheweaverofevil_171.jpg",
+				"image": "sheweaverofevil_154.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-172": {
-				"id": "TS-172",
+			"TS-155": {
+				"id": "TS-155",
 				"set": "TS",
 				"name": {
 					"en": "Shelob",
@@ -4790,12 +4495,12 @@
 					{"en": "Unique. Manifestation of Shelob. +3 direct influence against Spiders and Spider factions. She may only have Spider followers or Spider Queen specific. She cannot use basic or region movement, except if she moves to a site in Gorgoroth, Imlad Morgul, Ithilien, or through a region with Rot. All body checks resulting from a missing strike against Shelob are modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "shelob_172.jpg",
+				"image": "shelob_155.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-173": {
-				"id": "TS-173",
+			"TS-156": {
+				"id": "TS-156",
 				"set": "TS",
 				"name": {
 					"en": "Shelob's Lair ",
@@ -4821,12 +4526,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "shelobslair_173.jpg",
+				"image": "shelobslair_156.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-177": {
-				"id": "TS-177",
+			"TS-160": {
+				"id": "TS-160",
 				"set": "TS",
 				"name": {
 					"en": "Site-lore",
@@ -4848,12 +4553,12 @@
 					{"en": "Playable on a Scout in a Haven/Darkhaven [H,K]. When moving to a Hidden site, target character’s company does not need to tap a character as a requirement to reveal the site. Bearer must make a corruption check each time he moves to a Hidden site."},
 				"quote": 
 					{"en": "“During his entire existence he had visited the most diverse places in Middle-earth.” – Shadow Tribes"},
-				"image": "site-lore_177.jpg",
+				"image": "site-lore_160.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-179": {
-				"id": "TS-179",
+			"TS-161": {
+				"id": "TS-161",
 				"set": "TS",
 				"name": {
 					"en": "Slime Blood",
@@ -4874,12 +4579,12 @@
 					{"en": "Spider Queen specific. Playable on an Aberration or Spider Queen character. If the character is wounded by an opposing character’s attack, the attacker must make a body check modified by +1. Cannot be duplicated on a given character."},
 				"quote": 
 					{"en": "“She reached the hole, and squeezing down, leaving a trail of green-yellow slime…” – LotR II"},
-				"image": "slimeblood_179.jpg",
+				"image": "slimeblood_161.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-180": {
-				"id": "TS-180",
+			"TS-162": {
+				"id": "TS-162",
 				"set": "TS",
 				"name": {
 					"en": "Sneak",
@@ -4910,12 +4615,12 @@
 					{"en": "Unique. Spider Queen specific. Manifestation of Gollum. Unless he is one of the starting characters, he may only be brought into play at his home site. +2 to his direct influence against Spiders and Aberration and Spider factions. All of his corruption checks are modified by +4. If he is the only character in his company, reduce his hazard limit by 1. Tap Sneak to cancel an attack against his company in a Wilderness [w] or a Shadow-land [s]. -2 marshalling points if eliminated."},
 				"quote": 
 					{"en": "“Sneak! Sneak! -hiss. Hobbits always so kind, yes. “Oh, good Hobbits!” – LotR II"},
-				"image": "sneak_180.jpg",
+				"image": "sneak_162.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-181": {
-				"id": "TS-181",
+			"TS-163": {
+				"id": "TS-163",
 				"set": "TS",
 				"name": {
 					"en": "Snow Spiders",
@@ -4941,12 +4646,12 @@
 					{"en": "Spiders. Three strikes. Playable in Angmar, Withered Heath, Iron Hills, Forochel, Gundabad, Numeriador, and Grey Mountain Narrows; and may also be played in all Ruins and Lairs [R] in these regions."},
 				"quote": 
 					{"en": "“Large-furred spiders with resistence to cold that feed on the scarce northern fauna.” – Shadow Tribes"},
-				"image": "snowspiders_181.jpg",
+				"image": "snowspiders_163.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-182": {
-				"id": "TS-182",
+			"TS-164": {
+				"id": "TS-164",
 				"set": "TS",
 				"name": {
 					"en": "Spider Horn Necklace",
@@ -4973,12 +4678,12 @@
 					{"en": "Unique. Artifact. Playable at a Shadow-hold [S] or a Dark-hold [D] in a region with Rot. +2 to direct influence against Spiders and Spider factions. +1 prowess against Elves and Dwarves."},
 				"quote": 
 					{"en": "“Great horns she had, and behind her short stalk-like neck was her huge swollen bodyt…” – LotR II"},
-				"image": "spiderhornnecklace_182.jpg",
+				"image": "spiderhornnecklace_164.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-183": {
-				"id": "TS-183",
+			"TS-165": {
+				"id": "TS-165",
 				"set": "TS",
 				"name": {
 					"en": "Spider Mount",
@@ -5000,12 +4705,12 @@
 					{"en": "Spider Queen specific. Playable at a Spiderhaven [K]. Bearer must be a Spider character (not a Leader). You may place an Orc character whose mind is equal to or lower than that of the bearing character as a follower of target Spider. The Orc does not count for the purpose of calculating the company’s hazard limit."},
 				"quote": 
 					{"en": ""},
-				"image": "spidermount_183.jpg",
+				"image": "spidermount_165.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-184": {
-				"id": "TS-184",
+			"TS-166": {
+				"id": "TS-166",
 				"set": "TS",
 				"name": {
 					"en": "Spider Subjugator",
@@ -5033,12 +4738,12 @@
 					{"en": "Discard on a body check result of 7. -1 to all corruption checks. -1 to all influence checks against factions. +2 prowess against Spiders."},
 				"quote": 
 					{"en": ""},
-				"image": "spidersubjugator_184.jpg",
+				"image": "spidersubjugator_166.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-185": {
-				"id": "TS-185",
+			"TS-167": {
+				"id": "TS-167",
 				"set": "TS",
 				"name": {
 					"en": "Spider Venom",
@@ -5061,12 +4766,12 @@
 					{"en": "Corruption. Playable on a company that is facing a Spider or Spawn attack, before assigning strikes. The first character wounded by said attack receives -1 body and 1 corruption point (place this card next to the character). Discard Spider Venom if the attack does not wound any characters. A character with this card must make a body check at the beginning of each of his untap phases.During their organization phase, a character with this card may be tapped to try to discard it. Make a roll: if the result is greater than 5, discard this card. Cannot be duplicated on the same attack."},
 				"quote": 
 					{"en": ""},
-				"image": "spidervenom_185.jpg",
+				"image": "spidervenom_167.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-186": {
-				"id": "TS-186",
+			"TS-168": {
+				"id": "TS-168",
 				"set": "TS",
 				"name": {
 					"en": "Spider Web",
@@ -5087,12 +4792,12 @@
 					{"en": "Spider Queen specific. Playable at a Spiderhaven [K] on an Aberration (except Maeklog or Fastitocalón), Spider or Spider Queen character. During the site phase you may discard this card during a company vs company combat, before assigning strikes, to choose a character from the opposing company. Character must make a body check modified by +2. If the character fails the check, he is taken prisoner at the current site and cannot participate in combat. During his untap phase, the player must make a roll: if the result is greater than 7, the character is rescued and forms his own company on the site; If the result is less than 3, he is eliminated. Rescue Attack: Trap, 1 strike of prowess 10."},
 				"quote": 
 					{"en": ""},
-				"image": "spiderweb_186.jpg",
+				"image": "spiderweb_168.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-187": {
-				"id": "TS-187",
+			"TS-169": {
+				"id": "TS-169",
 				"set": "TS",
 				"name": {
 					"en": "Spiders of Dol Guldur",
@@ -5116,12 +4821,12 @@
 					{"en": "Unique. Playable at Dol Guldur if the influence check is greater than 10.Modifications: Shelob (+2), Enna San Sarab (+3), Aberrations or Leader Spiders (+1), any other character (-2)."},
 				"quote": 
 					{"en": "“…spread from glen to glen, from the Ephel Dúath to the eastern hills, to Dol Guldur and the fastnesses of Mirkwood.” – LotR II"},
-				"image": "spidersofdolguldur_187.jpg",
+				"image": "spidersofdolguldur_169.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-188": {
-				"id": "TS-188",
+			"TS-170": {
+				"id": "TS-170",
 				"set": "TS",
 				"name": {
 					"en": "Spiderslayer",
@@ -5145,46 +4850,12 @@
 					{"en": "Weapon. +1 prowess up to a maximum of 8 (+2 prowess up to a maximum of 8 against Spiders and rescue attacks)."},
 				"quote": 
 					{"en": "“The spider was lying dead on the side and the sword was stained black.” – Hob"},
-				"image": "spiderslayer_188.jpg",
+				"image": "spiderslayer_170.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-189": {
-				"id": "TS-189",
-				"set": "TS",
-				"name": {
-					"en": "Spider´s Clear",
-					"es": "Claro de las Arañas",
-					"de": "Name DE",
-					"fr": "Spider´s Clear",
-					"it": "Spider´s Clear",
-					"nl": "Spider´s Clear",
-					"fi": "Spider´s Clear",
-					"ja": "Spider´s Clear"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Dol Guldur",
-					"draw": "1",
-					"region": "Western Mirkwood",
-					"auto_attack": "Spiders — 2 strikes with 6 prowess (detainment against companies containing a Spider)",
-					"site_type": "{R}",
-					"special": "If you are a Spider Queen, the automatic attack is canceled and this site is always returned to the site deck, and never to the discard pile.",
-					"drawOpponent": "1",
-					"site_path": "{d}{w}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": "“No sooner had the first stepped into the clearing than all the lights went out as if by magic..” - Hob"},
-				"image": "spidersclear_189.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-190": {
-				"id": "TS-190",
+			"TS-171": {
+				"id": "TS-171",
 				"set": "TS",
 				"name": {
 					"en": "Spider´s Clear",
@@ -5214,12 +4885,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“...round the trunks and looked into a clearing where some trees had been felled and the ground levelled.” –Hob"},
-				"image": "spidersclear_190.jpg",
+				"image": "spidersclear_171.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-191": {
-				"id": "TS-191",
+			"TS-172": {
+				"id": "TS-172",
+				"set": "TS",
+				"name": {
+					"en": "Spider´s Clear",
+					"es": "Claro de las Arañas",
+					"de": "Name DE",
+					"fr": "Spider´s Clear",
+					"it": "Spider´s Clear",
+					"nl": "Spider´s Clear",
+					"fi": "Spider´s Clear",
+					"ja": "Spider´s Clear"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Dol Guldur",
+					"draw": "1",
+					"region": "Western Mirkwood",
+					"auto_attack": "Spiders — 2 strikes with 6 prowess (detainment against companies containing a Spider)",
+					"site_type": "{R}",
+					"playable": "Items (Minor)",
+					"special": "If you are a Spider Queen, the automatic attack is canceled and this site is always returned to the site deck, and never to the discard pile.",
+					"drawOpponent": "1",
+					"site_path": "{d}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“No sooner had the first stepped into the clearing than all the lights went out as if by magic..” - Hob"},
+				"image": "spidersclear_172.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-173": {
+				"id": "TS-173",
 				"set": "TS",
 				"name": {
 					"en": "Spider´s Colony",
@@ -5240,46 +4946,12 @@
 					{"en": "Playable at the end of the organization phase on a company using region movement if the last region is a Wilderness [w]. Use this card as a site card: Ruins and Lairs [R]; automatic attack: Spiders, 2 strikes of prowess 7 (detainment against companies containing a Spider); playable: items (Minor, Major), drawn cards 1/2 (you/opponent), special: a non-unique Spider character may be brought into play at this location during the organization phase. The company can only leave the site using region cards. Discard Spider´s Colony when the company moves to a new location."},
 				"quote": 
 					{"en": ""},
-				"image": "spiderscolony_191.jpg",
+				"image": "spiderscolony_173.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-192": {
-				"id": "TS-192",
-				"set": "TS",
-				"name": {
-					"en": "Spider´s Den",
-					"es": "Cubil de Arañas",
-					"de": "Name DE",
-					"fr": "Spider´s Den",
-					"it": "Spider´s Den",
-					"nl": "Spider´s Den",
-					"fi": "Spider´s Den",
-					"ja": "Spider´s Den"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Dol Guldur",
-					"draw": "1",
-					"region": "Southern Mirkwood ",
-					"auto_attack": "Spiders — 3 strikes 6 with prowess (canceled against companies containing a Spider)",
-					"site_type": "{R}",
-					"special": "If you are a Spider Queen, this place is considered a Spider Haven for healing and character play purposes.",
-					"drawOpponent": "1",
-					"site_path": "{d}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "spidersden_192.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-193": {
-				"id": "TS-193",
+			"TS-175": {
+				"id": "TS-175",
 				"set": "TS",
 				"name": {
 					"en": "Spider´s Den",
@@ -5308,12 +4980,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“As she approached, he saw that the shadow was actually a jumble of overlapping cobwebs.” –Hob"},
-				"image": "spidersden_193.jpg",
+				"image": "spidersden_175.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-194": {
-				"id": "TS-194",
+			"TS-174": {
+				"id": "TS-174",
+				"set": "TS",
+				"name": {
+					"en": "Spider´s Den",
+					"es": "Cubil de Arañas",
+					"de": "Name DE",
+					"fr": "Spider´s Den",
+					"it": "Spider´s Den",
+					"nl": "Spider´s Den",
+					"fi": "Spider´s Den",
+					"ja": "Spider´s Den"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Dol Guldur",
+					"draw": "1",
+					"region": "Southern Mirkwood ",
+					"auto_attack": "Spiders — 3 strikes 6 with prowess (canceled against companies containing a Spider)",
+					"site_type": "{R}",
+					"playable": "Items (Minor)",
+					"special": "If you are a Spider Queen, this place is considered a Spider Haven for healing and character play purposes.",
+					"drawOpponent": "1",
+					"site_path": "{d}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "spidersden_174.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-176": {
+				"id": "TS-176",
 				"set": "TS",
 				"name": {
 					"en": "Spittle of Venom",
@@ -5335,12 +5042,12 @@
 					{"en": "Spider Queen specific. Playable on an Aberration or a Spider in a Spiderhaven [K]. You may discard Poisonous Saliva to give the bearer +1 prowess and +1 to all body checks resulting from missing a strike against the bearer until the end of the turn."},
 				"quote": 
 					{"en": "“…her beak drabbling a spittle of venom…” – LotR II"},
-				"image": "spittleofvenom_194.jpg",
+				"image": "spittleofvenom_176.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-195": {
-				"id": "TS-195",
+			"TS-177": {
+				"id": "TS-177",
 				"set": "TS",
 				"name": {
 					"en": "Spreading through Mirkwood",
@@ -5363,12 +5070,12 @@
 					{"en": "Spider Queen specific. Playable if you have at least four Spider characters in play, one Aberration, one Spider ally, and two Spider factions (or one Aberration) that have been played somewhere in Mirkwood. For the purpose of playing hazards, treat all Border-holds [B] in Mirkwood as Ruins and Lairs [R] and all sites with an Spider automatic attack become a Spider Haven. Increases the hazard limit of any hero company moving to or from a site in a region in Mirkwood by one. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…keeping him away from all light and all remorse.” – LotR II"},
-				"image": "spreadingthroughmirkwood_195.jpg",
+				"image": "spreadingthroughmirkwood_177.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-197": {
-				"id": "TS-197",
+			"TS-179": {
+				"id": "TS-179",
 				"set": "TS",
 				"name": {
 					"en": "Starling Sound",
@@ -5390,12 +5097,12 @@
 					{"en": "Unique. Spider Queen specific. Potencie. Playable during the organization phase on She Evil Creature or She Weaver of Evil. Discard if you play another Potencie card or the Spider Scheme card leaves active play. During your end-of-turn phase, you may tap the Spider Queen to take a short-event resource or character from your discard pile and shuffle it into your play deck."},
 				"quote": 
 					{"en": "“They had not gone more than a few yards when from behind them came a sound, startling and horrible in the heavy padded silence…” – LotR II"},
-				"image": "starlingsound_197.jpg",
+				"image": "starlingsound_179.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-199": {
-				"id": "TS-199",
+			"TS-181": {
+				"id": "TS-181",
 				"set": "TS",
 				"name": {
 					"en": "Stinger",
@@ -5422,47 +5129,12 @@
 					{"en": "Unique. Hobbit. Playable only against an overt minion company. One strike. +3 prowess against Spiders, Orcs and Trolls. As a creature, it may also be played located in The Shire, Rhudaur, High Pass, Anduin Vales, Woodland Realm, and Northern Rhovanion; and may also be played at sites in these regions.As a short-event, may be played as a resource to give a Hobbit +3 prowess against a Spider, Orc or Troll strike."},
 				"quote": 
 					{"en": "“His little sword was something new in the way of stings for them.” – Hob"},
-				"image": "stinger_199.jpg",
+				"image": "stinger_181.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-201": {
-				"id": "TS-201",
-				"set": "TS",
-				"name": {
-					"en": "Stone Pit",
-					"es": "Foso de Piedras",
-					"de": "Name DE",
-					"fr": "Stone Pit",
-					"it": "Stone Pit",
-					"nl": "Stone Pit",
-					"fi": "Stone Pit",
-					"ja": "Stone Pit"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Dol Guldur",
-					"draw": "1",
-					"region": "Brown Lands",
-					"auto_attack": "Spider — 1 strike with 8 prowess",
-					"site_type": "{R}",
-					"playable": "Items (Minor)",
-					"special": "Contains a Hoard.",
-					"drawOpponent": "1",
-					"site_path": "{d}{s}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": "“Yet here we are still, while all the gardens of the ent-women have been devastated: men now call them the Brown Lands.” – LotR II"},
-				"image": "stonepit_201.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-200": {
-				"id": "TS-200",
+			"TS-183": {
+				"id": "TS-183",
 				"set": "TS",
 				"name": {
 					"en": "Stone Pit",
@@ -5492,12 +5164,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Far and above the Rio Grande and the Brown Lands, over leagues and leagues of gray expanses…” – LotR II"},
-				"image": "stonepit_200.jpg",
+				"image": "stonepit_183.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-202": {
-				"id": "TS-202",
+			"TS-182": {
+				"id": "TS-182",
+				"set": "TS",
+				"name": {
+					"en": "Stone Pit",
+					"es": "Foso de Piedras",
+					"de": "Name DE",
+					"fr": "Stone Pit",
+					"it": "Stone Pit",
+					"nl": "Stone Pit",
+					"fi": "Stone Pit",
+					"ja": "Stone Pit"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Dol Guldur",
+					"draw": "1",
+					"region": "Brown Lands",
+					"auto_attack": "Spider — 1 strike with 8 prowess",
+					"site_type": "{R}",
+					"playable": "Items (Minor)",
+					"special": "Contains a Hoard.",
+					"drawOpponent": "1",
+					"site_path": "{d}{s}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“Yet here we are still, while all the gardens of the ent-women have been devastated: men now call them the Brown Lands.” – LotR II"},
+				"image": "stonepit_182.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-184": {
+				"id": "TS-184",
 				"set": "TS",
 				"name": {
 					"en": "Stone Spider",
@@ -5515,7 +5222,7 @@
 					"skills": "Scout",
 					"body": "9",
 					"prowess": "2",
-					"homeSite": "Any Ruins and Lairs with a Spider automatic attack that are not in Mirkwood",
+					"homeSite": "Any Ruins and Lairs with a Spider automatic attack not in Mirkwood",
 					"race": "Spider",
 					"mind": "2",
 					"directInfluence": "0",
@@ -5525,12 +5232,12 @@
 					{"en": "Return to its owner’s hand on a body check result of 8 or 9. +1 prowess against Elves. -1 to all corruption checks. If Choking Shadows is in play, you may target Stone Spider with a strike (not choosing defending character) even if it is tapped."},
 				"quote": 
 					{"en": "“They live in caves and go out to hunt at night.” – Shadow Tribes"},
-				"image": "stonespider_202.jpg",
+				"image": "stonespider_184.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-203": {
-				"id": "TS-203",
+			"TS-185": {
+				"id": "TS-185",
 				"set": "TS",
 				"name": {
 					"en": "Stone Thrower",
@@ -5556,12 +5263,12 @@
 					{"en": "Hobbit. Playable only against an overt minion company. One strike. All body checks resulting from a successful strike are modified by +1. +3 prowess against Aberrations and Spiders. May also be keyed to The Shire and Old Forest; and may also be played at sites in these regions."},
 				"quote": 
 					{"en": "“Bilbo was a pretty fair shot with a stone, and it did not take him long to find a nice smooth egg-shaped one that fitted his hand cosily.” – Hob"},
-				"image": "stonethrower_203.jpg",
+				"image": "stonethrower_185.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-204": {
-				"id": "TS-204",
+			"TS-186": {
+				"id": "TS-186",
 				"set": "TS",
 				"name": {
 					"en": "Strangling Dark Net",
@@ -5582,12 +5289,12 @@
 					{"en": "Playable on a Shadow magic user character. The target character may remove a Special Ring, Palantír, or Artifact item to place a Rot marker in the region where her current site is keyed. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“There she sucked up all light that she could find, and spun it forth again in dark nets of strangling gloom…” – Sil"},
-				"image": "stranglingdarknet_204.jpg",
+				"image": "stranglingdarknet_186.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-206": {
-				"id": "TS-206",
+			"TS-188": {
+				"id": "TS-188",
 				"set": "TS",
 				"name": {
 					"en": "Surrounded by Spiders",
@@ -5608,12 +5315,12 @@
 					{"en": "Playable on a company that is moving through a Wilderness [w]. Discard a Spider character or ally from your hand to search your play deck or discard pile for a hazard Spider creature that could be legally played against the target company, and put it into your hand. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "surroundedbyspiders_206.jpg",
+				"image": "surroundedbyspiders_188.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-207": {
-				"id": "TS-207",
+			"TS-189": {
+				"id": "TS-189",
 				"set": "TS",
 				"name": {
 					"en": "Swamp Spider",
@@ -5641,12 +5348,12 @@
 					{"en": "Return to its owner’s hand on a body check result of 7 or 8. +1 prowess against Dwarves. -1 to all corruption checks."},
 				"quote": 
 					{"en": "“They reside in wetlands and swamps, they are very aggressive against anyone who invades their territory.” – Shadow Tribes"},
-				"image": "swampspider_207.jpg",
+				"image": "swampspider_189.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-208": {
-				"id": "TS-208",
+			"TS-190": {
+				"id": "TS-190",
 				"set": "TS",
 				"name": {
 					"en": "Swarming Spiders",
@@ -5672,12 +5379,12 @@
 					{"en": "Spiders. Two strikes. The attacker chooses the defending characters. +1 to all body checks as a result of missing a strike against Swarming Spiders."},
 				"quote": 
 					{"en": "“…saw spiders swarming up all the neighbouring trees, and crawling along the boughs above the heads of the dwarves.” – Hob"},
-				"image": "swarmingspiders_208.jpg",
+				"image": "swarmingspiders_190.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-209": {
-				"id": "TS-209",
+			"TS-191": {
+				"id": "TS-191",
 				"set": "TS",
 				"name": {
 					"en": "Sweeter Meat",
@@ -5698,12 +5405,12 @@
 					{"en": "Spider Queen specific. Playable on a company that contains more Spider characters than characters of other races. Remove a non-Spider or non-Orc character from the company to untap all Spider characters in the company. Cannot be duplicated on the same company in the same turn."},
 				"quote": 
 					{"en": "“But she lusted for sweeter meat.” – LotR II"},
-				"image": "sweetermeat_209.jpg",
+				"image": "sweetermeat_191.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-5": {
-				"id": "TS-5",
+			"TS-4": {
+				"id": "TS-4",
 				"set": "TS",
 				"name": {
 					"en": "The Ancestral Grottos",
@@ -5724,7 +5431,7 @@
 					"auto_attack": "1st Pûkel Creature — 1 strike with prowess 11;2nd The opponent may play a hazard creature from their hand that is not unique and can normally be placed in a Shadow-hold [S] ] ].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
-					"special": "Hidden site. The player must tap a Ranger to reveal this site. Any Undead creature can be played here.",
+					"special": "Hidden site. Tap a ranger in the moving company to reveal this site. Any Undead creature can be played here.",
 					"drawOpponent": "2",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -5732,12 +5439,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theancestralgrottos_5.jpg",
+				"image": "theancestralgrottos_4.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-4": {
-				"id": "TS-4",
+			"TS-5": {
+				"id": "TS-5",
 				"set": "TS",
 				"name": {
 					"en": "The Ancestral Grottos",
@@ -5758,7 +5465,7 @@
 					"auto_attack": "1st Pûkel Creature — 2 strike with prowess 11;2nd The opponent may play a hazard creature from their hand that is not unique and can normally be placed in a Shadow-hold []S].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
-					"special": "Hidden site. The player must tap a Ranger to reveal this site. Any Undead creature can be played here.",
+					"special": "Hidden site. Tap a ranger in the moving company to reveal this site. Any Undead creature can be played here.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -5766,7 +5473,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theancestralgrottos_4.jpg",
+				"image": "theancestralgrottos_5.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -5825,40 +5532,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-18": {
-				"id": "TS-18",
-				"set": "TS",
-				"name": {
-					"en": "The Black Messenger",
-					"es": "El Mensajero Negro",
-					"de": "Name DE",
-					"fr": "The Black Messenger",
-					"it": "The Black Messenger",
-					"nl": "The Black Messenger",
-					"fi": "The Black Messenger",
-					"ja": "The Black Messenger"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "13/8",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Zaken. Playable on Wintirion Iaur. One strike.May also be played after an Undead attack in Dorwinion, Southern Rhovanion, or a region with Rot. A character wounded by The Black Messenger must discard an item they are carrying (the defender’s choice)."},
-				"quote": 
-					{"en": ""},
-				"image": "theblackmessenger_18.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-27": {
-				"id": "TS-27",
+			"TS-26": {
+				"id": "TS-26",
 				"set": "TS",
 				"name": {
 					"en": "The Call of the Nest",
@@ -5879,46 +5554,12 @@
 					{"en": "Playable on a company that contains an Aberration and at least one Spider character. The player must make a roll for each Spider character in the company. Returns the character to his or her home site if the mind of Aberration minus the mind of the Spider is equal to or less than the result of the roll. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "thecallofthenest_27.jpg",
+				"image": "thecallofthenest_26.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-41": {
-				"id": "TS-41",
-				"set": "TS",
-				"name": {
-					"en": "The Deafening Grottos",
-					"es": "Las Grutas Atronadoras",
-					"de": "Name DE",
-					"fr": "The Deafening Grottos",
-					"it": "The Deafening Grottos",
-					"nl": "The Deafening Grottos",
-					"fi": "The Deafening Grottos",
-					"ja": "The Deafening Grottos"},
-				"type": "Site",
-				"alignment": "Balrog",
-				"attributes": {
-					"unique": true,
-					"adjacent": "Cûm Taran (0), The Sparkling Grottos (8), The Stone Undergrounds (7)",
-					"draw": "1",
-					"region": "Under-deeps",
-					"auto_attack": "1st Undead — 3 strike with prowess 9;2nd The opponent can play a hazard creature from his hand that is not unique and can normally be keyed to a Shadow-hold [[S]].",
-					"site_type": "{R}",
-					"playable": "Information, Items (Minor, Major)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site. Any Undead creature can be played here.",
-					"drawOpponent": "2",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "thedeafeninggrottos_41.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-42": {
-				"id": "TS-42",
+			"TS-39": {
+				"id": "TS-39",
 				"set": "TS",
 				"name": {
 					"en": "The Deafening Grottos",
@@ -5939,7 +5580,7 @@
 					"auto_attack": "1st Undead — 3 strike with prowess 9;2nd The opponent can play an hazard creature from his hand that is not unique and can normally be keyed to a Shadow-hold [[S ]]].",
 					"site_type": "{R}",
 					"playable": "Information, Items (Minor, Major)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site. Any Undead creature can be played here.",
+					"special": "Hidden site. Tap a scout in the moving company to reveal this site. Any Undead creature can be played here.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -5947,12 +5588,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thedeafeninggrottos_42.jpg",
+				"image": "thedeafeninggrottos_39.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-62": {
-				"id": "TS-62",
+			"TS-40": {
+				"id": "TS-40",
+				"set": "TS",
+				"name": {
+					"en": "The Deafening Grottos",
+					"es": "Las Grutas Atronadoras",
+					"de": "Name DE",
+					"fr": "The Deafening Grottos",
+					"it": "The Deafening Grottos",
+					"nl": "The Deafening Grottos",
+					"fi": "The Deafening Grottos",
+					"ja": "The Deafening Grottos"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "Cûm Taran (0), The Sparkling Grottos (8), The Stone Undergrounds (7)",
+					"draw": "1",
+					"region": "Under-deeps",
+					"auto_attack": "1st Undead — 3 strike with prowess 9;2nd The opponent can play a hazard creature from his hand that is not unique and can normally be keyed to a Shadow-hold [[S]].",
+					"site_type": "{R}",
+					"playable": "Information, Items (Minor, Major)",
+					"special": "Hidden site. Tap a scout in the moving company to reveal this site. Any Undead creature can be played here.",
+					"drawOpponent": "2",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "thedeafeninggrottos_40.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-58": {
+				"id": "TS-58",
 				"set": "TS",
 				"name": {
 					"en": "The Eye of the Enemy",
@@ -5974,44 +5649,12 @@
 					{"en": "Unique. Playable on Barad-dûr if you are Sauron. Place this card aside next to a manifestation of Sauron. Barad-dûr is never discarded or returned to the site deck. Increases the corruption points of all Hero Palantír by 1. All hero companies moving to a site in Gorgoroth must make a roll (modified by +2 for each Hobbit and +1 for each Scout in the company); If the result is less than 7, the company must return to its place of origin. Discard this card if The Ithil-stone comes into play."},
 				"quote": 
 					{"en": "“But it is necessary above all that the Eye of the Enemy continues to be removed from the real danger that threatens it.” – LotR III"},
-				"image": "theeyeoftheenemy_62.jpg",
+				"image": "theeyeoftheenemy_58.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-68": {
-				"id": "TS-68",
-				"set": "TS",
-				"name": {
-					"en": "The First Wright",
-					"es": "El Primer Espectro",
-					"de": "Name DE",
-					"fr": "The First Wright",
-					"it": "The First Wright",
-					"nl": "The First Wright",
-					"fi": "The First Wright",
-					"ja": "The First Wright"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "14/8",
-					"race": "Demon, Undead",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Undead. Manifestation of Maugarth. Playable at Dead Marshes. One strike. May also be played after an Undead attack on Dagorlad, Brown Lands, or a region with Rot. A character wounded by The First Wright is taken prisoner in a Ruins and Lairs [R] keyed in one of these regions (at the attacker’s choice); all cards the prisoner character controls are discarded. Rescue Attack: Undead, 1 prowess 13 strike."},
-				"quote": 
-					{"en": ""},
-				"image": "thefirstwright_68.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-85": {
-				"id": "TS-85",
+			"TS-78": {
+				"id": "TS-78",
 				"set": "TS",
 				"name": {
 					"en": "The Haunted Grottos",
@@ -6032,7 +5675,7 @@
 					"auto_attack": "1st Pûkel Creature — 2 strikes with prowess 11;2nd The opponent may play an hazard creature from his hand that is not unique normally be keyed to a Shadow-hold [S]].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site. Any Spider creature or Pûkel Creature may be played at this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site. Any Spider creature or Pûkel Creature may be played at this site.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -6040,12 +5683,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thehauntedgrottos_85.jpg",
+				"image": "thehauntedgrottos_78.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-84": {
-				"id": "TS-84",
+			"TS-79": {
+				"id": "TS-79",
 				"set": "TS",
 				"name": {
 					"en": "The Haunted Grottos",
@@ -6066,7 +5709,7 @@
 					"auto_attack": "1st Pûkel Creature — 2 strikes with prowess 11;2nd The opponent may play an hazard creature from his hand that is not unique normally be keyed to a Shadow-hold [S]]].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
-					"special": "Hidden site. The player must tap a Sage to reveal this site. Any Spider creature or Pûkel Creature may be played at this site.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site. Any Spider creature or Pûkel Creature may be played at this site.",
 					"drawOpponent": "2",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -6074,110 +5717,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thehauntedgrottos_84.jpg",
+				"image": "thehauntedgrottos_79.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-89": {
-				"id": "TS-89",
-				"set": "TS",
-				"name": {
-					"en": "The High Priestess",
-					"es": "La Suma Sacerdotisa",
-					"de": "Name DE",
-					"fr": "The High Priestess",
-					"it": "The High Priestess",
-					"nl": "The High Priestess",
-					"fi": "The High Priestess",
-					"ja": "The High Priestess"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "13/8",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Ygana. Playable at Hogo Tarosvan. One strike. May also be played after an Undead attack in Lamedon, Lebennin, or a region with Rot. A character wounded by The High Priestess separates into a different company and must return to the site of origin of the initial company."},
-				"quote": 
-					{"en": ""},
-				"image": "thehighpriestess_89.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-92": {
-				"id": "TS-92",
-				"set": "TS",
-				"name": {
-					"en": "The Ice Paladin",
-					"es": "El Paladin de Hielo",
-					"de": "Name DE",
-					"fr": "The Ice Paladin",
-					"it": "The Ice Paladin",
-					"nl": "The Ice Paladin",
-					"fi": "The Ice Paladin",
-					"ja": "The Ice Paladin"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "14/8",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Kuruki. Playable at Cairn Lossadan. One strike. May also be played after an Undead attack in Angmar, Forochel, or a region with Rot. After playing The Ice Paladin against a company, may play Fell Winter and/or Long Winter against them without against hazard limit."},
-				"quote": 
-					{"en": ""},
-				"image": "theicepaladin_92.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-94": {
-				"id": "TS-94",
-				"set": "TS",
-				"name": {
-					"en": "The Igneous Grottos",
-					"es": "Las Grutas Ígneas",
-					"de": "Name DE",
-					"fr": "The Igneous Grottos",
-					"it": "The Igneous Grottos",
-					"nl": "The Igneous Grottos",
-					"fi": "The Igneous Grottos",
-					"ja": "The Igneous Grottos"},
-				"type": "Site",
-				"alignment": "Balrog",
-				"attributes": {
-					"unique": true,
-					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (6), The Ancestral Grottos (5)",
-					"draw": "1",
-					"region": "Under-deeps",
-					"auto_attack": "1st Maia. Demon (Fire Spirit) — 1 strike with prowess 15, cannot be canceled, any wounded character is eliminated;2nd The opponent may play an hazard creature from his hand that is not unique and may normally be keyed to a Ruins and Lairs [[R] ]].",
-					"site_type": "{R}",
-					"playable": "Information, Items (Minor, Major)",
-					"special": "Hidden site. The moving company must tap a sage to reveal this site. Tap a sage to take a spell or spell card from your side deck and put it into your hand. Any Undead creature may be played here.",
-					"drawOpponent": "2",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "theigneousgrottos_94.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-95": {
-				"id": "TS-95",
+			"TS-87": {
+				"id": "TS-87",
 				"set": "TS",
 				"name": {
 					"en": "The Igneous Grottos",
@@ -6198,7 +5743,7 @@
 					"auto_attack": "1st Maia. Demon (Fire Spirit) — 1 strike with prowess 15, cannot be canceled, any wounded character is eliminated; 2nd The opponent may play a hazard creature from his hand that is not unique and may normally be placed in Ruins and Lairs [R].",
 					"site_type": "{S}",
 					"playable": "Information, Items (Minor, Major)",
-					"special": "Hidden site. The moving company must tap a sage to reveal this site. Tap a sage to take a spell or spell card from your side deck and put it into your hand. Any Undead creature may be played here.",
+					"special": "Hidden site. Tap a sage in the moving company to reveal this site. Tap a sage to take a spell or spell card from your side deck and put it into your hand. Any Undead creature may be played here.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -6206,140 +5751,78 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theigneousgrottos_95.jpg",
+				"image": "theigneousgrottos_87.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-121": {
-				"id": "TS-121",
+			"TS-86": {
+				"id": "TS-86",
 				"set": "TS",
 				"name": {
-					"en": "The Mist Walker",
-					"es": "El Caminante de las Brumas",
+					"en": "The Igneous Grottos",
+					"es": "Las Grutas Ígneas",
 					"de": "Name DE",
-					"fr": "The Mist Walker",
-					"it": "The Mist Walker",
-					"nl": "The Mist Walker",
-					"fi": "The Mist Walker",
-					"ja": "The Mist Walker"},
-				"type": "Hazard",
-				"alignment": "Neutral",
+					"fr": "The Igneous Grottos",
+					"it": "The Igneous Grottos",
+					"nl": "The Igneous Grottos",
+					"fi": "The Igneous Grottos",
+					"ja": "The Igneous Grottos"},
+				"type": "Site",
+				"alignment": "Balrog",
 				"attributes": {
 					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "14/8",
-					"race": "Demon",
-					"subtype": "Creature",
+					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (6), The Ancestral Grottos (5)",
+					"draw": "1",
+					"region": "Under-deeps",
+					"auto_attack": "1st Maia. Demon (Fire Spirit) — 1 strike with prowess 15, cannot be canceled, any wounded character is eliminated;2nd The opponent may play an hazard creature from his hand that is not unique and may normally be keyed to a Ruins and Lairs [[R] ]].",
+					"site_type": "{R}",
+					"playable": "Information, Items (Minor, Major)",
+					"special": "Hidden site.Tap a sage in the moving company to reveal this site. Tap a sage to take a spell or spell card from your side deck and put it into your hand. Any Undead creature may be played here.",
+					"drawOpponent": "2",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Demon. Manifestation of Faebartha. Playable at Ûgûlai. One strike. May also be played after an Undead attack keyed in Gundabad, Anduin Vales, or a region with Rot. A character wounded by The Mist Walker must return alone to the company’s place of origin."},
+					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "themistwalker_121.jpg",
+				"image": "theigneousgrottos_86.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-148": {
-				"id": "TS-148",
+			"TS-157": {
+				"id": "TS-157",
 				"set": "TS",
 				"name": {
-					"en": "The Pest Sower",
-					"es": "El Sembrador de Plagas",
+					"en": "The Shelob´s Great Pit",
+					"es": "El Gran Foso de Ella",
 					"de": "Name DE",
-					"fr": "The Pest Sower",
-					"it": "The Pest Sower",
-					"nl": "The Pest Sower",
-					"fi": "The Pest Sower",
-					"ja": "The Pest Sower"},
-				"type": "Hazard",
-				"alignment": "Neutral",
+					"fr": "The Shelob´s Great Pit",
+					"it": "The Shelob´s Great Pit",
+					"nl": "The Shelob´s Great Pit",
+					"fi": "The Shelob´s Great Pit",
+					"ja": "The Shelob´s Great Pit"},
+				"type": "Site",
+				"alignment": "Fallen-wizard",
 				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "12/8",
-					"race": "Demon",
-					"subtype": "Creature",
+					"adjacent": "Specific to Shelob.",
+					"draw": "1",
+					"region": "Under-deeps",
+					"auto_attack": "Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. Whenever you store an Artifact, Palantir, or Special Ring at this site, you may add a Rot marker to Southern Mirkwood or an adjacent region. Any attack against your companies keyed to this site is cancelled.",
+					"site_type": "{K}",
+					"playable": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
+					"drawOpponent": "1",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Demon. Manifestation of Langon. Playable at Nen Falastir. One strike. May also be played after an Undead attack in Harondor, Khand, or a region with Rot. If a character is wounded by The Pest Sower instead of making a body check, you may play Plague on them, which may come from your hand or discard pile."},
+					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thepestsower_148.jpg",
+				"image": "theshelobsgreatpit_157.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-156": {
-				"id": "TS-156",
-				"set": "TS",
-				"name": {
-					"en": "The Red Priest",
-					"es": "El Sacerdote Rojo",
-					"de": "Name DE",
-					"fr": "The Red Priest",
-					"it": "The Red Priest",
-					"nl": "The Red Priest",
-					"fi": "The Red Priest",
-					"ja": "The Red Priest"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "12/9",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Carrog. Playable at Carvarad. One strike. May also be played after an Undead attack in Dorwinion, Southern Rhovanion, or a region with Rot. Reduces by 3 all influence rolls made by a company that has faced The Red Priest until the end of the turn."},
-				"quote": 
-					{"en": ""},
-				"image": "theredpriest_156.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-166": {
-				"id": "TS-166",
-				"set": "TS",
-				"name": {
-					"en": "The Shadow of the Dusk",
-					"es": "La Sombra del Ocaso",
-					"de": "Name DE",
-					"fr": "The Shadow of the Dusk",
-					"it": "The Shadow of the Dusk",
-					"nl": "The Shadow of the Dusk",
-					"fi": "The Shadow of the Dusk",
-					"ja": "The Shadow of the Dusk"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "13/9",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Lairathin. Playable on Isle of the Dead that Live. One strike. May also be played after an Undead attack in a Coastal Sea[c] or a region adjacent to Coastal Sea [c] with Rot. All attacks keyed in a Coastal Sea [c] against the company of The Shadow of the Dusk, have their prowess and body (if any) reduced by one."},
-				"quote": 
-					{"en": ""},
-				"image": "theshadowofthedusk_166.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-174": {
-				"id": "TS-174",
+			"TS-159": {
+				"id": "TS-159",
 				"set": "TS",
 				"name": {
 					"en": "The Shelob´s Great Pit",
@@ -6368,12 +5851,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theshelobsgreatpit_174.jpg",
+				"image": "theshelobsgreatpit_159.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-175": {
-				"id": "TS-175",
+			"TS-158": {
+				"id": "TS-158",
 				"set": "TS",
 				"name": {
 					"en": "The Shelob´s Great Pit",
@@ -6402,76 +5885,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theshelobsgreatpit_175.jpg",
+				"image": "theshelobsgreatpit_158.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-176": {
-				"id": "TS-176",
-				"set": "TS",
-				"name": {
-					"en": "The Shelob´s Great Pit",
-					"es": "El Gran Foso de Ella",
-					"de": "Name DE",
-					"fr": "The Shelob´s Great Pit",
-					"it": "The Shelob´s Great Pit",
-					"nl": "The Shelob´s Great Pit",
-					"fi": "The Shelob´s Great Pit",
-					"ja": "The Shelob´s Great Pit"},
-				"type": "Site",
-				"alignment": "Fallen-wizard",
-				"attributes": {
-					"adjacent": "Specific to Shelob.",
-					"draw": "1",
-					"region": "Under-deeps",
-					"auto_attack": "Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. Whenever you store an Artifact, Palantir, or Special Ring at this site, you may add a Rot marker to Southern Mirkwood or an adjacent region. Any attack against your companies keyed to this site is cancelled.",
-					"site_type": "{K}",
-					"playable": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
-					"drawOpponent": "1",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "theshelobsgreatpit_176.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-178": {
-				"id": "TS-178",
-				"set": "TS",
-				"name": {
-					"en": "The Slave Master",
-					"es": "El Maestro de Esclavos",
-					"de": "Name DE",
-					"fr": "The Slave Master",
-					"it": "The Slave Master",
-					"nl": "The Slave Master",
-					"fi": "The Slave Master",
-					"ja": "The Slave Master"},
-				"type": "Hazard",
-				"alignment": "Neutral",
-				"attributes": {
-					"unique": true,
-					"strikes": "1",
-					"marshallingPoints": "3",
-					"marshallingPointsType": "kill",
-					"prowess": "15/7",
-					"race": "Demon",
-					"subtype": "Creature",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Manifestation of Dûran. Playable at Tum-i-Cereg. One strike. May also be played after an Undead attack in Old Pûkel Gap, Old Pûkel Land, or a region with Rot. A character wounded by The Slave Master must discard an item they are carrying (the defender’s choice)."},
-				"quote": 
-					{"en": ""},
-				"image": "theslavemaster_178.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-205": {
-				"id": "TS-205",
+			"TS-187": {
+				"id": "TS-187",
 				"set": "TS",
 				"name": {
 					"en": "The Sulfur-deeps",
@@ -6498,12 +5917,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thesulfur-deeps_205.jpg",
+				"image": "thesulfur-deeps_187.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-219": {
-				"id": "TS-219",
+			"TS-201": {
+				"id": "TS-201",
 				"set": "TS",
 				"name": {
 					"en": "The Under-gates",
@@ -6532,12 +5951,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "theunder-gates_219.jpg",
+				"image": "theunder-gates_201.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-223": {
-				"id": "TS-223",
+			"TS-205": {
+				"id": "TS-205",
 				"set": "TS",
 				"name": {
 					"en": "The Unlight of Ungoliant",
@@ -6559,12 +5978,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen, an Aberration (other than Maeklog), or a Spider Leader in a Spiderhaven [K]. The character may use Shadow magic; increase his mind attribute by 1. Cannot be duplicated on the same character."},
 				"quote": 
 					{"en": "“A cloak of darkness she wove about them when Melkor and Ungoliant set forth: an Unlight, in which things seemed to be no more, and which eyes could not pierce, for it was void.” – Sil"},
-				"image": "theunlightofungoliant_223.jpg",
+				"image": "theunlightofungoliant_205.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-210": {
-				"id": "TS-210",
+			"TS-192": {
+				"id": "TS-192",
 				"set": "TS",
 				"name": {
 					"en": "Thirst of Power",
@@ -6585,12 +6004,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if she is in a Spiderhaven [K]. When you store a Special Ring (except The One Ring), a Palantír, or an item that is an Artifact, you may reduce its marshalling points by 1 to place a Rot marker in the region where the Spider Haven is keyed, or else already has, in a non-Coastal Sea [c] keyed to three regions away that is adjacent to a region with Rot. Cannot be duplicated."},
 				"quote": 
 					{"en": "“And still she thirsted, and going to the Wells of Varda she drank them dry…” – Sil"},
-				"image": "thirstofpower_210.jpg",
+				"image": "thirstofpower_192.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-211": {
-				"id": "TS-211",
+			"TS-193": {
+				"id": "TS-193",
 				"set": "TS",
 				"name": {
 					"en": "Tónn Varthkûr",
@@ -6620,12 +6039,12 @@
 					{"en": "Unique. Can use sorcery. +1 direct influence against any playable faction in Khand region."},
 				"quote": 
 					{"en": "“One of Sauron’s most versatile servants, equally adapted to the dark arts and the use of the sword, he maintained terrifying and efficient control of his armies.” – Kuduk Lore"},
-				"image": "tónnvarthkûr_211.jpg",
+				"image": "tónnvarthkûr_193.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-212": {
-				"id": "TS-212",
+			"TS-194": {
+				"id": "TS-194",
 				"set": "TS",
 				"name": {
 					"en": "Treats of the Lady",
@@ -6647,12 +6066,47 @@
 					{"en": "Unique. Spider Queen specific. You may start the game with this card in lieu of playing a minor item. Your deck may include and you are allowed to play any minion character (including agents) whose mind attribute is less than 5, even as a follower of a Spider Queen. Character may only be brought into play at his home site or at a Spiderhaven [K] if a Spider Queen is there."},
 				"quote": 
 					{"en": "“…but we left him alone: apparently he understands with the Lady.” – LotR II"},
-				"image": "treatsofthelady_212.jpg",
+				"image": "treatsofthelady_194.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-213": {
-				"id": "TS-213",
+			"TS-195": {
+				"id": "TS-195",
+				"set": "TS",
+				"name": {
+					"en": "Tum-i-Cereg",
+					"es": "Tum-i-Cereg",
+					"de": "Name DE",
+					"fr": "Tum-i-Cereg",
+					"it": "Tum-i-Cereg",
+					"nl": "Tum-i-Cereg",
+					"fi": "Tum-i-Cereg",
+					"ja": "Tum-i-Cereg"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Geann a-Lisch",
+					"draw": "1",
+					"region": "Old Pûkel Gap ",
+					"auto_attack": "Undead — 2 strikes with 8 prowess",
+					"site_type": "{R}",
+					"playable": "Items (Minor, Major*)",
+					"special": "*You may tap a Wose character at this site to allow the play of a Major item.",
+					"drawOpponent": "1",
+					"site_path": "{w}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“The Great Mound stands out among all the steep underground crypts in the mountains.” – Shadow Tribes"},
+				"image": "tum-i-cereg_195.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"TS-196": {
+				"id": "TS-196",
 				"set": "TS",
 				"name": {
 					"en": "Tum-i-Cereg",
@@ -6682,47 +6136,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Located in the mountains, in this place the Dunir buried their dead.” – Shadow Tribes"},
-				"image": "tum-i-cereg_213.jpg",
+				"image": "tum-i-cereg_196.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-214": {
-				"id": "TS-214",
-				"set": "TS",
-				"name": {
-					"en": "Tum-i-Cereg",
-					"es": "Tum-i-Cereg",
-					"de": "Name DE",
-					"fr": "Tum-i-Cereg",
-					"it": "Tum-i-Cereg",
-					"nl": "Tum-i-Cereg",
-					"fi": "Tum-i-Cereg",
-					"ja": "Tum-i-Cereg"},
-				"type": "Site",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"haven": "Geann a-Lisch",
-					"draw": "1",
-					"region": "Old Pûkel Gap ",
-					"auto_attack": "Undead — 2 strikes with 8 prowess",
-					"site_type": "{R}",
-					"playable": "Items (Minor, Major*)",
-					"special": "*At this site you may tap a Wose character to allow the play of a Major item.",
-					"drawOpponent": "1",
-					"site_path": "{w}{w}",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": "“The Great Mound stands out among all the steep underground crypts in the mountains.” – Shadow Tribes"},
-				"image": "tum-i-cereg_214.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"TS-215": {
-				"id": "TS-215",
+			"TS-197": {
+				"id": "TS-197",
 				"set": "TS",
 				"name": {
 					"en": "Tyqelian",
@@ -6752,12 +6171,12 @@
 					{"en": "Unique. Return to its owner’s hand on a body check result of 8. +1 to prowess if in the same company as Zimbrelian."},
 				"quote": 
 					{"en": "“They dwelt together in caves at the foot of the Wstrikee Mountains…” – Shadow Tribes"},
-				"image": "tyqelian_215.jpg",
+				"image": "tyqelian_197.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-216": {
-				"id": "TS-216",
+			"TS-198": {
+				"id": "TS-198",
 				"set": "TS",
 				"name": {
 					"en": "Ûgûlai",
@@ -6787,12 +6206,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ûgûlai_216.jpg",
+				"image": "Ûgûlai_198.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-217": {
-				"id": "TS-217",
+			"TS-199": {
+				"id": "TS-199",
 				"set": "TS",
 				"name": {
 					"en": "Ûgûlai",
@@ -6822,12 +6241,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ûgûlai_217.jpg",
+				"image": "Ûgûlai_199.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-218": {
-				"id": "TS-218",
+			"TS-200": {
+				"id": "TS-200",
 				"set": "TS",
 				"name": {
 					"en": "Úklurg",
@@ -6857,12 +6276,12 @@
 					{"en": "Unique. Uruk-hai. Discard on a body check result of 8. +2 direct influence against Spiders. If you are Shelob, Úklurg only requires 3 influence points to be controlled."},
 				"quote": 
 					{"en": "“Úklurg was in charge of providing food to the Cat, the only one who could occasionally get close…” – Shadow Tribes"},
-				"image": "Úklurg_218.jpg",
+				"image": "Úklurg_200.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-220": {
-				"id": "TS-220",
+			"TS-202": {
+				"id": "TS-202",
 				"set": "TS",
 				"name": {
 					"en": "Unglob",
@@ -6892,12 +6311,12 @@
 					{"en": "Unique. Manifestation of Immemorial Stone Queen. Unless she is one of the starting characters, she may only be brought into play at her home site. +1 prowess against Elves. +3 direct influence against Spiders, Woses, Spider factions, and Woses factions. +2 direct influence against the Mirkwood Spiders faction. Can use shadow-magic."},
 				"quote": 
 					{"en": "“She worships Drúedain fanatics, who bring her generous sacrifices in exchange for knowledge and protection.” – Shadow Tribes"},
-				"image": "unglob_220.jpg",
+				"image": "unglob_202.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-222": {
-				"id": "TS-222",
+			"TS-204": {
+				"id": "TS-204",
 				"set": "TS",
 				"name": {
 					"en": "Ungoliant´s Acolyte",
@@ -6925,12 +6344,12 @@
 					{"en": "Spider Queen specific. -1 to all corruption checks. Remove Ungoliant’s Acolyte from play to cancel a strike against an Aberration character or Spider Queen in her company."},
 				"quote": 
 					{"en": "“…members of secret cults who offered themselves as sacrifices to the ancient demon spiders.” – Shadow Tribes"},
-				"image": "ungoliantsacolyte_222.jpg",
+				"image": "ungoliantsacolyte_204.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-224": {
-				"id": "TS-224",
+			"TS-206": {
+				"id": "TS-206",
 				"set": "TS",
 				"name": {
 					"en": "Unnameable Filths",
@@ -6951,12 +6370,12 @@
 					{"en": "Spider Queen specific. Playable during the organization phase if your Spider Queen is in play. If an Aberration or Spider Leader is brought into play at her home site, place a Rot marker in the region in which that site is keyed."},
 				"quote": 
 					{"en": "“…but a foul reek, as if filth unnameable were piled and hoarded in the dark within.” - LotR II"},
-				"image": "unnameablefilths_224.jpg",
+				"image": "unnameablefilths_206.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-225": {
-				"id": "TS-225",
+			"TS-207": {
+				"id": "TS-207",
 				"set": "TS",
 				"name": {
 					"en": "Valley of Dreadful Dead",
@@ -6980,12 +6399,12 @@
 					{"en": "Unique. Playable on a faction or ally that has been played in a site keyed in a region with Rot. Halve (round up) the target faction or ally’s marchalling points. Discard if the Rot marker is removed or when any play deck is exhausted."},
 				"quote": 
 					{"en": "“...in that dark valley that was after called Nan Dungortheb, the Valley of Dreadful Death, because of the horror that she bred there. For other foul creatures of spider form had dwelt...” - Sil"},
-				"image": "valleyofdreadfuldead_225.jpg",
+				"image": "valleyofdreadfuldead_207.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-226": {
-				"id": "TS-226",
+			"TS-208": {
+				"id": "TS-208",
 				"set": "TS",
 				"name": {
 					"en": "Vassal of the Winds",
@@ -7012,12 +6431,12 @@
 					{"en": "Unique. Eagle. Manifestation of Landroval. Playable keyed in Eagle´s Eyrie or in some Ruins and Lairs [R] in Anduin Vales. You may discard the Vassal of the Winds to cancel a Nazgûl event that affects his company or an entity that is part of it."},
 				"quote": 
 					{"en": ""},
-				"image": "vassalofthewinds_226.jpg",
+				"image": "vassalofthewinds_208.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-227": {
-				"id": "TS-227",
+			"TS-209": {
+				"id": "TS-209",
 				"set": "TS",
 				"name": {
 					"en": "Vomit Darkness",
@@ -7039,12 +6458,12 @@
 					{"en": "Spider Queen specific. Playable on your Spider Queen if Gates of Morning is not in play. Your Spider Queen receives +3 to her general influence while in a region with Rot. If it is the first copy of Vomit Darkness in play, place a Rot marker in each non-Coast region that contains a Spiderhaven [K]. If it is not the first copy of Vomit Darkness in play, place a Rot marker in each non-Coast Sea adjacent to the region where that Spiderhaven [K] is keyed. Discard when Gates of Morning comes into play, if more than one copy of Vomit Darkness is in play, discard a single copy."},
 				"quote": 
 					{"en": "“…for all living things were her food, and her vomit darkness.” – LotR II"},
-				"image": "vomitdarkness_227.jpg",
+				"image": "vomitdarkness_209.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-228": {
-				"id": "TS-228",
+			"TS-210": {
+				"id": "TS-210",
 				"set": "TS",
 				"name": {
 					"en": "Vorsang",
@@ -7074,12 +6493,12 @@
 					{"en": "Unique. Manifestation of Spawn of Ungoliant. Unless she is one of the starting characters, she may only be brought into play at her home site. +1 prowess against Dúnedain. +1 direct influence against Spiders and Spider factions. All body checks resulting from failed strikes against Vorsang are modified by +1. When your company attacks in CvsCC, you always choose the defending characters regardless of any other cards played."},
 				"quote": 
 					{"en": "“Vorsang is one of the few large spiders that inhabit the depths of the Wstrikee Mountains.” – Shadow Tribes"},
-				"image": "vorsang_228.jpg",
+				"image": "vorsang_210.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-229": {
-				"id": "TS-229",
+			"TS-211": {
+				"id": "TS-211",
 				"set": "TS",
 				"name": {
 					"en": "Vorsang Famished",
@@ -7103,12 +6522,12 @@
 					{"en": "Unique. Manifestation of Spawn of Ungoliant. Playable at The Pûkel-deeps or The Gem-deeps if the influence check is greater than 12.Modifications: Spider Queen (+3), Bogbereth (+2), if you eliminate a character or prisoner in the company (+2), for every other Aberration faction in play (-2), any other character (-3).All Spawn attacks against any of your companies are considered detainment. Any company that moves into the Pûkel-deeps or The Gem-deeps faces one attack: Spawn, two strikes of 15/8 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "vorsangfamished_229.jpg",
+				"image": "vorsangfamished_211.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-230": {
-				"id": "TS-230",
+			"TS-212": {
+				"id": "TS-212",
 				"set": "TS",
 				"name": {
 					"en": "War-spider",
@@ -7132,12 +6551,12 @@
 					{"en": "Spider. Playable at a tapped or untapped Ruins and Lairs [R], that contains a Spider automatic attack. May tap to modify a body check made by the controlling character it by -1."},
 				"quote": 
 					{"en": "“In the end he poked his head above the roof of leaves, and then he found spiders...” – Hob"},
-				"image": "war-spider_230.jpg",
+				"image": "war-spider_212.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-231": {
-				"id": "TS-231",
+			"TS-213": {
+				"id": "TS-213",
 				"set": "TS",
 				"name": {
 					"en": "Weavering Spiders",
@@ -7163,12 +6582,12 @@
 					{"en": "Spiders. Three strikes. If a character body check (other than a Wizard or Ringwraith) wounded by the Weavering Spiders is equal to his body, the character is taken prisoner in a Ruins and Lairs site [R] in the same region (or an adjacent region) than the company’s new site. During the untap phase, the character must make a body check. If the character is not eliminated, and the result obtained is lower than his prowess, the character is rescued and forms a company at the rescue site. Rescue Attack: Spiders, 2 strikes of 8 prowess."},
 				"quote": 
 					{"en": ""},
-				"image": "weaveringspiders_231.jpg",
+				"image": "weaveringspiders_213.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-232": {
-				"id": "TS-232",
+			"TS-214": {
+				"id": "TS-214",
 				"set": "TS",
 				"name": {
 					"en": "Webs of Shadow",
@@ -7189,12 +6608,12 @@
 					{"en": "Spider Queen specific. Playable on a company if your Spider Queen is in play. During the organization phase you may take this card from your sideboard, and shuffle it into your play deck. All Ruins and Lairs [R] keyed in a Wilderness[w] gain the following automatic attack: Spider, 1 strike with prowess 6. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…weaving webs of shadow…” – LotR II"},
-				"image": "websofshadow_232.jpg",
+				"image": "websofshadow_214.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-233": {
-				"id": "TS-233",
+			"TS-215": {
+				"id": "TS-215",
 				"set": "TS",
 				"name": {
 					"en": "Wedegog",
@@ -7224,12 +6643,12 @@
 					{"en": "Unique. Discard on a body check result of 9. +2 direct influence against Trolls and Troll factions. +1 prowess against Men (+2 if a Wose)."},
 				"quote": 
 					{"en": "“…Chief of the trolls who ravaged the forests of the Eryn Vorn, but he had his true abode in The Mournshaws.” – Shadow Tribes"},
-				"image": "wedegog_233.jpg",
+				"image": "wedegog_215.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-234": {
-				"id": "TS-234",
+			"TS-216": {
+				"id": "TS-216",
 				"set": "TS",
 				"name": {
 					"en": "Wintirion Iaur",
@@ -7259,12 +6678,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“...a tower in which great books of the dark arts were kept.” – Shadow Tribes"},
-				"image": "wintirioniaur_234.jpg",
+				"image": "wintirioniaur_216.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-235": {
-				"id": "TS-235",
+			"TS-217": {
+				"id": "TS-217",
 				"set": "TS",
 				"name": {
 					"en": "Wintirion Iaur",
@@ -7293,12 +6712,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Wintirion Iaur keeps a door open for all who deserve it.” – Shadow Tribes"},
-				"image": "wintirioniaur_235.jpg",
+				"image": "wintirioniaur_217.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-236": {
-				"id": "TS-236",
+			"TS-218": {
+				"id": "TS-218",
 				"set": "TS",
 				"name": {
 					"en": "Wodûrishak",
@@ -7328,12 +6747,12 @@
 					{"en": "Unique. Olog-hai. Leader. Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +1 prowess against Dwarves and Elves."},
 				"quote": 
 					{"en": "“But the trolls are just an imposture, manufactured by the enemy in the Great Dark, a false imitation of the Ents…” – LotR II"},
-				"image": "wodûrishak_236.jpg",
+				"image": "wodûrishak_218.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-237": {
-				"id": "TS-237",
+			"TS-219": {
+				"id": "TS-219",
 				"set": "TS",
 				"name": {
 					"en": "Worshiper Wose",
@@ -7361,44 +6780,12 @@
 					{"en": "May be brought into play in a company of a Spider Queen player. -1 to all corruption checks. He counts as a half character for the purpose of calculating his company size. May be played from the discard pile as if he was in your hand."},
 				"quote": 
 					{"en": "“…through shamanic rituals they offered the demon spiders the sacrifice of their prey.” – Shadow Tribes"},
-				"image": "worshiperwose_237.jpg",
+				"image": "worshiperwose_219.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			},
-			"TS-238": {
-				"id": "TS-238",
-				"set": "TS",
-				"name": {
-					"en": "Ygana",
-					"es": "Ygana",
-					"de": "Name DE",
-					"fr": "Ygana",
-					"it": "Ygana",
-					"nl": "Ygana",
-					"fi": "Ygana",
-					"ja": "Ygana"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "7",
-					"prowess": "4",
-					"mind": "3",
-					"subtype": "Sage Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable at Hogo Tarosvan by a ranger with body greater than 9. Discard if your company moves to a site other than Lamedon, Lebennin, or a region with Rot. You may play Govern the Storms and can use Spirit-magic (ignore any corruption checks resulting from spirit-magic cards)."},
-				"quote": 
-					{"en": ""},
-				"image": "ygana_238.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E "
-			},
-			"TS-239": {
-				"id": "TS-239",
+			"TS-220": {
+				"id": "TS-220",
 				"set": "TS",
 				"name": {
 					"en": "Your Own Rules",
@@ -7421,44 +6808,12 @@
 					{"en": "Spider Queen specific. Playable during your organization phase on your marshalling point pile if your Spider Queen is in a Spiderhaven [K], your oponent is a minion player and you have more marshalling points than him. Cannot be duplicated in the same turn."},
 				"quote": 
 					{"en": ""},
-				"image": "yourownrules_239.jpg",
+				"image": "yourownrules_220.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-240": {
-				"id": "TS-240",
-				"set": "TS",
-				"name": {
-					"en": "Zaken",
-					"es": "Zaken",
-					"de": "Name DE",
-					"fr": "Zaken",
-					"it": "Zaken",
-					"nl": "Zaken",
-					"fi": "Zaken",
-					"ja": "Zaken"},
-				"type": "Resource",
-				"alignment": "Minion",
-				"attributes": {
-					"unique": true,
-					"marshallingPoints": "2",
-					"marshallingPointsType": "ally",
-					"body": "8",
-					"prowess": "4",
-					"mind": "3",
-					"subtype": "Diplomat Ally",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Demon. Playable at Wintirion Iaur by a diplomat with direct influence 3 or higher. Discard if your company moves to a site other than Dorwinion, Southern Rhovanion, or a region with Rot. May play Poisonous Despair (ignores any corruption checks). It may be discarded to take a Spirit Ring item from your side deck or discard pile and play it on the character who controls it."},
-				"quote": 
-					{"en": ""},
-				"image": "zaken_240.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E "
-			},
-			"TS-241": {
-				"id": "TS-241",
+			"TS-221": {
+				"id": "TS-221",
 				"set": "TS",
 				"name": {
 					"en": "Zimbrelian",
@@ -7488,7 +6843,7 @@
 					{"en": "Unique. Return to its owner’s hand on a body check result of 8. +1 to prowess if in the same company as Tyqelian."},
 				"quote": 
 					{"en": "“…and together they hunted and surprised their prey.” – Shadow Tribes"},
-				"image": "zimbrelian_241.jpg",
+				"image": "zimbrelian_221.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E "
 			}

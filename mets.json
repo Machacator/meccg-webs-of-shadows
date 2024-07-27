@@ -1,21 +1,21 @@
 {
-	"TS": {
-		"id": "TS",
+	"WS": {
+		"id": "WS",
 		"name": {
 			"en": "WEBS OF SHADOW",
 			"es": "TELAS DE SOMBRAS"},
 		"context": "Fanmade",
 		"extendsFromSetId": null,
-		"isReleased": true,
+		"isReleased": false,
 		"imageBaseUrl": {
 			"en": "https://github.com/Machacator/meccg-webs-of-shadows/tree/main/images_en/",
 			"es": "https://github.com/Machacator/meccg-webs-of-shadows/tree/main/images_es/" },
 		"cards": {
-			"TS-20": {
-				"id": "TS-20",
-				"set": "TS",
+			"WS-20": {
+				"id": "WS-20",
+				"set": "WS",
 				"name": {
-					"en": "Bogbereth",
+					"en": "<b>Bogbereth</b>",
 					"es": "Bogbereth",
 					"de": "Name DE",
 					"fr": "<b>Bogbereth</b>",
@@ -46,11 +46,11 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-51": {
-				"id": "TS-51",
-				"set": "TS",
+			"WS-51": {
+				"id": "WS-51",
+				"set": "WS",
 				"name": {
-					"en": "Dolomed",
+					"en": "<b>Dolomed</b>",
 					"es": "Dolomed",
 					"de": "Name DE",
 					"fr": "<b>Dolomed</b>",
@@ -81,11 +81,11 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-203": {
-				"id": "TS-203",
-				"set": "TS",
+			"WS-203": {
+				"id": "WS-203",
+				"set": "WS",
 				"name": {
-					"en": "Unglob Famished",
+					"en": "<b>Unglob Famished</b>",
 					"es": "Unglob Hambrienta",
 					"de": "Name DE",
 					"fr": "<b>Unglob Famished</b>",
@@ -110,9 +110,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-63": {
-				"id": "TS-63",
-				"set": "TS",
+			"WS-63": {
+				"id": "WS-63",
+				"set": "WS",
 				"name": {
 					"en": "A Fly in the Spider's Web",
 					"es": "Una Mosca en la Telaraña",
@@ -137,9 +137,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-72": {
-				"id": "TS-72",
-				"set": "TS",
+			"WS-72": {
+				"id": "WS-72",
+				"set": "WS",
 				"name": {
 					"en": "A Great Hoard",
 					"es": "Un Gran Botín",
@@ -163,9 +163,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-91": {
-				"id": "TS-91",
-				"set": "TS",
+			"WS-91": {
+				"id": "WS-91",
+				"set": "WS",
 				"name": {
 					"en": "A Knife in the Dark",
 					"es": "Un Cuchillo en la Oscuridad",
@@ -189,9 +189,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-137": {
-				"id": "TS-137",
-				"set": "TS",
+			"WS-137": {
+				"id": "WS-137",
+				"set": "WS",
 				"name": {
 					"en": "A Present",
 					"es": "Algún Juguete",
@@ -217,9 +217,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-178": {
-				"id": "TS-178",
-				"set": "TS",
+			"WS-178": {
+				"id": "WS-178",
+				"set": "WS",
 				"name": {
 					"en": "A Spy Among Us",
 					"es": "Un Espía entre Nosotros",
@@ -246,9 +246,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-180": {
-				"id": "TS-180",
-				"set": "TS",
+			"WS-180": {
+				"id": "WS-180",
+				"set": "WS",
 				"name": {
 					"en": "A Stench",
 					"es": "Hedor Repugnante",
@@ -272,9 +272,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-1": {
-				"id": "TS-1",
-				"set": "TS",
+			"WS-1": {
+				"id": "WS-1",
+				"set": "WS",
 				"name": {
 					"en": "After Meat",
 					"es": "Alimento para más Tarde",
@@ -298,9 +298,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-3": {
-				"id": "TS-3",
-				"set": "TS",
+			"WS-3": {
+				"id": "WS-3",
+				"set": "WS",
 				"name": {
 					"en": "Ailgarthas",
 					"es": "Ailgarthas",
@@ -327,9 +327,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-2": {
-				"id": "TS-2",
-				"set": "TS",
+			"WS-2": {
+				"id": "WS-2",
+				"set": "WS",
 				"name": {
 					"en": "Ailgarthas",
 					"es": "Ailgarthas",
@@ -356,9 +356,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-6": {
-				"id": "TS-6",
-				"set": "TS",
+			"WS-6": {
+				"id": "WS-6",
+				"set": "WS",
 				"name": {
 					"en": "Ancient Deep-hold",
 					"es": "Antigua Fortaleza Subterránea",
@@ -369,12 +369,12 @@
 					"fi": "Ancient Deep-hold",
 					"ja": "Ancient Deep-hold"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"unique": true,
 					"adjacent": "no surface site, one Underdeeps Ruins and Lairs [R] chosen by you when this card is played (5)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"underDeeps": true,
 					"auto_attack": "(1st) Undead — 4 strikes with 7 prowess;(2nd) Undead — 3 strikes with 8 prowess.Each character wounded must make a corruption check modified by -2.",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major)",
@@ -390,9 +390,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-7": {
-				"id": "TS-7",
-				"set": "TS",
+			"WS-7": {
+				"id": "WS-7",
+				"set": "WS",
 				"name": {
 					"en": "Angier than Ever",
 					"es": "Más Rabiosas que Nunca",
@@ -416,9 +416,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-8": {
-				"id": "TS-8",
-				"set": "TS",
+			"WS-8": {
+				"id": "WS-8",
+				"set": "WS",
 				"name": {
 					"en": "Angmarian Slayer",
 					"es": "Exterminador Angmariano",
@@ -448,9 +448,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-9": {
-				"id": "TS-9",
-				"set": "TS",
+			"WS-9": {
+				"id": "WS-9",
+				"set": "WS",
 				"name": {
 					"en": "Angry Gob",
 					"es": "Colérica Gob",
@@ -483,9 +483,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-10": {
-				"id": "TS-10",
-				"set": "TS",
+			"WS-10": {
+				"id": "WS-10",
+				"set": "WS",
 				"name": {
 					"en": "Arachnid Tunnels",
 					"es": "Túneles Arácnidos",
@@ -496,12 +496,12 @@
 					"fi": "Arachnid Tunnels",
 					"ja": "Arachnid Tunnels"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Spider Queen specific. A company may only move to this site if it contains a Spider Queen or an Aberration character, and only if it is in a Spiderhaven [K] located in a Underdeep site. Keep the Spiderhaven card with this card until it is discarded.",
 					"draw": "1",
-					"region": "Under-deeps",
+					"underDeeps": true,
 					"site_type": "{R}",
 					"playable": "Any surface site located in the same region (or an adjacent Rot region) as the Spiderhaven with this card (0)",
 					"drawOpponent": "1",
@@ -515,9 +515,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-11": {
-				"id": "TS-11",
-				"set": "TS",
+			"WS-11": {
+				"id": "WS-11",
+				"set": "WS",
 				"name": {
 					"en": "Army of Flies",
 					"es": "Ejército de Moscas",
@@ -543,9 +543,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-12": {
-				"id": "TS-12",
-				"set": "TS",
+			"WS-12": {
+				"id": "WS-12",
+				"set": "WS",
 				"name": {
 					"en": "Be Netted",
 					"es": "Echar las Redes Encima",
@@ -569,9 +569,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-13": {
-				"id": "TS-13",
-				"set": "TS",
+			"WS-13": {
+				"id": "WS-13",
+				"set": "WS",
 				"name": {
 					"en": "Bearers of the Light",
 					"es": "Portadores de Luz",
@@ -601,9 +601,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-14": {
-				"id": "TS-14",
-				"set": "TS",
+			"WS-14": {
+				"id": "WS-14",
+				"set": "WS",
 				"name": {
 					"en": "Belch Black Vapors",
 					"es": "Eructar Vapores Negros",
@@ -627,9 +627,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-15": {
-				"id": "TS-15",
-				"set": "TS",
+			"WS-15": {
+				"id": "WS-15",
+				"set": "WS",
 				"name": {
 					"en": "Belt of Rot",
 					"es": "Cinturón de Podredumbre",
@@ -659,9 +659,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-18": {
-				"id": "TS-18",
-				"set": "TS",
+			"WS-18": {
+				"id": "WS-18",
+				"set": "WS",
 				"name": {
 					"en": "Blisters of Decay",
 					"es": "Protuberancias de Podredumbre",
@@ -686,9 +686,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-19": {
-				"id": "TS-19",
-				"set": "TS",
+			"WS-19": {
+				"id": "WS-19",
+				"set": "WS",
 				"name": {
 					"en": "Bloodthirsty",
 					"es": "Sedienta de Sangre",
@@ -713,9 +713,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-21": {
-				"id": "TS-21",
-				"set": "TS",
+			"WS-21": {
+				"id": "WS-21",
+				"set": "WS",
 				"name": {
 					"en": "Boned Fish",
 					"es": "Peces Deshuesados",
@@ -740,9 +740,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-22": {
-				"id": "TS-22",
-				"set": "TS",
+			"WS-22": {
+				"id": "WS-22",
+				"set": "WS",
 				"name": {
 					"en": "Bring Good Food",
 					"es": "Traer Buena Comida",
@@ -768,9 +768,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-23": {
-				"id": "TS-23",
-				"set": "TS",
+			"WS-23": {
+				"id": "WS-23",
+				"set": "WS",
 				"name": {
 					"en": "Buhr Ailgra",
 					"es": "Buhr Ailgra",
@@ -803,9 +803,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-24": {
-				"id": "TS-24",
-				"set": "TS",
+			"WS-24": {
+				"id": "WS-24",
+				"set": "WS",
 				"name": {
 					"en": "Buhr Ailgra",
 					"es": "Buhr Ailgra",
@@ -838,9 +838,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-25": {
-				"id": "TS-25",
-				"set": "TS",
+			"WS-25": {
+				"id": "WS-25",
+				"set": "WS",
 				"name": {
 					"en": "Calassë the Oarni",
 					"es": "Calassë la Oarni",
@@ -868,9 +868,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-28": {
-				"id": "TS-28",
-				"set": "TS",
+			"WS-28": {
+				"id": "WS-28",
+				"set": "WS",
 				"name": {
 					"en": "Carvarad",
 					"es": "Carvarad",
@@ -903,9 +903,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-27": {
-				"id": "TS-27",
-				"set": "TS",
+			"WS-27": {
+				"id": "WS-27",
+				"set": "WS",
 				"name": {
 					"en": "Carvarad",
 					"es": "Carvarad",
@@ -938,9 +938,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-29": {
-				"id": "TS-29",
-				"set": "TS",
+			"WS-29": {
+				"id": "WS-29",
+				"set": "WS",
 				"name": {
 					"en": "Clear up the Stink",
 					"es": "Disipar el Hedor",
@@ -964,9 +964,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-30": {
-				"id": "TS-30",
-				"set": "TS",
+			"WS-30": {
+				"id": "WS-30",
+				"set": "WS",
 				"name": {
 					"en": "Cloak of Rot",
 					"es": "Manto de Podredumbre",
@@ -995,9 +995,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-31": {
-				"id": "TS-31",
-				"set": "TS",
+			"WS-31": {
+				"id": "WS-31",
+				"set": "WS",
 				"name": {
 					"en": "Crazy Cob",
 					"es": "Loca Cob",
@@ -1030,9 +1030,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-32": {
-				"id": "TS-32",
-				"set": "TS",
+			"WS-32": {
+				"id": "WS-32",
+				"set": "WS",
 				"name": {
 					"en": "Crazy Cobwebs",
 					"es": "Locas Telarañas",
@@ -1057,9 +1057,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-33": {
-				"id": "TS-33",
-				"set": "TS",
+			"WS-33": {
+				"id": "WS-33",
+				"set": "WS",
 				"name": {
 					"en": "Crystal Spider",
 					"es": "Araña de Cristal",
@@ -1090,9 +1090,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-34": {
-				"id": "TS-34",
-				"set": "TS",
+			"WS-34": {
+				"id": "WS-34",
+				"set": "WS",
 				"name": {
 					"en": "Cult of the Web",
 					"es": "Culto de la Red",
@@ -1118,9 +1118,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-35": {
-				"id": "TS-35",
-				"set": "TS",
+			"WS-35": {
+				"id": "WS-35",
+				"set": "WS",
 				"name": {
 					"en": "Cûm Taran",
 					"es": "Cûm Taran",
@@ -1152,9 +1152,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-36": {
-				"id": "TS-36",
-				"set": "TS",
+			"WS-36": {
+				"id": "WS-36",
+				"set": "WS",
 				"name": {
 					"en": "Cûm Taran",
 					"es": "Cûm Taran",
@@ -1186,9 +1186,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-37": {
-				"id": "TS-37",
-				"set": "TS",
+			"WS-37": {
+				"id": "WS-37",
+				"set": "WS",
 				"name": {
 					"en": "Cutt off from Light",
 					"es": "Alejar de Toda Luz",
@@ -1213,9 +1213,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-38": {
-				"id": "TS-38",
-				"set": "TS",
+			"WS-38": {
+				"id": "WS-38",
+				"set": "WS",
 				"name": {
 					"en": "Dark Velvety Butterflies",
 					"es": "Mariposas de Negro Aterciopelado",
@@ -1241,9 +1241,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-41": {
-				"id": "TS-41",
-				"set": "TS",
+			"WS-41": {
+				"id": "WS-41",
+				"set": "WS",
 				"name": {
 					"en": "Deeper and Denser Darkness",
 					"es": "Oscuridad Más Densa y Profunda",
@@ -1270,9 +1270,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-42": {
-				"id": "TS-42",
-				"set": "TS",
+			"WS-42": {
+				"id": "WS-42",
+				"set": "WS",
 				"name": {
 					"en": "Descendant of Thorondor",
 					"es": "Descendiente de Thorondor",
@@ -1302,9 +1302,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-43": {
-				"id": "TS-43",
-				"set": "TS",
+			"WS-43": {
+				"id": "WS-43",
+				"set": "WS",
 				"name": {
 					"en": "Desert Spiders",
 					"es": "Arañas del Desierto",
@@ -1333,9 +1333,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-44": {
-				"id": "TS-44",
-				"set": "TS",
+			"WS-44": {
+				"id": "WS-44",
+				"set": "WS",
 				"name": {
 					"en": "Destroy the Last Havens",
 					"es": "Destruir los Últimos Refugios",
@@ -1361,9 +1361,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-46": {
-				"id": "TS-46",
-				"set": "TS",
+			"WS-46": {
+				"id": "WS-46",
+				"set": "WS",
 				"name": {
 					"en": "Devam´s Shrine",
 					"es": "Altar de los Devam",
@@ -1396,9 +1396,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-45": {
-				"id": "TS-45",
-				"set": "TS",
+			"WS-45": {
+				"id": "WS-45",
+				"set": "WS",
 				"name": {
 					"en": "Devam´s Shrine",
 					"es": "Altar de los Devam",
@@ -1431,9 +1431,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-47": {
-				"id": "TS-47",
-				"set": "TS",
+			"WS-47": {
+				"id": "WS-47",
+				"set": "WS",
 				"name": {
 					"en": "Devour All Prowess",
 					"es": "Devorar Todo Poder",
@@ -1459,9 +1459,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-48": {
-				"id": "TS-48",
-				"set": "TS",
+			"WS-48": {
+				"id": "WS-48",
+				"set": "WS",
 				"name": {
 					"en": "Devour your Mates",
 					"es": "Devorar a sus Compañeros",
@@ -1485,9 +1485,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-49": {
-				"id": "TS-49",
-				"set": "TS",
+			"WS-49": {
+				"id": "WS-49",
+				"set": "WS",
 				"name": {
 					"en": "Dizzy and Sick",
 					"es": "Mareado y Enfermo",
@@ -1512,9 +1512,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-50": {
-				"id": "TS-50",
-				"set": "TS",
+			"WS-50": {
+				"id": "WS-50",
+				"set": "WS",
 				"name": {
 					"en": "Dol Guldur",
 					"es": "Dol Guldur",
@@ -1525,7 +1525,7 @@
 					"fi": "Dol Guldur",
 					"ja": "Dol Guldur"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"haven": "Specific to Enna San Sarab.",
 					"draw": "1",
@@ -1544,9 +1544,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-52": {
-				"id": "TS-52",
-				"set": "TS",
+			"WS-52": {
+				"id": "WS-52",
+				"set": "WS",
 				"name": {
 					"en": "Eagles at Home",
 					"es": "Águilas en Casa",
@@ -1574,9 +1574,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-53": {
-				"id": "TS-53",
-				"set": "TS",
+			"WS-53": {
+				"id": "WS-53",
+				"set": "WS",
 				"name": {
 					"en": "Eagoth",
 					"es": "Eagoth",
@@ -1609,9 +1609,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-54": {
-				"id": "TS-54",
-				"set": "TS",
+			"WS-54": {
+				"id": "WS-54",
+				"set": "WS",
 				"name": {
 					"en": "Eagoth Famished",
 					"es": "Eagoth Hambriento",
@@ -1638,9 +1638,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-55": {
-				"id": "TS-55",
-				"set": "TS",
+			"WS-55": {
+				"id": "WS-55",
+				"set": "WS",
 				"name": {
 					"en": "Elenion Ancalima!",
 					"es": "¡Elenion Ancalima!",
@@ -1663,11 +1663,11 @@
 					{"en": "“Aiya Eärendil Elenion Ancalima! -he cried, and knew not what he had spoken…” – LotR II"},
 				"image": "elenionancalima!_55.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-56": {
-				"id": "TS-56",
-				"set": "TS",
+			"WS-56": {
+				"id": "WS-56",
+				"set": "WS",
 				"name": {
 					"en": "Enna San Sarab",
 					"es": "Enna San Sarab",
@@ -1677,13 +1677,17 @@
 					"nl": "Enna San Sarab",
 					"fi": "Enna San Sarab",
 					"ja": "Enna San Sarab"},
-				"type": "Resource",
-				"alignment": "Stage",
+				"type": "Character",
+				"alignment": "Minion",
 				"attributes": {
 					"unique": true,
-					"prowess": "7/9",
+					"skills": "Scout/Ranger",
+					"body": "9",
+					"prowess": "7",
 					"homeSite": "The Sulfur-deeps",
+					"race": "Spider",
 					"directInfluence": "6",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -1694,9 +1698,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-57": {
-				"id": "TS-57",
-				"set": "TS",
+			"WS-57": {
+				"id": "WS-57",
+				"set": "WS",
 				"name": {
 					"en": "Ennerlings",
 					"es": "Ennerlingas",
@@ -1722,9 +1726,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-59": {
-				"id": "TS-59",
-				"set": "TS",
+			"WS-59": {
+				"id": "WS-59",
+				"set": "WS",
 				"name": {
 					"en": "Famished for a Long Time",
 					"es": "Hambrienta por Largo Tiempo",
@@ -1750,9 +1754,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-60": {
-				"id": "TS-60",
-				"set": "TS",
+			"WS-60": {
+				"id": "WS-60",
+				"set": "WS",
 				"name": {
 					"en": "Fastiqan",
 					"es": "Fastiqan",
@@ -1783,9 +1787,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-61": {
-				"id": "TS-61",
-				"set": "TS",
+			"WS-61": {
+				"id": "WS-61",
+				"set": "WS",
 				"name": {
 					"en": "Fastitocalón",
 					"es": "Fastitocalón",
@@ -1818,9 +1822,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-62": {
-				"id": "TS-62",
-				"set": "TS",
+			"WS-62": {
+				"id": "WS-62",
+				"set": "WS",
 				"name": {
 					"en": "Feast of Spiders",
 					"es": "Festín de Arañas",
@@ -1844,9 +1848,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-64": {
-				"id": "TS-64",
-				"set": "TS",
+			"WS-64": {
+				"id": "WS-64",
+				"set": "WS",
 				"name": {
 					"en": "Flying Deer",
 					"es": "Ciervo Volador",
@@ -1875,9 +1879,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-65": {
-				"id": "TS-65",
-				"set": "TS",
+			"WS-65": {
+				"id": "WS-65",
+				"set": "WS",
 				"name": {
 					"en": "Forest Spider",
 					"es": "Araña del Bosque",
@@ -1908,9 +1912,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-66": {
-				"id": "TS-66",
-				"set": "TS",
+			"WS-66": {
+				"id": "WS-66",
+				"set": "WS",
 				"name": {
 					"en": "Forest-drake",
 					"es": "Dragón del Bosque",
@@ -1939,9 +1943,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-67": {
-				"id": "TS-67",
-				"set": "TS",
+			"WS-67": {
+				"id": "WS-67",
+				"set": "WS",
 				"name": {
 					"en": "Foul Air",
 					"es": "Aire Viciado",
@@ -1966,9 +1970,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-68": {
-				"id": "TS-68",
-				"set": "TS",
+			"WS-68": {
+				"id": "WS-68",
+				"set": "WS",
 				"name": {
 					"en": "Geann a-Lisch",
 					"es": "Geann a-Lisch",
@@ -1979,7 +1983,7 @@
 					"fi": "Geann a-Lisch",
 					"ja": "Geann a-Lisch"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"unique": true,
 					"draw": "2",
@@ -1999,9 +2003,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-69": {
-				"id": "TS-69",
-				"set": "TS",
+			"WS-69": {
+				"id": "WS-69",
+				"set": "WS",
 				"name": {
 					"en": "Gelob",
 					"es": "Gelob",
@@ -2034,9 +2038,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-70": {
-				"id": "TS-70",
-				"set": "TS",
+			"WS-70": {
+				"id": "WS-70",
+				"set": "WS",
 				"name": {
 					"en": "Get Away from the Stink",
 					"es": "Alejarse del Hedor",
@@ -2060,9 +2064,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-71": {
-				"id": "TS-71",
-				"set": "TS",
+			"WS-71": {
+				"id": "WS-71",
+				"set": "WS",
 				"name": {
 					"en": "Gildagor",
 					"es": "Gildagor",
@@ -2073,7 +2077,7 @@
 					"fi": "Gildagor",
 					"ja": "Gildagor"},
 				"type": "Resource",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
 					"corruption": "2",
@@ -2091,9 +2095,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-73": {
-				"id": "TS-73",
-				"set": "TS",
+			"WS-73": {
+				"id": "WS-73",
+				"set": "WS",
 				"name": {
 					"en": "Great Spider",
 					"es": "Gran Araña",
@@ -2123,9 +2127,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-74": {
-				"id": "TS-74",
-				"set": "TS",
+			"WS-74": {
+				"id": "WS-74",
+				"set": "WS",
 				"name": {
 					"en": "Gwethil",
 					"es": "Gwethil",
@@ -2158,9 +2162,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-75": {
-				"id": "TS-75",
-				"set": "TS",
+			"WS-75": {
+				"id": "WS-75",
+				"set": "WS",
 				"name": {
 					"en": "Haleth Keusan",
 					"es": "Haleth Keusan",
@@ -2193,9 +2197,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-76": {
-				"id": "TS-76",
-				"set": "TS",
+			"WS-76": {
+				"id": "WS-76",
+				"set": "WS",
 				"name": {
 					"en": "Harry Goatleaf",
 					"es": "Herri Madreselva",
@@ -2224,9 +2228,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-77": {
-				"id": "TS-77",
-				"set": "TS",
+			"WS-77": {
+				"id": "WS-77",
+				"set": "WS",
 				"name": {
 					"en": "Hasharin Slayer",
 					"es": "Exterminador Hasharin",
@@ -2256,9 +2260,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-80": {
-				"id": "TS-80",
-				"set": "TS",
+			"WS-80": {
+				"id": "WS-80",
+				"set": "WS",
 				"name": {
 					"en": "Haven for its Lesser Brood",
 					"es": "Refugio para sus Retoños",
@@ -2282,9 +2286,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-81": {
-				"id": "TS-81",
-				"set": "TS",
+			"WS-81": {
+				"id": "WS-81",
+				"set": "WS",
 				"name": {
 					"en": "Helm of Rot",
 					"es": "Yelmo de Podredumbre",
@@ -2312,11 +2316,11 @@
 					{"en": ""},
 				"image": "helmofrot_81.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-82": {
-				"id": "TS-82",
-				"set": "TS",
+			"WS-82": {
+				"id": "WS-82",
+				"set": "WS",
 				"name": {
 					"en": "Her Orders",
 					"es": "Órdenes de Ella",
@@ -2341,9 +2345,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-83": {
-				"id": "TS-83",
-				"set": "TS",
+			"WS-83": {
+				"id": "WS-83",
+				"set": "WS",
 				"name": {
 					"en": "Hogo Tarosvan",
 					"es": "Hogo Tarosvan",
@@ -2376,9 +2380,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-84": {
-				"id": "TS-84",
-				"set": "TS",
+			"WS-84": {
+				"id": "WS-84",
+				"set": "WS",
 				"name": {
 					"en": "Hogo Tarosvan",
 					"es": "Hogo Tarosvan",
@@ -2411,9 +2415,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-85": {
-				"id": "TS-85",
-				"set": "TS",
+			"WS-85": {
+				"id": "WS-85",
+				"set": "WS",
 				"name": {
 					"en": "Ice Spider",
 					"es": "Araña de Hielo",
@@ -2444,9 +2448,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-88": {
-				"id": "TS-88",
-				"set": "TS",
+			"WS-88": {
+				"id": "WS-88",
+				"set": "WS",
 				"name": {
 					"en": "Immemorial Stone Queen",
 					"es": "Reina Pétrea Inmemorial",
@@ -2474,9 +2478,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-89": {
-				"id": "TS-89",
-				"set": "TS",
+			"WS-89": {
+				"id": "WS-89",
+				"set": "WS",
 				"name": {
 					"en": "Interfering with Her",
 					"es": "Los Asuntos de Ella",
@@ -2501,9 +2505,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-90": {
-				"id": "TS-90",
-				"set": "TS",
+			"WS-90": {
+				"id": "WS-90",
+				"set": "WS",
 				"name": {
 					"en": "Ivory Scepter",
 					"es": "Cetro de Marfil",
@@ -2532,9 +2536,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-92": {
-				"id": "TS-92",
-				"set": "TS",
+			"WS-92": {
+				"id": "WS-92",
+				"set": "WS",
 				"name": {
 					"en": "Know the Forest",
 					"es": "Conocer el Bosque",
@@ -2558,9 +2562,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-93": {
-				"id": "TS-93",
-				"set": "TS",
+			"WS-93": {
+				"id": "WS-93",
+				"set": "WS",
 				"name": {
 					"en": "Layer of Evil Growth",
 					"es": "Capa de Excrecencia Maligna",
@@ -2584,9 +2588,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-94": {
-				"id": "TS-94",
-				"set": "TS",
+			"WS-94": {
+				"id": "WS-94",
+				"set": "WS",
 				"name": {
 					"en": "Lazy Lob",
 					"es": "Perezosa Lob",
@@ -2619,9 +2623,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-95": {
-				"id": "TS-95",
-				"set": "TS",
+			"WS-95": {
+				"id": "WS-95",
+				"set": "WS",
 				"name": {
 					"en": "Leave in Will",
 					"es": "Dejar en Testamento",
@@ -2646,9 +2650,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-96": {
-				"id": "TS-96",
-				"set": "TS",
+			"WS-96": {
+				"id": "WS-96",
+				"set": "WS",
 				"name": {
 					"en": "Lhingril",
 					"es": "Lhingril",
@@ -2681,9 +2685,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-97": {
-				"id": "TS-97",
-				"set": "TS",
+			"WS-97": {
+				"id": "WS-97",
+				"set": "WS",
 				"name": {
 					"en": "Lhingril Famished",
 					"es": "Lhingril Hambrienta",
@@ -2710,9 +2714,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-98": {
-				"id": "TS-98",
-				"set": "TS",
+			"WS-98": {
+				"id": "WS-98",
+				"set": "WS",
 				"name": {
 					"en": "Long Venomous Hiss",
 					"es": "Silbido Largo y Venenoso",
@@ -2736,9 +2740,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-99": {
-				"id": "TS-99",
-				"set": "TS",
+			"WS-99": {
+				"id": "WS-99",
+				"set": "WS",
 				"name": {
 					"en": "Lord of the Wargs",
 					"es": "El Señor de los Huargos",
@@ -2768,9 +2772,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-100": {
-				"id": "TS-100",
-				"set": "TS",
+			"WS-100": {
+				"id": "WS-100",
+				"set": "WS",
 				"name": {
 					"en": "Lotho Sackville",
 					"es": "Lotho Sacovilla",
@@ -2802,9 +2806,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-101": {
-				"id": "TS-101",
-				"set": "TS",
+			"WS-101": {
+				"id": "WS-101",
+				"set": "WS",
 				"name": {
 					"en": "Maeklog",
 					"es": "Maeklog",
@@ -2837,9 +2841,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-102": {
-				"id": "TS-102",
-				"set": "TS",
+			"WS-102": {
+				"id": "WS-102",
+				"set": "WS",
 				"name": {
 					"en": "Maeklog Famished",
 					"es": "Maeklog Hambriento",
@@ -2866,9 +2870,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-103": {
-				"id": "TS-103",
-				"set": "TS",
+			"WS-103": {
+				"id": "WS-103",
+				"set": "WS",
 				"name": {
 					"en": "Maleficent Will",
 					"es": "Voluntad Maléfica",
@@ -2892,9 +2896,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-104": {
-				"id": "TS-104",
-				"set": "TS",
+			"WS-104": {
+				"id": "WS-104",
+				"set": "WS",
 				"name": {
 					"en": "Malice Bent upon Him",
 					"es": "Envuelta en Maldad",
@@ -2918,9 +2922,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-105": {
-				"id": "TS-105",
-				"set": "TS",
+			"WS-105": {
+				"id": "WS-105",
+				"set": "WS",
 				"name": {
 					"en": "Many Exits",
 					"es": "Numerosas Salidas",
@@ -2944,9 +2948,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-106": {
-				"id": "TS-106",
-				"set": "TS",
+			"WS-106": {
+				"id": "WS-106",
+				"set": "WS",
 				"name": {
 					"en": "Marhcara",
 					"es": "Marhcara",
@@ -2979,9 +2983,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-107": {
-				"id": "TS-107",
-				"set": "TS",
+			"WS-107": {
+				"id": "WS-107",
+				"set": "WS",
 				"name": {
 					"en": "Mating Season",
 					"es": "Época de Apareamiento",
@@ -3005,9 +3009,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-108": {
-				"id": "TS-108",
-				"set": "TS",
+			"WS-108": {
+				"id": "WS-108",
+				"set": "WS",
 				"name": {
 					"en": "Mirkwood Under His Rule",
 					"es": "El Bosque Negro bajo su Dominio",
@@ -3033,9 +3037,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-109": {
-				"id": "TS-109",
-				"set": "TS",
+			"WS-109": {
+				"id": "WS-109",
+				"set": "WS",
 				"name": {
 					"en": "Mist Wargs",
 					"es": "Huargos de las Brumas",
@@ -3065,9 +3069,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-110": {
-				"id": "TS-110",
-				"set": "TS",
+			"WS-110": {
+				"id": "WS-110",
+				"set": "WS",
 				"name": {
 					"en": "More Turns and Turns",
 					"es": "Vueltas y Más Vueltas",
@@ -3089,11 +3093,11 @@
 					{"en": ""},
 				"image": "moreturnsandturns_110.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-111": {
-				"id": "TS-111",
-				"set": "TS",
+			"WS-111": {
+				"id": "WS-111",
+				"set": "WS",
 				"name": {
 					"en": "Morfanwen",
 					"es": "Morfanwen",
@@ -3121,9 +3125,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-112": {
-				"id": "TS-112",
-				"set": "TS",
+			"WS-112": {
+				"id": "WS-112",
+				"set": "WS",
 				"name": {
 					"en": "Morgul Spider",
 					"es": "Araña de Morgul",
@@ -3155,9 +3159,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-113": {
-				"id": "TS-113",
-				"set": "TS",
+			"WS-113": {
+				"id": "WS-113",
+				"set": "WS",
 				"name": {
 					"en": "Mountain´s Eagle",
 					"es": "Águila de las Montañas",
@@ -3187,9 +3191,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-114": {
-				"id": "TS-114",
-				"set": "TS",
+			"WS-114": {
+				"id": "WS-114",
+				"set": "WS",
 				"name": {
 					"en": "Mr. Otho",
 					"es": "Señor Otho",
@@ -3219,9 +3223,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-115": {
-				"id": "TS-115",
-				"set": "TS",
+			"WS-115": {
+				"id": "WS-115",
+				"set": "WS",
 				"name": {
 					"en": "Mur-Grishi Slayer",
 					"es": "Exterminador Mur-Grishi",
@@ -3251,9 +3255,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-116": {
-				"id": "TS-116",
-				"set": "TS",
+			"WS-116": {
+				"id": "WS-116",
+				"set": "WS",
 				"name": {
 					"en": "My Cat",
 					"es": "Mi Gata",
@@ -3279,9 +3283,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-117": {
-				"id": "TS-117",
-				"set": "TS",
+			"WS-117": {
+				"id": "WS-117",
+				"set": "WS",
 				"name": {
 					"en": "Nan Dungortheb Spider",
 					"es": "Araña de Nan Dungortheb",
@@ -3313,9 +3317,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-118": {
-				"id": "TS-118",
-				"set": "TS",
+			"WS-118": {
+				"id": "WS-118",
+				"set": "WS",
 				"name": {
 					"en": "Nan Dungortheb´s Torment ",
 					"es": "Tormento de Nan Dungortheb",
@@ -3343,9 +3347,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-119": {
-				"id": "TS-119",
-				"set": "TS",
+			"WS-119": {
+				"id": "WS-119",
+				"set": "WS",
 				"name": {
 					"en": "Nen Falastir",
 					"es": "Nen Falastir",
@@ -3378,9 +3382,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-120": {
-				"id": "TS-120",
-				"set": "TS",
+			"WS-120": {
+				"id": "WS-120",
+				"set": "WS",
 				"name": {
 					"en": "Nen Falastir",
 					"es": "Nen Falastir",
@@ -3413,9 +3417,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-121": {
-				"id": "TS-121",
-				"set": "TS",
+			"WS-121": {
+				"id": "WS-121",
+				"set": "WS",
 				"name": {
 					"en": "Never Hurt Before",
 					"es": "Nunca antes Herida",
@@ -3439,9 +3443,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-122": {
-				"id": "TS-122",
-				"set": "TS",
+			"WS-122": {
+				"id": "WS-122",
+				"set": "WS",
 				"name": {
 					"en": "Nîn-in-Eilph",
 					"es": "Nîn-in-Eilph",
@@ -3474,9 +3478,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-123": {
-				"id": "TS-123",
-				"set": "TS",
+			"WS-123": {
+				"id": "WS-123",
+				"set": "WS",
 				"name": {
 					"en": "Nîn-in-Eilph",
 					"es": "Nîn-in-Eilph",
@@ -3509,9 +3513,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-124": {
-				"id": "TS-124",
-				"set": "TS",
+			"WS-124": {
+				"id": "WS-124",
+				"set": "WS",
 				"name": {
 					"en": "Obtained Knowledge",
 					"es": "Conocimientos Adquiridos",
@@ -3522,7 +3526,7 @@
 					"fi": "Obtained Knowledge",
 					"ja": "Obtained Knowledge"},
 				"type": "Resource",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"marshallingPoints": "(2)",
 					"marshallingPointsType": "miscellaneous",
@@ -3537,9 +3541,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-125": {
-				"id": "TS-125",
-				"set": "TS",
+			"WS-125": {
+				"id": "WS-125",
+				"set": "WS",
 				"name": {
 					"en": "Old Forest Road",
 					"es": "Camino Viejo del Bosque",
@@ -3550,7 +3554,7 @@
 					"fi": "Old Forest Road",
 					"ja": "Old Forest Road"},
 				"type": "Resource",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"subtype": "Permanent-event",
 					"spawn": false,
@@ -3563,9 +3567,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-126": {
-				"id": "TS-126",
-				"set": "TS",
+			"WS-126": {
+				"id": "WS-126",
+				"set": "WS",
 				"name": {
 					"en": "Old Pob",
 					"es": "Vieja Pob",
@@ -3598,9 +3602,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-127": {
-				"id": "TS-127",
-				"set": "TS",
+			"WS-127": {
+				"id": "WS-127",
+				"set": "WS",
 				"name": {
 					"en": "One Big Stride",
 					"es": "Una Gran Zancada",
@@ -3624,9 +3628,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-128": {
-				"id": "TS-128",
-				"set": "TS",
+			"WS-128": {
+				"id": "WS-128",
+				"set": "WS",
 				"name": {
 					"en": "Oracle Forest",
 					"es": "Bosque del Oráculo",
@@ -3659,9 +3663,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-129": {
-				"id": "TS-129",
-				"set": "TS",
+			"WS-129": {
+				"id": "WS-129",
+				"set": "WS",
 				"name": {
 					"en": "Oracle Forest",
 					"es": "Bosque del Oráculo",
@@ -3694,9 +3698,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-130": {
-				"id": "TS-130",
-				"set": "TS",
+			"WS-130": {
+				"id": "WS-130",
+				"set": "WS",
 				"name": {
 					"en": "Orc Slave",
 					"es": "Orco Esclavo",
@@ -3714,7 +3718,7 @@
 					"body": "7",
 					"prowess": "1",
 					"homeSite": "any Spider Haven",
-					"race": "",
+					"race": "Orc",
 					"mind": "1",
 					"directInfluence": "0",
 					"spawn": false,
@@ -3727,9 +3731,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-131": {
-				"id": "TS-131",
-				"set": "TS",
+			"WS-131": {
+				"id": "WS-131",
+				"set": "WS",
 				"name": {
 					"en": "Paralyzing Poison",
 					"es": "Veneno Paralizante",
@@ -3755,9 +3759,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-133": {
-				"id": "TS-133",
-				"set": "TS",
+			"WS-133": {
+				"id": "WS-133",
+				"set": "WS",
 				"name": {
 					"en": "Parth Iaur",
 					"es": "Parth Iaur",
@@ -3790,9 +3794,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-132": {
-				"id": "TS-132",
-				"set": "TS",
+			"WS-132": {
+				"id": "WS-132",
+				"set": "WS",
 				"name": {
 					"en": "Parth Iaur",
 					"es": "Parth Iaur",
@@ -3825,9 +3829,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-134": {
-				"id": "TS-134",
-				"set": "TS",
+			"WS-134": {
+				"id": "WS-134",
+				"set": "WS",
 				"name": {
 					"en": "Poppy Goodbody",
 					"es": "Amapola Tallabuena",
@@ -3861,9 +3865,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-135": {
-				"id": "TS-135",
-				"set": "TS",
+			"WS-135": {
+				"id": "WS-135",
+				"set": "WS",
 				"name": {
 					"en": "Portik",
 					"es": "Portik",
@@ -3897,9 +3901,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-136": {
-				"id": "TS-136",
-				"set": "TS",
+			"WS-136": {
+				"id": "WS-136",
+				"set": "WS",
 				"name": {
 					"en": "Powers of Night",
 					"es": "Potestades de la Noche",
@@ -3923,9 +3927,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-138": {
-				"id": "TS-138",
-				"set": "TS",
+			"WS-138": {
+				"id": "WS-138",
+				"set": "WS",
 				"name": {
 					"en": "Presents for the Lady",
 					"es": "Regalos para la Señora",
@@ -3952,9 +3956,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-139": {
-				"id": "TS-139",
-				"set": "TS",
+			"WS-139": {
+				"id": "WS-139",
+				"set": "WS",
 				"name": {
 					"en": "Prophet of Dungortheb",
 					"es": "Profeta de Dungortheb",
@@ -3987,9 +3991,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-140": {
-				"id": "TS-140",
-				"set": "TS",
+			"WS-140": {
+				"id": "WS-140",
+				"set": "WS",
 				"name": {
 					"en": "Rauko",
 					"es": "Rauko",
@@ -4022,9 +4026,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-141": {
-				"id": "TS-141",
-				"set": "TS",
+			"WS-141": {
+				"id": "WS-141",
+				"set": "WS",
 				"name": {
 					"en": "Resting Island",
 					"es": "Isla del Descanso",
@@ -4057,9 +4061,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-142": {
-				"id": "TS-142",
-				"set": "TS",
+			"WS-142": {
+				"id": "WS-142",
+				"set": "WS",
 				"name": {
 					"en": "Resting Island",
 					"es": "Isla del Descanso",
@@ -4092,9 +4096,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-144": {
-				"id": "TS-144",
-				"set": "TS",
+			"WS-144": {
+				"id": "WS-144",
+				"set": "WS",
 				"name": {
 					"en": "Rómenost",
 					"es": "Rómenost",
@@ -4127,9 +4131,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-143": {
-				"id": "TS-143",
-				"set": "TS",
+			"WS-143": {
+				"id": "WS-143",
+				"set": "WS",
 				"name": {
 					"en": "Rómenost",
 					"es": "Rómenost",
@@ -4162,9 +4166,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-145": {
-				"id": "TS-145",
-				"set": "TS",
+			"WS-145": {
+				"id": "WS-145",
+				"set": "WS",
 				"name": {
 					"en": "Saenathra",
 					"es": "Saenathra",
@@ -4197,9 +4201,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-146": {
-				"id": "TS-146",
-				"set": "TS",
+			"WS-146": {
+				"id": "WS-146",
+				"set": "WS",
 				"name": {
 					"en": "Saenathra Famished",
 					"es": "Saenathra Hambrienta",
@@ -4226,9 +4230,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-147": {
-				"id": "TS-147",
-				"set": "TS",
+			"WS-147": {
+				"id": "WS-147",
+				"set": "WS",
 				"name": {
 					"en": "Samwise",
 					"es": "Samsagaz",
@@ -4260,9 +4264,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-148": {
-				"id": "TS-148",
-				"set": "TS",
+			"WS-148": {
+				"id": "WS-148",
+				"set": "WS",
 				"name": {
 					"en": "Sangarunya",
 					"es": "Sangarunya",
@@ -4295,9 +4299,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-149": {
-				"id": "TS-149",
-				"set": "TS",
+			"WS-149": {
+				"id": "WS-149",
+				"set": "WS",
 				"name": {
 					"en": "Serve Yourself",
 					"es": "Servirse a sí Misma",
@@ -4322,9 +4326,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-150": {
-				"id": "TS-150",
-				"set": "TS",
+			"WS-150": {
+				"id": "WS-150",
+				"set": "WS",
 				"name": {
 					"en": "Shadow Slayer",
 					"es": "Exterminador Sombrío",
@@ -4354,9 +4358,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-151": {
-				"id": "TS-151",
-				"set": "TS",
+			"WS-151": {
+				"id": "WS-151",
+				"set": "WS",
 				"name": {
 					"en": "She Evil Creature",
 					"es": "Ella Criatura Maligna",
@@ -4383,9 +4387,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-152": {
-				"id": "TS-152",
-				"set": "TS",
+			"WS-152": {
+				"id": "WS-152",
+				"set": "WS",
 				"name": {
 					"en": "She the Great",
 					"es": "Ella la Grande",
@@ -4412,9 +4416,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-153": {
-				"id": "TS-153",
-				"set": "TS",
+			"WS-153": {
+				"id": "WS-153",
+				"set": "WS",
 				"name": {
 					"en": "She the Watcher",
 					"es": "Ella la Vigía",
@@ -4441,9 +4445,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-154": {
-				"id": "TS-154",
-				"set": "TS",
+			"WS-154": {
+				"id": "WS-154",
+				"set": "WS",
 				"name": {
 					"en": "She Weaver of Evil",
 					"es": "Ella Tejedora de Maldad",
@@ -4470,9 +4474,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-155": {
-				"id": "TS-155",
-				"set": "TS",
+			"WS-155": {
+				"id": "WS-155",
+				"set": "WS",
 				"name": {
 					"en": "Shelob",
 					"es": "Ella-laraña",
@@ -4482,13 +4486,17 @@
 					"nl": "Shelob",
 					"fi": "Shelob",
 					"ja": "Shelob"},
-				"type": "Resource",
-				"alignment": "Stage",
+				"type": "Character",
+				"alignment": "Minion",
 				"attributes": {
 					"unique": true,
-					"prowess": "9/9",
+					"skills": "Scout/Sage",
+					"body": "9",
+					"prowess": "9",
 					"homeSite": "The Shelob´s Great Pit",
+					"race": "Spider",
 					"directInfluence": "4",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -4499,9 +4507,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-156": {
-				"id": "TS-156",
-				"set": "TS",
+			"WS-156": {
+				"id": "WS-156",
+				"set": "WS",
 				"name": {
 					"en": "Shelob's Lair ",
 					"es": "El Antro de Ella-laraña",
@@ -4512,7 +4520,7 @@
 					"fi": "Shelob's Lair ",
 					"ja": "Shelob's Lair "},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"haven": "Specific to Shelob.",
 					"draw": "1",
@@ -4530,9 +4538,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-160": {
-				"id": "TS-160",
-				"set": "TS",
+			"WS-160": {
+				"id": "WS-160",
+				"set": "WS",
 				"name": {
 					"en": "Site-lore",
 					"es": "Conocimiento de los Lugares",
@@ -4543,7 +4551,7 @@
 					"fi": "Site-lore",
 					"ja": "Site-lore"},
 				"type": "Resource",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"corruption": "2",
 					"subtype": "Permanent-event",
@@ -4557,9 +4565,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-161": {
-				"id": "TS-161",
-				"set": "TS",
+			"WS-161": {
+				"id": "WS-161",
+				"set": "WS",
 				"name": {
 					"en": "Slime Blood",
 					"es": "Sangre Limosa",
@@ -4583,9 +4591,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-162": {
-				"id": "TS-162",
-				"set": "TS",
+			"WS-162": {
+				"id": "WS-162",
+				"set": "WS",
 				"name": {
 					"en": "Sneak",
 					"es": "Fisgón",
@@ -4619,9 +4627,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-163": {
-				"id": "TS-163",
-				"set": "TS",
+			"WS-163": {
+				"id": "WS-163",
+				"set": "WS",
 				"name": {
 					"en": "Snow Spiders",
 					"es": "Arañas de la Nieve",
@@ -4650,9 +4658,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-164": {
-				"id": "TS-164",
-				"set": "TS",
+			"WS-164": {
+				"id": "WS-164",
+				"set": "WS",
 				"name": {
 					"en": "Spider Horn Necklace",
 					"es": "Collar de Cuerno de Araña",
@@ -4682,9 +4690,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-165": {
-				"id": "TS-165",
-				"set": "TS",
+			"WS-165": {
+				"id": "WS-165",
+				"set": "WS",
 				"name": {
 					"en": "Spider Mount",
 					"es": "Montura de Araña",
@@ -4709,9 +4717,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-166": {
-				"id": "TS-166",
-				"set": "TS",
+			"WS-166": {
+				"id": "WS-166",
+				"set": "WS",
 				"name": {
 					"en": "Spider Subjugator",
 					"es": "Subyugador de Arañas",
@@ -4742,9 +4750,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-167": {
-				"id": "TS-167",
-				"set": "TS",
+			"WS-167": {
+				"id": "WS-167",
+				"set": "WS",
 				"name": {
 					"en": "Spider Venom",
 					"es": "Veneno de Araña",
@@ -4770,9 +4778,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-168": {
-				"id": "TS-168",
-				"set": "TS",
+			"WS-168": {
+				"id": "WS-168",
+				"set": "WS",
 				"name": {
 					"en": "Spider Web",
 					"es": "Telaraña",
@@ -4796,9 +4804,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-169": {
-				"id": "TS-169",
-				"set": "TS",
+			"WS-169": {
+				"id": "WS-169",
+				"set": "WS",
 				"name": {
 					"en": "Spiders of Dol Guldur",
 					"es": "Arañas de Dol Guldur",
@@ -4825,9 +4833,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-170": {
-				"id": "TS-170",
-				"set": "TS",
+			"WS-170": {
+				"id": "WS-170",
+				"set": "WS",
 				"name": {
 					"en": "Spiderslayer",
 					"es": "Matarañas",
@@ -4854,9 +4862,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-171": {
-				"id": "TS-171",
-				"set": "TS",
+			"WS-171": {
+				"id": "WS-171",
+				"set": "WS",
 				"name": {
 					"en": "Spider´s Clear",
 					"es": "Claro de las Arañas",
@@ -4889,9 +4897,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-172": {
-				"id": "TS-172",
-				"set": "TS",
+			"WS-172": {
+				"id": "WS-172",
+				"set": "WS",
 				"name": {
 					"en": "Spider´s Clear",
 					"es": "Claro de las Arañas",
@@ -4924,9 +4932,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-173": {
-				"id": "TS-173",
-				"set": "TS",
+			"WS-173": {
+				"id": "WS-173",
+				"set": "WS",
 				"name": {
 					"en": "Spider´s Colony",
 					"es": "Colonia de Arañas",
@@ -4950,9 +4958,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-175": {
-				"id": "TS-175",
-				"set": "TS",
+			"WS-175": {
+				"id": "WS-175",
+				"set": "WS",
 				"name": {
 					"en": "Spider´s Den",
 					"es": "Cubil de Arañas",
@@ -4984,9 +4992,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-174": {
-				"id": "TS-174",
-				"set": "TS",
+			"WS-174": {
+				"id": "WS-174",
+				"set": "WS",
 				"name": {
 					"en": "Spider´s Den",
 					"es": "Cubil de Arañas",
@@ -5019,9 +5027,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-176": {
-				"id": "TS-176",
-				"set": "TS",
+			"WS-176": {
+				"id": "WS-176",
+				"set": "WS",
 				"name": {
 					"en": "Spittle of Venom",
 					"es": "Saliva Venenosa",
@@ -5046,9 +5054,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-177": {
-				"id": "TS-177",
-				"set": "TS",
+			"WS-177": {
+				"id": "WS-177",
+				"set": "WS",
 				"name": {
 					"en": "Spreading through Mirkwood",
 					"es": "Esparcirse por el Bosque Negro",
@@ -5074,9 +5082,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-179": {
-				"id": "TS-179",
-				"set": "TS",
+			"WS-179": {
+				"id": "WS-179",
+				"set": "WS",
 				"name": {
 					"en": "Starling Sound",
 					"es": "Sonido Sobrecogedor",
@@ -5101,9 +5109,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-181": {
-				"id": "TS-181",
-				"set": "TS",
+			"WS-181": {
+				"id": "WS-181",
+				"set": "WS",
 				"name": {
 					"en": "Stinger",
 					"es": "Aguijón",
@@ -5133,9 +5141,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-183": {
-				"id": "TS-183",
-				"set": "TS",
+			"WS-183": {
+				"id": "WS-183",
+				"set": "WS",
 				"name": {
 					"en": "Stone Pit",
 					"es": "Foso de Piedras",
@@ -5168,9 +5176,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-182": {
-				"id": "TS-182",
-				"set": "TS",
+			"WS-182": {
+				"id": "WS-182",
+				"set": "WS",
 				"name": {
 					"en": "Stone Pit",
 					"es": "Foso de Piedras",
@@ -5203,9 +5211,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-184": {
-				"id": "TS-184",
-				"set": "TS",
+			"WS-184": {
+				"id": "WS-184",
+				"set": "WS",
 				"name": {
 					"en": "Stone Spider",
 					"es": "Araña de Piedra",
@@ -5236,9 +5244,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-185": {
-				"id": "TS-185",
-				"set": "TS",
+			"WS-185": {
+				"id": "WS-185",
+				"set": "WS",
 				"name": {
 					"en": "Stone Thrower",
 					"es": "Lanzador de Piedras",
@@ -5267,9 +5275,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-186": {
-				"id": "TS-186",
-				"set": "TS",
+			"WS-186": {
+				"id": "WS-186",
+				"set": "WS",
 				"name": {
 					"en": "Strangling Dark Net",
 					"es": "Red Oscura Asfixiante",
@@ -5293,9 +5301,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-188": {
-				"id": "TS-188",
-				"set": "TS",
+			"WS-188": {
+				"id": "WS-188",
+				"set": "WS",
 				"name": {
 					"en": "Surrounded by Spiders",
 					"es": "Rodeado por Arañas",
@@ -5319,9 +5327,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-189": {
-				"id": "TS-189",
-				"set": "TS",
+			"WS-189": {
+				"id": "WS-189",
+				"set": "WS",
 				"name": {
 					"en": "Swamp Spider",
 					"es": "Araña del Pantano",
@@ -5352,9 +5360,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-190": {
-				"id": "TS-190",
-				"set": "TS",
+			"WS-190": {
+				"id": "WS-190",
+				"set": "WS",
 				"name": {
 					"en": "Swarming Spiders",
 					"es": "Arañas Trepadoras",
@@ -5383,9 +5391,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-191": {
-				"id": "TS-191",
-				"set": "TS",
+			"WS-191": {
+				"id": "WS-191",
+				"set": "WS",
 				"name": {
 					"en": "Sweeter Meat",
 					"es": "Una Carne más Delicada",
@@ -5409,9 +5417,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-4": {
-				"id": "TS-4",
-				"set": "TS",
+			"WS-4": {
+				"id": "WS-4",
+				"set": "WS",
 				"name": {
 					"en": "The Ancestral Grottos",
 					"es": "Las Grutas Ancestrales",
@@ -5427,7 +5435,8 @@
 					"unique": true,
 					"adjacent": "Nen Falastir (0), Shelob´s Great Pit (6), The Igneous Grottos (5)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Harondor",
+					"underDeeps": true,
 					"auto_attack": "1st Pûkel Creature — 1 strike with prowess 11;2nd The opponent may play a hazard creature from their hand that is not unique and can normally be placed in a Shadow-hold [S] ] ].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
@@ -5443,9 +5452,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-5": {
-				"id": "TS-5",
-				"set": "TS",
+			"WS-5": {
+				"id": "WS-5",
+				"set": "WS",
 				"name": {
 					"en": "The Ancestral Grottos",
 					"es": "Las Grutas Ancestrales",
@@ -5456,12 +5465,13 @@
 					"fi": "The Ancestral Grottos",
 					"ja": "The Ancestral Grottos"},
 				"type": "Site",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Nen Falastir (0), Shelob´s Great Pit (6), The Igneous Grottos (5)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Harondor",
+					"underDeeps": true,
 					"auto_attack": "1st Pûkel Creature — 2 strike with prowess 11;2nd The opponent may play a hazard creature from their hand that is not unique and can normally be placed in a Shadow-hold []S].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
@@ -5477,9 +5487,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-16": {
-				"id": "TS-16",
-				"set": "TS",
+			"WS-16": {
+				"id": "WS-16",
+				"set": "WS",
 				"name": {
 					"en": "The Best of Her Progeny",
 					"es": "La Mejor de su Progenie",
@@ -5505,9 +5515,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-17": {
-				"id": "TS-17",
-				"set": "TS",
+			"WS-17": {
+				"id": "WS-17",
+				"set": "WS",
 				"name": {
 					"en": "The Betrayal of Smeagol",
 					"es": "La Traición de Smeagol",
@@ -5532,9 +5542,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-26": {
-				"id": "TS-26",
-				"set": "TS",
+			"WS-26": {
+				"id": "WS-26",
+				"set": "WS",
 				"name": {
 					"en": "The Call of the Nest",
 					"es": "La Llamada del Nido",
@@ -5558,9 +5568,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-39": {
-				"id": "TS-39",
-				"set": "TS",
+			"WS-39": {
+				"id": "WS-39",
+				"set": "WS",
 				"name": {
 					"en": "The Deafening Grottos",
 					"es": "Las Grutas Atronadoras",
@@ -5571,12 +5581,13 @@
 					"fi": "The Deafening Grottos",
 					"ja": "The Deafening Grottos"},
 				"type": "Site",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Cûm Taran (0), The Sparkling Grottoes (7), The Under-stones (7)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Belfalas",
+					"underDeeps": true,
 					"auto_attack": "1st Undead — 3 strike with prowess 9;2nd The opponent can play an hazard creature from his hand that is not unique and can normally be keyed to a Shadow-hold [[S ]]].",
 					"site_type": "{R}",
 					"playable": "Information, Items (Minor, Major)",
@@ -5592,9 +5603,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-40": {
-				"id": "TS-40",
-				"set": "TS",
+			"WS-40": {
+				"id": "WS-40",
+				"set": "WS",
 				"name": {
 					"en": "The Deafening Grottos",
 					"es": "Las Grutas Atronadoras",
@@ -5610,7 +5621,8 @@
 					"unique": true,
 					"adjacent": "Cûm Taran (0), The Sparkling Grottos (8), The Stone Undergrounds (7)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Belfalas",
+					"underDeeps": true,
 					"auto_attack": "1st Undead — 3 strike with prowess 9;2nd The opponent can play a hazard creature from his hand that is not unique and can normally be keyed to a Shadow-hold [[S]].",
 					"site_type": "{R}",
 					"playable": "Information, Items (Minor, Major)",
@@ -5626,9 +5638,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-58": {
-				"id": "TS-58",
-				"set": "TS",
+			"WS-58": {
+				"id": "WS-58",
+				"set": "WS",
 				"name": {
 					"en": "The Eye of the Enemy",
 					"es": "El Ojo del Enemigo",
@@ -5653,9 +5665,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-78": {
-				"id": "TS-78",
-				"set": "TS",
+			"WS-78": {
+				"id": "WS-78",
+				"set": "WS",
 				"name": {
 					"en": "The Haunted Grottos",
 					"es": "Las Grutas Encantadas",
@@ -5666,12 +5678,13 @@
 					"fi": "The Haunted Grottos",
 					"ja": "The Haunted Grottos"},
 				"type": "Site",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Tum-i-Cereg (0), The Sparkling Grottos (7)",
 					"draw": "2",
-					"region": "Under-deeps",
+					"region": "Old Pûkel Gap",
+					"underDeeps": true,
 					"auto_attack": "1st Pûkel Creature — 2 strikes with prowess 11;2nd The opponent may play an hazard creature from his hand that is not unique normally be keyed to a Shadow-hold [S]].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
@@ -5687,9 +5700,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-79": {
-				"id": "TS-79",
-				"set": "TS",
+			"WS-79": {
+				"id": "WS-79",
+				"set": "WS",
 				"name": {
 					"en": "The Haunted Grottos",
 					"es": "Las Grutas Encantadas",
@@ -5705,7 +5718,8 @@
 					"unique": true,
 					"adjacent": "Tum-i-Cereg (0), The Sparkling Grottos (8)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Old Pûkel Gap",
+					"underDeeps": true,
 					"auto_attack": "1st Pûkel Creature — 2 strikes with prowess 11;2nd The opponent may play an hazard creature from his hand that is not unique normally be keyed to a Shadow-hold [S]]].",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major, Gold Rings)",
@@ -5721,9 +5735,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-87": {
-				"id": "TS-87",
-				"set": "TS",
+			"WS-87": {
+				"id": "WS-87",
+				"set": "WS",
 				"name": {
 					"en": "The Igneous Grottos",
 					"es": "Las Grutas Ígneas",
@@ -5734,12 +5748,13 @@
 					"fi": "The Igneous Grottos",
 					"ja": "The Igneous Grottos"},
 				"type": "Site",
-				"alignment": "Hero",
+				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (7), The Ancestral Grottos (6)",
 					"draw": "2",
-					"region": "Under-deeps",
+					"region": "Khand",
+					"underDeeps": true,
 					"auto_attack": "1st Maia. Demon (Fire Spirit) — 1 strike with prowess 15, cannot be canceled, any wounded character is eliminated; 2nd The opponent may play a hazard creature from his hand that is not unique and may normally be placed in Ruins and Lairs [R].",
 					"site_type": "{S}",
 					"playable": "Information, Items (Minor, Major)",
@@ -5755,9 +5770,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-86": {
-				"id": "TS-86",
-				"set": "TS",
+			"WS-86": {
+				"id": "WS-86",
+				"set": "WS",
 				"name": {
 					"en": "The Igneous Grottos",
 					"es": "Las Grutas Ígneas",
@@ -5773,7 +5788,8 @@
 					"unique": true,
 					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (6), The Ancestral Grottos (5)",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Khand",
+					"underDeeps": true,
 					"auto_attack": "1st Maia. Demon (Fire Spirit) — 1 strike with prowess 15, cannot be canceled, any wounded character is eliminated;2nd The opponent may play an hazard creature from his hand that is not unique and may normally be keyed to a Ruins and Lairs [[R] ]].",
 					"site_type": "{R}",
 					"playable": "Information, Items (Minor, Major)",
@@ -5789,9 +5805,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-157": {
-				"id": "TS-157",
-				"set": "TS",
+			"WS-157": {
+				"id": "WS-157",
+				"set": "WS",
 				"name": {
 					"en": "The Shelob´s Great Pit",
 					"es": "El Gran Foso de Ella",
@@ -5802,11 +5818,12 @@
 					"fi": "The Shelob´s Great Pit",
 					"ja": "The Shelob´s Great Pit"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"adjacent": "Specific to Shelob.",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Imlad Morgul",
+					"underDeeps": true,
 					"auto_attack": "Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. Whenever you store an Artifact, Palantir, or Special Ring at this site, you may add a Rot marker to Southern Mirkwood or an adjacent region. Any attack against your companies keyed to this site is cancelled.",
 					"site_type": "{K}",
 					"playable": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
@@ -5821,9 +5838,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-159": {
-				"id": "TS-159",
-				"set": "TS",
+			"WS-159": {
+				"id": "WS-159",
+				"set": "WS",
 				"name": {
 					"en": "The Shelob´s Great Pit",
 					"es": "El Gran Foso de Ella",
@@ -5839,7 +5856,8 @@
 					"unique": true,
 					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
 					"draw": "2",
-					"region": "Under-deeps",
+					"region": "Imlad Morgul",
+					"underDeeps": true,
 					"auto_attack": "(1º) Spiders — 3 strikes with 8 prowess;(2º) Spider Queen (cannot be canceled) — 1 strike with 16 prowess; any character wounded is immediately eliminated.",
 					"site_type": "{S}",
 					"playable": "Items (Minor, Major, Greater)",
@@ -5855,9 +5873,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-158": {
-				"id": "TS-158",
-				"set": "TS",
+			"WS-158": {
+				"id": "WS-158",
+				"set": "WS",
 				"name": {
 					"en": "The Shelob´s Great Pit",
 					"es": "El Gran Foso de Ella",
@@ -5873,7 +5891,8 @@
 					"unique": true,
 					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (7), The Under-galleries (7), The Under-stones (11)",
 					"draw": "2",
-					"region": "Under-deeps",
+					"region": "Imlad Morgul",
+					"underDeeps": true,
 					"auto_attack": "(1º) Spiders — 3 strikes with 8 prowess;(2º) Spider Queen (cannot be canceled) — 1 strike with 16 prowess; any character wounded is immediately eliminated.",
 					"site_type": "{S}",
 					"playable": "Items (Minor, Major, Greater)",
@@ -5889,9 +5908,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-187": {
-				"id": "TS-187",
-				"set": "TS",
+			"WS-187": {
+				"id": "WS-187",
+				"set": "WS",
 				"name": {
 					"en": "The Sulfur-deeps",
 					"es": "Las Profundidades Sulfurosas",
@@ -5902,11 +5921,12 @@
 					"fi": "The Sulfur-deeps",
 					"ja": "The Sulfur-deeps"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"adjacent": "Specific to Enna San Sarab.",
 					"draw": "1",
-					"region": "Under-deeps",
+					"region": "Southern Mirkwood",
+					"underDeeps": true,
 					"auto_attack": "Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. Whenever you store an Artifact, Palantir, or Special Ring at this site, you may add a Rot marker to Southern Mirkwood or an adjacent region. Any attack against your companies in this site is cancelled.",
 					"site_type": "{K}",
 					"playable": "Dol Guldur (0), Underground Lake (6), The Under-galleries (8), The Moss-deeps (6), The Pûkel-deeps (8), The Under-gates (6), The Under-courts (8)",
@@ -5921,9 +5941,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-201": {
-				"id": "TS-201",
-				"set": "TS",
+			"WS-201": {
+				"id": "WS-201",
+				"set": "WS",
 				"name": {
 					"en": "The Under-gates",
 					"es": "Las Puertas de las Profundidades",
@@ -5934,12 +5954,13 @@
 					"fi": "The Under-gates",
 					"ja": "The Under-gates"},
 				"type": "Site",
-				"alignment": "Fallen-wizard",
+				"alignment": "Spider Queen",
 				"attributes": {
 					"unique": true,
 					"adjacent": "Moria (0), The Gem-deeps (6), The Sulfur-deeps (5), The Under-leas (5), The Under-grottos (7)",
 					"draw": "2",
-					"region": "Under-deeps",
+					"region": "Redhorn Gate",
+					"underDeeps": true,
 					"auto_attack": "(1º) Spiders — 3 strikes with 8 prowess;(2º) Spider Queen (cannot be canceled) — 1 strike with 16 prowess; any character wounded is automatically eliminated.",
 					"site_type": "{S}",
 					"playable": "Items (Minor, Major, Gold Ring)",
@@ -5955,9 +5976,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-205": {
-				"id": "TS-205",
-				"set": "TS",
+			"WS-205": {
+				"id": "WS-205",
+				"set": "WS",
 				"name": {
 					"en": "The Unlight of Ungoliant",
 					"es": "La No-Luz de Ungoliant",
@@ -5982,9 +6003,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-192": {
-				"id": "TS-192",
-				"set": "TS",
+			"WS-192": {
+				"id": "WS-192",
+				"set": "WS",
 				"name": {
 					"en": "Thirst of Power",
 					"es": "Sed de Poder",
@@ -6008,9 +6029,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-193": {
-				"id": "TS-193",
-				"set": "TS",
+			"WS-193": {
+				"id": "WS-193",
+				"set": "WS",
 				"name": {
 					"en": "Tónn Varthkûr",
 					"es": "Tónn Varthkûr",
@@ -6043,9 +6064,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-194": {
-				"id": "TS-194",
-				"set": "TS",
+			"WS-194": {
+				"id": "WS-194",
+				"set": "WS",
 				"name": {
 					"en": "Treats of the Lady",
 					"es": "Tratos de la Señora",
@@ -6070,9 +6091,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-195": {
-				"id": "TS-195",
-				"set": "TS",
+			"WS-195": {
+				"id": "WS-195",
+				"set": "WS",
 				"name": {
 					"en": "Tum-i-Cereg",
 					"es": "Tum-i-Cereg",
@@ -6088,7 +6109,7 @@
 					"unique": true,
 					"haven": "Geann a-Lisch",
 					"draw": "1",
-					"region": "Old Pûkel Gap ",
+					"region": "Old Pûkel Gap",
 					"auto_attack": "Undead — 2 strikes with 8 prowess",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major*)",
@@ -6105,9 +6126,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-196": {
-				"id": "TS-196",
-				"set": "TS",
+			"WS-196": {
+				"id": "WS-196",
+				"set": "WS",
 				"name": {
 					"en": "Tum-i-Cereg",
 					"es": "Tum-i-Cereg",
@@ -6123,7 +6144,7 @@
 					"unique": true,
 					"haven": "Edhellond",
 					"draw": "1",
-					"region": "Old Pûkel Gap ",
+					"region": "Old Pûkel Gap",
 					"auto_attack": "Undead — 2 strikes with 8 prowess",
 					"site_type": "{R}",
 					"playable": "Items (Minor, Major*)",
@@ -6140,9 +6161,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-197": {
-				"id": "TS-197",
-				"set": "TS",
+			"WS-197": {
+				"id": "WS-197",
+				"set": "WS",
 				"name": {
 					"en": "Tyqelian",
 					"es": "Tyqelian",
@@ -6175,9 +6196,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-198": {
-				"id": "TS-198",
-				"set": "TS",
+			"WS-198": {
+				"id": "WS-198",
+				"set": "WS",
 				"name": {
 					"en": "Ûgûlai",
 					"es": "Ûgûlai",
@@ -6210,9 +6231,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-199": {
-				"id": "TS-199",
-				"set": "TS",
+			"WS-199": {
+				"id": "WS-199",
+				"set": "WS",
 				"name": {
 					"en": "Ûgûlai",
 					"es": "Ûgûlai",
@@ -6245,9 +6266,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-200": {
-				"id": "TS-200",
-				"set": "TS",
+			"WS-200": {
+				"id": "WS-200",
+				"set": "WS",
 				"name": {
 					"en": "Úklurg",
 					"es": "Úklurg",
@@ -6280,9 +6301,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-202": {
-				"id": "TS-202",
-				"set": "TS",
+			"WS-202": {
+				"id": "WS-202",
+				"set": "WS",
 				"name": {
 					"en": "Unglob",
 					"es": "Unglob",
@@ -6315,9 +6336,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-204": {
-				"id": "TS-204",
-				"set": "TS",
+			"WS-204": {
+				"id": "WS-204",
+				"set": "WS",
 				"name": {
 					"en": "Ungoliant´s Acolyte",
 					"es": "Acólito de Ungoliant",
@@ -6348,9 +6369,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-206": {
-				"id": "TS-206",
-				"set": "TS",
+			"WS-206": {
+				"id": "WS-206",
+				"set": "WS",
 				"name": {
 					"en": "Unnameable Filths",
 					"es": "Indecibles Inmundicias",
@@ -6374,9 +6395,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-207": {
-				"id": "TS-207",
-				"set": "TS",
+			"WS-207": {
+				"id": "WS-207",
+				"set": "WS",
 				"name": {
 					"en": "Valley of Dreadful Dead",
 					"es": "Valle de la Muerte Terrible",
@@ -6403,9 +6424,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-208": {
-				"id": "TS-208",
-				"set": "TS",
+			"WS-208": {
+				"id": "WS-208",
+				"set": "WS",
 				"name": {
 					"en": "Vassal of the Winds",
 					"es": "Vasallo de los Vientos",
@@ -6435,9 +6456,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-209": {
-				"id": "TS-209",
-				"set": "TS",
+			"WS-209": {
+				"id": "WS-209",
+				"set": "WS",
 				"name": {
 					"en": "Vomit Darkness",
 					"es": "Vomitar Oscuridad",
@@ -6460,11 +6481,11 @@
 					{"en": "“…for all living things were her food, and her vomit darkness.” – LotR II"},
 				"image": "vomitdarkness_209.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-210": {
-				"id": "TS-210",
-				"set": "TS",
+			"WS-210": {
+				"id": "WS-210",
+				"set": "WS",
 				"name": {
 					"en": "Vorsang",
 					"es": "Vorsang",
@@ -6495,11 +6516,11 @@
 					{"en": "“Vorsang is one of the few large spiders that inhabit the depths of the Wstrikee Mountains.” – Shadow Tribes"},
 				"image": "vorsang_210.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-211": {
-				"id": "TS-211",
-				"set": "TS",
+			"WS-211": {
+				"id": "WS-211",
+				"set": "WS",
 				"name": {
 					"en": "Vorsang Famished",
 					"es": "Vorsang Hambrienta",
@@ -6524,11 +6545,11 @@
 					{"en": ""},
 				"image": "vorsangfamished_211.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-212": {
-				"id": "TS-212",
-				"set": "TS",
+			"WS-212": {
+				"id": "WS-212",
+				"set": "WS",
 				"name": {
 					"en": "War-spider",
 					"es": "Araña Guerrera",
@@ -6555,9 +6576,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-213": {
-				"id": "TS-213",
-				"set": "TS",
+			"WS-213": {
+				"id": "WS-213",
+				"set": "WS",
 				"name": {
 					"en": "Weavering Spiders",
 					"es": "Arañas Tejedoras",
@@ -6586,9 +6607,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-214": {
-				"id": "TS-214",
-				"set": "TS",
+			"WS-214": {
+				"id": "WS-214",
+				"set": "WS",
 				"name": {
 					"en": "Webs of Shadow",
 					"es": "Telas de Sombra",
@@ -6605,16 +6626,16 @@
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Spider Queen specific. Playable on a company if your Spider Queen is in play. During the organization phase you may take this card from your sideboard, and shuffle it into your play deck. All Ruins and Lairs [R] keyed in a Wilderness[w] gain the following automatic attack: Spider, 1 strike with prowess 6. Cannot be duplicated."},
+					{"en": "Spider Queen specific. Playable on a company if your Spider Queen is in play. During the organization phase you may take this card from your sideboard, and shuffle it into your play deck. All Ruins and Lairs [R] keyed in a Wilderness[w] gain the following automatic attack: Spider, 1 strike 6 with prowess. Cannot be duplicated."},
 				"quote": 
 					{"en": "“…weaving webs of shadow…” – LotR II"},
 				"image": "websofshadow_214.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-215": {
-				"id": "TS-215",
-				"set": "TS",
+			"WS-215": {
+				"id": "WS-215",
+				"set": "WS",
 				"name": {
 					"en": "Wedegog",
 					"es": "Wedegog",
@@ -6645,11 +6666,11 @@
 					{"en": "“…Chief of the trolls who ravaged the forests of the Eryn Vorn, but he had his true abode in The Mournshaws.” – Shadow Tribes"},
 				"image": "wedegog_215.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-216": {
-				"id": "TS-216",
-				"set": "TS",
+			"WS-216": {
+				"id": "WS-216",
+				"set": "WS",
 				"name": {
 					"en": "Wintirion Iaur",
 					"es": "Wintirion Iaur",
@@ -6680,11 +6701,11 @@
 					{"en": "“...a tower in which great books of the dark arts were kept.” – Shadow Tribes"},
 				"image": "wintirioniaur_216.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-217": {
-				"id": "TS-217",
-				"set": "TS",
+			"WS-217": {
+				"id": "WS-217",
+				"set": "WS",
 				"name": {
 					"en": "Wintirion Iaur",
 					"es": "Wintirion Iaur",
@@ -6714,11 +6735,11 @@
 					{"en": "“Wintirion Iaur keeps a door open for all who deserve it.” – Shadow Tribes"},
 				"image": "wintirioniaur_217.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-218": {
-				"id": "TS-218",
-				"set": "TS",
+			"WS-218": {
+				"id": "WS-218",
+				"set": "WS",
 				"name": {
 					"en": "Wodûrishak",
 					"es": "Wodûrishak",
@@ -6749,11 +6770,11 @@
 					{"en": "“But the trolls are just an imposture, manufactured by the enemy in the Great Dark, a false imitation of the Ents…” – LotR II"},
 				"image": "wodûrishak_218.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-219": {
-				"id": "TS-219",
-				"set": "TS",
+			"WS-219": {
+				"id": "WS-219",
+				"set": "WS",
 				"name": {
 					"en": "Worshiper Wose",
 					"es": "Adorador Wose",
@@ -6782,11 +6803,11 @@
 					{"en": "“…through shamanic rituals they offered the demon spiders the sacrifice of their prey.” – Shadow Tribes"},
 				"image": "worshiperwose_219.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			},
-			"TS-220": {
-				"id": "TS-220",
-				"set": "TS",
+			"WS-220": {
+				"id": "WS-220",
+				"set": "WS",
 				"name": {
 					"en": "Your Own Rules",
 					"es": "Tus Propias Reglas",
@@ -6812,9 +6833,9 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"TS-221": {
-				"id": "TS-221",
-				"set": "TS",
+			"WS-221": {
+				"id": "WS-221",
+				"set": "WS",
 				"name": {
 					"en": "Zimbrelian",
 					"es": "Zimbrelian",
@@ -6845,7 +6866,7 @@
 					{"en": "“…and together they hunted and surprised their prey.” – Shadow Tribes"},
 				"image": "zimbrelian_221.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E "
+				"artist": "DALL·E"
 			}
 		},
 		"order": 99 

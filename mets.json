@@ -5553,7 +5553,7 @@
 				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
-					"adjacent": "Nen Falastir (0), Shelob´s Great Pit (6), The Igneous Grottos (5)",
+					"adjacent": "Nen Falastir (0), Shelob´s Great Pit (6), The Igneous Grottos (6)",
 					"draw": "1",
 					"region": "Harondor",
 					"underDeeps": true,
@@ -5704,7 +5704,7 @@
 				"alignment": "Dual",
 				"attributes": {
 					"unique": true,
-					"adjacent": "Cûm Taran (0), The Sparkling Grottoes (7), The Under-stones (7)",
+					"adjacent": "Cûm Taran (0), The Sparkling Grottos (7), The Under-stones (7)",
 					"draw": "1",
 					"region": "Belfalas",
 					"underDeeps": true,
@@ -5871,7 +5871,7 @@
 				"alignment": "Balrog",
 				"attributes": {
 					"unique": true,
-					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (6), The Ancestral Grottos (5)",
+					"adjacent": "Devam´s Shrine (0), Shelob´s Great Pit (7), The Ancestral Grottos (5)",
 					"draw": "1",
 					"region": "Khand",
 					"underDeeps": true,
@@ -5906,7 +5906,7 @@
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
-					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
+					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (7), The Under-galleries (6), The Under-stones (11), The Ancestral Grottos (6)",
 					"draw": "2",
 					"region": "Imlad Morgul",
 					"underDeeps": true,
@@ -5941,7 +5941,7 @@
 				"alignment": "Balrog",
 				"attributes": {
 					"unique": true,
-					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (7), The Under-galleries (7), The Under-stones (11)",
+					"adjacent": "Shelob´s Lair (0), The Igneous Grottos (7), The Under-galleries (7), The Under-stones (11), The Ancestral Grottos (6)",
 					"draw": "2",
 					"region": "Imlad Morgul",
 					"underDeeps": true,
@@ -5981,7 +5981,7 @@
 					"underDeeps": true,
 					"auto_attack": "Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3. Whenever you store an Artifact, Palantir, or Special Ring at this site, you may add a Rot marker to Southern Mirkwood or an adjacent region. Any attack against your companies keyed to this site is cancelled.",
 					"site_type": "{K}",
-					"playable": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11)",
+					"playable": "Shelob´s Lair (0), The Igneous Grottos (6), The Under-galleries (6), The Under-stones (11), The Ancestral Grottos (6)",
 					"drawOpponent": "1",
 					"spawn": false,
 					"keywords": ["-"]},
